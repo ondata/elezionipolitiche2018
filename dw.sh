@@ -75,3 +75,6 @@ csvgrep <./votantiSIprovince_tmp.csv -c "livello" -r "^2$" >./votantiSIComuni.cs
 csvgrep <./votantiSIprovince_tmp.csv -c "livello" -r "^1$" >./votantiSIprovince.csv
 
 rm *_tmp*
+
+mv ./*.json ./dati
+mv ./*.csv ./dati
