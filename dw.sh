@@ -5,14 +5,19 @@ set -x
 mkdir -p ./province
 mkdir -p ./tmp
 
+# scarico i dati anagrafici
 curl -sL "http://elezioni.interno.gov.it/assets/enti/camerasenato_territoriale_italia.json" >./camerasenato_territoriale_italia.json
 
+# li converto in CSV
 jq '[.enti[]]' ./camerasenato_territoriale_italia.json | in2csv -I -f json >./camerasenato_territoriale_italia.csv
 
+# estraggo la lista dei codici delle province
 csvcut -c 1 ./camerasenato_territoriale_italia.csv | grep -E '[^0]0000$' >./tmp/campioneProvince.csv
 
+# estraggo l'anagrafica dei codici delle province
 csvgrep -c "id" -r "[^0]0000$" ./camerasenato_territoriale_italia.csv >./anagraficaProvince.csv
 
+# scarico i dettagli sui votanti alla Camera
 while read p; do
 	codice=$(echo "$p" | sed -r 's/0000$//g')
 	echo "$codice"
@@ -29,6 +34,7 @@ while read p; do
 		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{provincia:("'"$codice"'" + "0000"),livello,ente,href,comuni_perv,comuni,perc_ore12,perc_ore19,perc_ore2,percprec_ore233}]' >./province/votantiCI"$codice".json
 done <./tmp/campioneProvince.csv
 
+# scarico i dettagli sui votanti al Senato
 while read p; do
 	codice=$(echo "$p" | sed -r 's/0000$//g')
 	echo "$codice"
@@ -45,18 +51,22 @@ while read p; do
 		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{provincia:("'"$codice"'" + "0000"),livello,ente,href,comuni_perv,comuni,perc_ore12,perc_ore19,perc_ore2,percprec_ore233}]' >./province/votantiSI"$codice".json
 done <./tmp/campioneProvince.csv
 
+# faccio il merge dei dati sui votanti alla Camera
 jq -s add ./province/votantiCI*.json >./votantiCIprovinceRaw.json
-
+# converto in CSV il file di sopra
 in2csv <./votantiCIprovinceRaw.json -I -f json >./votantiCIprovince_tmp.csv
-
+# Estraggo i dati soltanto sui Comuni alla Camera
 csvgrep <./votantiCIprovince_tmp.csv -c "livello" -r "^2$" >./votantiCIComuni.csv
+# Estraggo i dati soltanto sulle Province alla Camera
 csvgrep <./votantiCIprovince_tmp.csv -c "livello" -r "^1$" >./votantiCIprovince.csv
 
+# faccio il merge dei dati sui votanti al Senato
 jq -s add ./province/votantiCI*.json >./votantiSIprovinceRaw.json
-
+# converto in CSV il file di sopra
 in2csv <./votantiSIprovinceRaw.json -I -f json >./votantiSIprovince_tmp.csv
-
+# Estraggo i dati soltanto sui Comuni al Senato
 csvgrep <./votantiSIprovince_tmp.csv -c "livello" -r "^2$" >./votantiSIComuni.csv
+# Estraggo i dati soltanto sulle Province al Senato
 csvgrep <./votantiSIprovince_tmp.csv -c "livello" -r "^1$" >./votantiSIprovince.csv
 
 rm *_tmp*
