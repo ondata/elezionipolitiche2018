@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "UDINE",
     "href": "",
-    "comuni_perv": "134",
+    "comuni_perv": "57",
     "comuni": "134",
     "perc_ore12": "22,63",
-    "perc_ore19": "62,82",
+    "perc_ore19": "62,81",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -211,7 +211,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "22,88",
-    "perc_ore19": "76,17",
+    "perc_ore19": "70,95",
     "perc_ore2": null,
     "percprec_ore233": null
   },

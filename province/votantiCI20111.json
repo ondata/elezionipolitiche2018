@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "SUD SARDEGNA",
     "href": "",
-    "comuni_perv": "107",
+    "comuni_perv": "68",
     "comuni": "107",
     "perc_ore12": "18,64",
-    "perc_ore19": "52,51",
+    "perc_ore19": "52,43",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -475,7 +475,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,68",
-    "perc_ore19": "67,03",
+    "perc_ore19": "54,14",
     "perc_ore2": null,
     "percprec_ore233": null
   },

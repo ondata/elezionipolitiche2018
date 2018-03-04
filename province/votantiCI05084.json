@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "TREVISO",
     "href": "",
-    "comuni_perv": "95",
+    "comuni_perv": "37",
     "comuni": "95",
     "perc_ore12": "22,53",
-    "perc_ore19": "64,70",
+    "perc_ore19": "64,68",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -1111,7 +1111,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "23,27",
-    "perc_ore19": "64,76",
+    "perc_ore19": "64,02",
     "perc_ore2": null,
     "percprec_ore233": null
   },

@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "PERUGIA",
     "href": "",
-    "comuni_perv": "59",
+    "comuni_perv": "21",
     "comuni": "59",
     "perc_ore12": "20,83",
-    "perc_ore19": "65,23",
+    "perc_ore19": "65,11",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -43,7 +43,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,94",
-    "perc_ore19": "83,88",
+    "perc_ore19": "65,78",
     "perc_ore2": null,
     "percprec_ore233": null
   },

@@ -17,8 +17,19 @@ curl "http://elezioni.interno.gov.it/assets/enti/camera_geopolitico_italia.json"
 # li converto in CSV
 jq '[.enti[]]' ./camera_geopolitico_italia.json | in2csv -I -f json >./camera_geopolitico_italia.csv
 
-# estraggo i codici delle unità IV livello
-<./camera_geopolitico_italia.csv grep -E '^[^0]{4}' >./scrutini/camera_geopolitico_italiaIV.csv
+<./camera_geopolitico_italia.csv csvcut -c 1 >./camera_geopolitico_italia_tmp.csv
+
+# estraggo i codici dei Comuni
+ack '^...[^0](?!0000000)'  ./camera_geopolitico_italia.csv >./scrutini/comuni.csv
+
+# estraggo i codici dei colleggi uninominali
+<./camera_geopolitico_italia.csv grep -E '...[^0]0000000' >./scrutini/colleggiUninominali.csv
+
+# estraggo i codici dei colleggi plurinominali
+<./camera_geopolitico_italia.csv grep -E '^..[^0]00000000' >./scrutini/colleggiPlurinominali.csv
+
+# estraggo i codici delle circoscrizioni
+<./camera_geopolitico_italia.csv grep -E '^.[^0]0{9}' >./scrutini/circoscrizioni.csv
 
 # estraggo la lista dei codici delle province
 csvcut -c 1 ./camerasenato_territoriale_italia.csv | grep -E '[^0]0000$' >./tmp/campioneProvince.csv
