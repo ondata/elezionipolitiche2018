@@ -1,5 +1,10 @@
 #!/bin/bash
 
+### requisiti ###
+# jq https://stedolan.github.io/jq/
+# csvkit https://csvkit.readthedocs.io
+### requisiti ###
+
 set -x
 
 mkdir -p ./province
