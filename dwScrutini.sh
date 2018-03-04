@@ -17,79 +17,71 @@ curl "http://elezioni.interno.gov.it/assets/enti/camera_geopolitico_italia.json"
 # li converto in CSV
 jq '[.enti[]]' ./camera_geopolitico_italia.json | in2csv -I -f json >./camera_geopolitico_italia.csv
 
-<./camera_geopolitico_italia.csv csvcut -c 1 >./camera_geopolitico_italia_tmp.csv
+csvcut <./camera_geopolitico_italia.csv -c 1 >./camera_geopolitico_italia_tmp.csv
 
 # estraggo i codici dei Comuni
-ack '^...[^0](?!0000000)'  ./camera_geopolitico_italia.csv >./scrutini/comuni.csv
+ack '^...[^0](?!0000000)' ./camera_geopolitico_italia_tmp.csv >./scrutini/comuni.csv
 
 # estraggo i codici dei colleggi uninominali
-<./camera_geopolitico_italia.csv grep -E '...[^0]0000000' >./scrutini/colleggiUninominali.csv
+grep <./camera_geopolitico_italia_tmp.csv -E '...[^0]0000000' >./scrutini/colleggiUninominali.csv
 
 # estraggo i codici dei colleggi plurinominali
-<./camera_geopolitico_italia.csv grep -E '^..[^0]00000000' >./scrutini/colleggiPlurinominali.csv
+grep <./camera_geopolitico_italia_tmp.csv -E '^..[^0]00000000' >./scrutini/colleggiPlurinominali.csv
 
 # estraggo i codici delle circoscrizioni
-<./camera_geopolitico_italia.csv grep -E '^.[^0]0{9}' >./scrutini/circoscrizioni.csv
-
-# estraggo la lista dei codici delle province
-csvcut -c 1 ./camerasenato_territoriale_italia.csv | grep -E '[^0]0000$' >./tmp/campioneProvince.csv
-
-# estraggo l'anagrafica dei codici delle province
-csvgrep -c "id" -r "[^0]0000$" ./camerasenato_territoriale_italia.csv >./anagraficaProvince.csv
+grep <./camera_geopolitico_italia_tmp.csv -E '^.[^0]0{9}' >./scrutini/circoscrizioni.csv
 
 # scarico i dettagli sui votanti alla Camera
 while read p; do
-	codice=$(echo "$p" | sed -r 's/0000$//g')
-	echo "$codice"
 	curl -X GET \
-		http://elezioni.interno.gov.it/votanti/votanti20180304/votantiCI"$codice" \
+		http://elezioni.interno.gov.it/politiche/camera20180304/scrutiniCI"$p" \
 		-H 'accept: application/json, text/javascript, */*; q=0.01' \
 		-H 'accept-encoding: gzip, deflate' \
 		-H 'accept-language: it,en-US;q=0.9,en;q=0.8' \
 		-H 'cache-control: no-cache' \
 		-H 'content-type: application/json' \
-		-H 'postman-token: ead779f5-6125-4c7a-a9d2-46213fe299da' \
-		-H 'referer: http://elezioni.interno.gov.it/camera/votanti/20180304/votantiCI'"$codice"'' \
+		-H 'postman-token: b8b67cdf-9521-4e07-2e63-99b28b20c2be' \
+		-H 'referer: http://elezioni.interno.gov.it/camera/scrutini/20180304/scrutiniCI'"$p"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{provincia:("'"$codice"'" + "0000"),livello,ente,href,comuni_perv,comuni,perc_ore12,perc_ore19,perc_ore2,percprec_ore233}]' >./province/votantiCI"$codice".json
-done <./tmp/campioneProvince.csv
+		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{circoscrizione:"'"$p"'",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti,perc,eletto,perc_voti_liste,cifra_el,perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_c"$p".json
+done <./scrutini/circoscrizioni.csv
 
-# scarico i dettagli sui votanti al Senato
+jq -s add ./scrutini/scrutiniCI_c*.json >./scrutini/scrutiniCI_c.json
+
+<./scrutini/scrutiniCI_c.json in2csv -I -f json >./scrutiniCI_c.csv
+
 while read p; do
-	codice=$(echo "$p" | sed -r 's/0000$//g')
-	echo "$codice"
 	curl -X GET \
-		http://elezioni.interno.gov.it/votanti/votanti20180304/votantiSI"$codice" \
+		http://elezioni.interno.gov.it/politiche/camera20180304/scrutiniCI"$p" \
 		-H 'accept: application/json, text/javascript, */*; q=0.01' \
 		-H 'accept-encoding: gzip, deflate' \
 		-H 'accept-language: it,en-US;q=0.9,en;q=0.8' \
 		-H 'cache-control: no-cache' \
 		-H 'content-type: application/json' \
-		-H 'postman-token: ead779f5-6125-4c7a-a9d2-46213fe299da' \
-		-H 'referer: http://elezioni.interno.gov.it/camera/votanti/20180304/votantiSI'"$codice"'' \
+		-H 'postman-token: b8b67cdf-9521-4e07-2e63-99b28b20c2be' \
+		-H 'referer: http://elezioni.interno.gov.it/camera/scrutini/20180304/scrutiniCI'"$p"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{provincia:("'"$codice"'" + "0000"),livello,ente,href,comuni_perv,comuni,perc_ore12,perc_ore19,perc_ore2,percprec_ore233}]' >./province/votantiSI"$codice".json
-done <./tmp/campioneProvince.csv
+		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{collegioPlurinominale:"'"$p"'",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti,perc,eletto,perc_voti_liste,cifra_el,perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_p"$p".json
+done <./scrutini/colleggiPlurinominali.csv
 
-# faccio il merge dei dati sui votanti alla Camera
-jq -s add ./province/votantiCI*.json >./votantiCIprovinceRaw.json
-# converto in CSV il file di sopra
-in2csv <./votantiCIprovinceRaw.json -I -f json >./votantiCIprovince_tmp.csv
-# Estraggo i dati soltanto sui Comuni alla Camera
-csvgrep <./votantiCIprovince_tmp.csv -c "livello" -r "^2$" >./votantiCIComuni.csv
-# Estraggo i dati soltanto sulle Province alla Camera
-csvgrep <./votantiCIprovince_tmp.csv -c "livello" -r "^1$" >./votantiCIprovince.csv
+jq -s add ./scrutini/scrutiniCI_p*.json >./scrutini/scrutiniCI_p.json
 
-# faccio il merge dei dati sui votanti al Senato
-jq -s add ./province/votantiCI*.json >./votantiSIprovinceRaw.json
-# converto in CSV il file di sopra
-in2csv <./votantiSIprovinceRaw.json -I -f json >./votantiSIprovince_tmp.csv
-# Estraggo i dati soltanto sui Comuni al Senato
-csvgrep <./votantiSIprovince_tmp.csv -c "livello" -r "^2$" >./votantiSIComuni.csv
-# Estraggo i dati soltanto sulle Province al Senato
-csvgrep <./votantiSIprovince_tmp.csv -c "livello" -r "^1$" >./votantiSIprovince.csv
+<./scrutini/scrutiniCI_p.json in2csv -I -f json >./scrutiniCI_p.csv
 
-rm *_tmp*
+while read p; do
+	curl -X GET \
+		http://elezioni.interno.gov.it/politiche/camera20180304/scrutiniCI"$p" \
+		-H 'accept: application/json, text/javascript, */*; q=0.01' \
+		-H 'accept-encoding: gzip, deflate' \
+		-H 'accept-language: it,en-US;q=0.9,en;q=0.8' \
+		-H 'cache-control: no-cache' \
+		-H 'content-type: application/json' \
+		-H 'postman-token: b8b67cdf-9521-4e07-2e63-99b28b20c2be' \
+		-H 'referer: http://elezioni.interno.gov.it/camera/scrutini/20180304/scrutiniCI'"$p"'' \
+		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
+		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{collegioPlurinominale:"'"$p"'",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti,perc,eletto,perc_voti_liste,cifra_el,perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_u"$p".json
+done <./scrutini/colleggiUninominali.csv
 
-mv ./*.json ./dati
-mv ./*.csv ./dati
+jq -s add ./scrutini/scrutiniCI_u*.json >./scrutini/scrutiniCI_u.json
+
+<./scrutini/scrutiniCI_u.json in2csv -I -f json >./scrutiniCI_u.csv

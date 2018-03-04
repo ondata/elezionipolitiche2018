@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "VERBANO-CUSIO-OSSOLA",
     "href": "",
-    "comuni_perv": "31",
+    "comuni_perv": "76",
     "comuni": "76",
     "perc_ore12": "22,23",
-    "perc_ore19": "62,02",
+    "perc_ore19": "61,89",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -175,7 +175,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "24,40",
-    "perc_ore19": "78,64",
+    "perc_ore19": "50,33",
     "perc_ore2": null,
     "percprec_ore233": null
   },

@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "ANCONA",
     "href": "",
-    "comuni_perv": "14",
+    "comuni_perv": "34",
     "comuni": "47",
     "perc_ore12": "19,87",
-    "perc_ore19": "61,72",
+    "perc_ore19": "61,68",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31,7 +31,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,13",
-    "perc_ore19": "62,56",
+    "perc_ore19": "62,34",
     "perc_ore2": null,
     "percprec_ore233": null
   },

@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "VENEZIA",
     "href": "",
-    "comuni_perv": "11",
+    "comuni_perv": "41",
     "comuni": "44",
     "perc_ore12": "21,91",
-    "perc_ore19": "64,08",
+    "perc_ore19": "64,06",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -523,7 +523,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,88",
-    "perc_ore19": "62,05",
+    "perc_ore19": "61,97",
     "perc_ore2": null,
     "percprec_ore233": null
   },

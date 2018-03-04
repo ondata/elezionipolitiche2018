@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "LECCE",
     "href": "",
-    "comuni_perv": "19",
+    "comuni_perv": "85",
     "comuni": "97",
     "perc_ore12": "18,05",
-    "perc_ore19": "56,94",
+    "perc_ore19": "56,86",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -91,7 +91,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,94",
-    "perc_ore19": "67,46",
+    "perc_ore19": "63,95",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -211,7 +211,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,46",
-    "perc_ore19": "69,71",
+    "perc_ore19": "57,29",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -223,7 +223,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,03",
-    "perc_ore19": "70,00",
+    "perc_ore19": "67,04",
     "perc_ore2": null,
     "percprec_ore233": null
   },

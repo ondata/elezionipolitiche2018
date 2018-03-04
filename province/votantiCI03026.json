@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "CREMONA",
     "href": "",
-    "comuni_perv": "11",
+    "comuni_perv": "94",
     "comuni": "115",
     "perc_ore12": "23,52",
-    "perc_ore19": "66,16",
+    "perc_ore19": "66,14",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -847,7 +847,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "29,28",
-    "perc_ore19": "85,98",
+    "perc_ore19": "75,31",
     "perc_ore2": null,
     "percprec_ore233": null
   },

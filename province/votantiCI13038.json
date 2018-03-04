@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "L'AQUILA",
     "href": "",
-    "comuni_perv": "82",
+    "comuni_perv": "105",
     "comuni": "108",
     "perc_ore12": "18,58",
-    "perc_ore19": "60,86",
+    "perc_ore19": "60,78",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -595,7 +595,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,41",
-    "perc_ore19": "61,08",
+    "perc_ore19": "60,72",
     "perc_ore2": null,
     "percprec_ore233": null
   },

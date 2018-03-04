@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "NAPOLI",
     "href": "",
-    "comuni_perv": "22",
+    "comuni_perv": "80",
     "comuni": "92",
     "perc_ore12": "16,62",
-    "perc_ore19": "50,30",
+    "perc_ore19": "50,25",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -127,7 +127,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,40",
-    "perc_ore19": "55,31",
+    "perc_ore19": "54,92",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -187,7 +187,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,70",
-    "perc_ore19": "62,10",
+    "perc_ore19": "51,27",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -403,7 +403,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,09",
-    "perc_ore19": "60,88",
+    "perc_ore19": "59,20",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -427,7 +427,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,47",
-    "perc_ore19": "51,72",
+    "perc_ore19": "51,50",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -739,7 +739,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,09",
-    "perc_ore19": "52,55",
+    "perc_ore19": "52,32",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -871,7 +871,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,08",
-    "perc_ore19": "65,55",
+    "perc_ore19": "59,58",
     "perc_ore2": null,
     "percprec_ore233": null
   },
