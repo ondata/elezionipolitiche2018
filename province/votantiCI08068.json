@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "REGGIO NELL'EMILIA",
     "href": "",
-    "comuni_perv": "41",
+    "comuni_perv": "42",
     "comuni": "42",
     "perc_ore12": "22,37",
-    "perc_ore19": "65,21",
+    "perc_ore19": "65,52",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -343,7 +343,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "22,91",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "66,24",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -511,7 +511,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "23,18",
-    "perc_ore19": "64,87",
+    "perc_ore19": "63,87",
     "perc_ore2": null,
     "percprec_ore233": null
   }

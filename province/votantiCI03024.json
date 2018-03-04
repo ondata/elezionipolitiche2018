@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "COMO",
     "href": "",
-    "comuni_perv": "148",
+    "comuni_perv": "149",
     "comuni": "149",
     "perc_ore12": "20,52",
-    "perc_ore19": "61,07",
+    "perc_ore19": "61,15",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -631,7 +631,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,63",
-    "perc_ore19": "57,68",
+    "perc_ore19": "57,84",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -895,7 +895,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,96",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "66,39",
     "perc_ore2": null,
     "percprec_ore233": null
   },

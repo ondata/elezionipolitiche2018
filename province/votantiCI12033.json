@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "FROSINONE",
     "href": "",
-    "comuni_perv": "87",
+    "comuni_perv": "91",
     "comuni": "91",
     "perc_ore12": "16,89",
-    "perc_ore19": "55,48",
+    "perc_ore19": "54,91",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -175,7 +175,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "15,14",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "15,14",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -451,7 +451,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,14",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "54,24",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -475,7 +475,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,33",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "56,50",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -523,7 +523,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,82",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "61,62",
     "perc_ore2": null,
     "percprec_ore233": null
   },

@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "PALERMO",
     "href": "",
-    "comuni_perv": "81",
+    "comuni_perv": "82",
     "comuni": "82",
     "perc_ore12": "14,00",
-    "perc_ore19": "46,91",
+    "perc_ore19": "46,89",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -943,7 +943,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "9,07",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "41,27",
     "perc_ore2": null,
     "percprec_ore233": null
   },

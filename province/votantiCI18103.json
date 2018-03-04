@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "VIBO VALENTIA",
     "href": "",
-    "comuni_perv": "49",
+    "comuni_perv": "50",
     "comuni": "50",
     "perc_ore12": "14,44",
-    "perc_ore19": "49,80",
+    "perc_ore19": "50,03",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -535,7 +535,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,85",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "55,34",
     "perc_ore2": null,
     "percprec_ore233": null
   },

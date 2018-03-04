@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "ISERNIA",
     "href": "",
-    "comuni_perv": "46",
+    "comuni_perv": "52",
     "comuni": "52",
     "perc_ore12": "16,56",
-    "perc_ore19": "54,48",
+    "perc_ore19": "54,75",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -55,7 +55,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,37",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "50,56",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -163,7 +163,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,92",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "55,66",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -295,7 +295,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,56",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "63,57",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -307,7 +307,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,64",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "64,71",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -451,7 +451,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,21",
-    "perc_ore19": "57,26",
+    "perc_ore19": "48,22",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -523,7 +523,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,38",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "54,16",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -631,7 +631,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,13",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "55,84",
     "perc_ore2": null,
     "percprec_ore233": null
   }

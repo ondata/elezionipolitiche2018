@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "CAGLIARI",
     "href": "",
-    "comuni_perv": "16",
+    "comuni_perv": "17",
     "comuni": "17",
     "perc_ore12": "19,26",
-    "perc_ore19": "53,66",
+    "perc_ore19": "53,23",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -115,7 +115,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,49",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "51,06",
     "perc_ore2": null,
     "percprec_ore233": null
   },

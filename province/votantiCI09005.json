@@ -7,7 +7,7 @@
     "comuni_perv": "36",
     "comuni": "36",
     "perc_ore12": "20,36",
-    "perc_ore19": "64,32",
+    "perc_ore19": "64,37",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31,7 +31,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,52",
-    "perc_ore19": "63,13",
+    "perc_ore19": "63,39",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -223,7 +223,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,75",
-    "perc_ore19": "64,84",
+    "perc_ore19": "63,95",
     "perc_ore2": null,
     "percprec_ore233": null
   },

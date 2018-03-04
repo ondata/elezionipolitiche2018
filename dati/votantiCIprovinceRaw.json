@@ -7783,7 +7783,7 @@
     "comuni_perv": "316",
     "comuni": "316",
     "perc_ore12": "19,53",
-    "perc_ore19": "61,29",
+    "perc_ore19": "61,28",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -9247,7 +9247,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,74",
-    "perc_ore19": "83,30",
+    "perc_ore19": "66,44",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -11311,7 +11311,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "23,15",
-    "perc_ore19": "64,86",
+    "perc_ore19": "64,94",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -15364,10 +15364,10 @@
     "livello": "1",
     "ente": "BERGAMO",
     "href": "",
-    "comuni_perv": "241",
+    "comuni_perv": "242",
     "comuni": "242",
     "perc_ore12": "24,08",
-    "perc_ore19": "66,46",
+    "perc_ore19": "66,48",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -15991,7 +15991,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "24,00",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "67,88",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -20752,10 +20752,10 @@
     "livello": "1",
     "ente": "COMO",
     "href": "",
-    "comuni_perv": "148",
+    "comuni_perv": "149",
     "comuni": "149",
     "perc_ore12": "20,52",
-    "perc_ore19": "61,07",
+    "perc_ore19": "61,15",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -21379,7 +21379,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,63",
-    "perc_ore19": "57,68",
+    "perc_ore19": "57,84",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -21643,7 +21643,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,96",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "66,39",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -22552,10 +22552,10 @@
     "livello": "1",
     "ente": "CREMONA",
     "href": "",
-    "comuni_perv": "114",
+    "comuni_perv": "115",
     "comuni": "115",
     "perc_ore12": "23,52",
-    "perc_ore19": "66,15",
+    "perc_ore19": "66,16",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -23575,7 +23575,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "23,69",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "67,65",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -23944,10 +23944,10 @@
     "livello": "1",
     "ente": "MANTOVA",
     "href": "",
-    "comuni_perv": "65",
+    "comuni_perv": "66",
     "comuni": "66",
     "perc_ore12": "21,64",
-    "perc_ore19": "60,21",
+    "perc_ore19": "60,24",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -24307,7 +24307,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,96",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "60,48",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -24748,10 +24748,10 @@
     "livello": "1",
     "ente": "MILANO",
     "href": "",
-    "comuni_perv": "133",
+    "comuni_perv": "134",
     "comuni": "134",
     "perc_ore12": "19,35",
-    "perc_ore19": "60,60",
+    "perc_ore19": "60,27",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -25291,7 +25291,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,07",
-    "perc_ore19": "100,00",
+    "perc_ore19": "58,16",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -25747,7 +25747,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,04",
-    "perc_ore19": "65,29",
+    "perc_ore19": "64,53",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -25831,7 +25831,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,67",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "55,53",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -26368,10 +26368,10 @@
     "livello": "1",
     "ente": "PAVIA",
     "href": "",
-    "comuni_perv": "187",
+    "comuni_perv": "188",
     "comuni": "188",
     "perc_ore12": "18,90",
-    "perc_ore19": "59,98",
+    "perc_ore19": "59,95",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -27571,7 +27571,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,60",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "58,66",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -29572,10 +29572,10 @@
     "livello": "1",
     "ente": "VARESE",
     "href": "",
-    "comuni_perv": "113",
+    "comuni_perv": "139",
     "comuni": "139",
     "perc_ore12": "20,18",
-    "perc_ore19": "61,15",
+    "perc_ore19": "61,29",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -29707,7 +29707,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "14,54",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "50,28",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -29887,7 +29887,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,89",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "62,16",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30427,7 +30427,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "24,71",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "73,24",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30463,7 +30463,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,14",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "59,06",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30487,7 +30487,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,49",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "57,41",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30511,7 +30511,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "22,02",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "65,05",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30547,7 +30547,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "14,30",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "48,43",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30559,7 +30559,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,47",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "61,87",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30607,7 +30607,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,01",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "56,72",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30727,7 +30727,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,95",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "58,83",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30739,7 +30739,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,04",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "57,24",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30763,7 +30763,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,14",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "58,58",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30799,7 +30799,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,30",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "58,19",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30895,7 +30895,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,53",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "52,15",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30907,7 +30907,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "22,74",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "69,85",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30931,7 +30931,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,72",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "60,36",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30979,7 +30979,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,23",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "59,97",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -30991,7 +30991,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "14,99",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "42,11",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31003,7 +31003,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,57",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "62,07",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31015,7 +31015,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,56",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "63,12",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31051,7 +31051,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,51",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "64,51",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31087,7 +31087,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,12",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "62,45",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31099,7 +31099,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "10,48",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "62,18",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31135,7 +31135,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "22,43",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "66,18",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31171,7 +31171,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "22,08",
-    "perc_ore19": "62,47",
+    "perc_ore19": "62,53",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31183,7 +31183,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,44",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "61,52",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31219,7 +31219,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,68",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "62,32",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -31831,7 +31831,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,12",
-    "perc_ore19": "64,61",
+    "perc_ore19": "64,52",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -37228,10 +37228,10 @@
     "livello": "1",
     "ente": "PADOVA",
     "href": "",
-    "comuni_perv": "103",
+    "comuni_perv": "104",
     "comuni": "104",
     "perc_ore12": "21,95",
-    "perc_ore19": "65,32",
+    "perc_ore19": "65,42",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -37879,7 +37879,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "23,99",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "70,23",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -39100,10 +39100,10 @@
     "livello": "1",
     "ente": "TREVISO",
     "href": "",
-    "comuni_perv": "94",
+    "comuni_perv": "95",
     "comuni": "95",
     "perc_ore12": "22,53",
-    "perc_ore19": "64,73",
+    "perc_ore19": "64,70",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -39199,7 +39199,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "22,79",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "62,31",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -40252,10 +40252,10 @@
     "livello": "1",
     "ente": "VENEZIA",
     "href": "",
-    "comuni_perv": "43",
+    "comuni_perv": "44",
     "comuni": "44",
     "perc_ore12": "21,91",
-    "perc_ore19": "63,98",
+    "perc_ore19": "64,08",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -40699,7 +40699,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "23,68",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "68,77",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -43996,10 +43996,10 @@
     "livello": "1",
     "ente": "PORDENONE",
     "href": "",
-    "comuni_perv": "49",
+    "comuni_perv": "50",
     "comuni": "50",
     "perc_ore12": "22,41",
-    "perc_ore19": "63,64",
+    "perc_ore19": "63,55",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -44371,7 +44371,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "23,59",
-    "perc_ore19": "65,36",
+    "perc_ore19": "65,10",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -44503,7 +44503,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "22,11",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "62,39",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -48139,7 +48139,7 @@
     "comuni_perv": "23",
     "comuni": "23",
     "perc_ore12": "24,73",
-    "perc_ore19": "67,62",
+    "perc_ore19": "67,61",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -48235,7 +48235,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "25,84",
-    "perc_ore19": "69,57",
+    "perc_ore19": "69,54",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -48796,7 +48796,7 @@
     "livello": "1",
     "ente": "PARMA",
     "href": "",
-    "comuni_perv": "44",
+    "comuni_perv": "45",
     "comuni": "45",
     "perc_ore12": "22,39",
     "perc_ore19": "63,76",
@@ -49255,7 +49255,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "23,02",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "61,61",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -50140,10 +50140,10 @@
     "livello": "1",
     "ente": "REGGIO NELL'EMILIA",
     "href": "",
-    "comuni_perv": "41",
+    "comuni_perv": "42",
     "comuni": "42",
     "perc_ore12": "22,37",
-    "perc_ore19": "65,21",
+    "perc_ore19": "65,52",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -50479,7 +50479,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "22,91",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "66,24",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -50647,7 +50647,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "23,18",
-    "perc_ore19": "64,87",
+    "perc_ore19": "63,87",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -50971,7 +50971,7 @@
     "comuni_perv": "36",
     "comuni": "36",
     "perc_ore12": "20,36",
-    "perc_ore19": "64,32",
+    "perc_ore19": "64,37",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -50995,7 +50995,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,52",
-    "perc_ore19": "63,13",
+    "perc_ore19": "63,39",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -51187,7 +51187,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,75",
-    "perc_ore19": "64,84",
+    "perc_ore19": "63,95",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -57292,10 +57292,10 @@
     "livello": "1",
     "ente": "FROSINONE",
     "href": "",
-    "comuni_perv": "87",
+    "comuni_perv": "91",
     "comuni": "91",
     "perc_ore12": "16,89",
-    "perc_ore19": "55,48",
+    "perc_ore19": "54,91",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -57463,7 +57463,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "15,14",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "15,14",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -57739,7 +57739,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,14",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "54,24",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -57763,7 +57763,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,33",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "56,50",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -57811,7 +57811,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,82",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "61,62",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -64180,10 +64180,10 @@
     "livello": "1",
     "ente": "ISERNIA",
     "href": "",
-    "comuni_perv": "46",
+    "comuni_perv": "52",
     "comuni": "52",
     "perc_ore12": "16,56",
-    "perc_ore19": "54,48",
+    "perc_ore19": "54,75",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -64231,7 +64231,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,37",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "50,56",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -64339,7 +64339,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,92",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "55,66",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -64471,7 +64471,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,56",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "63,57",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -64483,7 +64483,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,64",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "64,71",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -64627,7 +64627,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,21",
-    "perc_ore19": "57,26",
+    "perc_ore19": "48,22",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -64699,7 +64699,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,38",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "54,16",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -64807,7 +64807,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,13",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "55,84",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66244,10 +66244,10 @@
     "livello": "1",
     "ente": "BENEVENTO",
     "href": "",
-    "comuni_perv": "57",
+    "comuni_perv": "78",
     "comuni": "78",
     "perc_ore12": "19,02",
-    "perc_ore19": "58,08",
+    "perc_ore19": "58,59",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66295,7 +66295,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,10",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "60,95",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66307,7 +66307,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "14,34",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "57,08",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66319,7 +66319,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,22",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "61,98",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66439,7 +66439,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,98",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "56,70",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66463,7 +66463,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,07",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "61,59",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66487,7 +66487,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "25,81",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "55,26",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66523,7 +66523,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,83",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "59,31",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66535,7 +66535,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,08",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "57,76",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66583,7 +66583,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,00",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "60,33",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66619,7 +66619,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,36",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "61,01",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66655,7 +66655,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "24,09",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "62,44",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66823,7 +66823,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,94",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "64,42",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66859,7 +66859,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,30",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "52,57",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66919,7 +66919,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,71",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "64,32",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66967,7 +66967,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,73",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "63,76",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -66979,7 +66979,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "15,97",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "58,06",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -67027,7 +67027,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,67",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "58,22",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -67039,7 +67039,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,80",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "66,66",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -67051,7 +67051,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "22,20",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "69,61",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -67099,7 +67099,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "17,21",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "64,89",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -67159,7 +67159,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "20,90",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "57,86",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -67507,7 +67507,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,72",
-    "perc_ore19": "54,31",
+    "perc_ore19": "53,61",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -68311,7 +68311,7 @@
     "comuni_perv": "158",
     "comuni": "158",
     "perc_ore12": "17,95",
-    "perc_ore19": "55,14",
+    "perc_ore19": "55,12",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -69415,7 +69415,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "14,13",
-    "perc_ore19": "67,34",
+    "perc_ore19": "60,51",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -75952,10 +75952,10 @@
     "livello": "1",
     "ente": "COSENZA",
     "href": "",
-    "comuni_perv": "150",
+    "comuni_perv": "151",
     "comuni": "151",
     "perc_ore12": "16,42",
-    "perc_ore19": "52,14",
+    "perc_ore19": "52,12",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -77755,7 +77755,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "16,91",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "49,08",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -79288,10 +79288,10 @@
     "livello": "1",
     "ente": "VIBO VALENTIA",
     "href": "",
-    "comuni_perv": "49",
+    "comuni_perv": "50",
     "comuni": "50",
     "perc_ore12": "14,44",
-    "perc_ore19": "49,80",
+    "perc_ore19": "50,03",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -79819,7 +79819,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,85",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "55,34",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -82972,10 +82972,10 @@
     "livello": "1",
     "ente": "PALERMO",
     "href": "",
-    "comuni_perv": "81",
+    "comuni_perv": "82",
     "comuni": "82",
     "perc_ore12": "14,00",
-    "perc_ore19": "46,91",
+    "perc_ore19": "46,89",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -83911,7 +83911,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "9,07",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "41,27",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -84688,10 +84688,10 @@
     "livello": "1",
     "ente": "CAGLIARI",
     "href": "",
-    "comuni_perv": "16",
+    "comuni_perv": "17",
     "comuni": "17",
     "perc_ore12": "19,26",
-    "perc_ore19": "53,66",
+    "perc_ore19": "53,23",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -84799,7 +84799,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,49",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "51,06",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -84907,7 +84907,7 @@
     "comuni_perv": "74",
     "comuni": "74",
     "perc_ore12": "18,84",
-    "perc_ore19": "52,76",
+    "perc_ore19": "52,70",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -85339,7 +85339,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,22",
-    "perc_ore19": "62,18",
+    "perc_ore19": "57,33",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -85804,10 +85804,10 @@
     "livello": "1",
     "ente": "SASSARI",
     "href": "",
-    "comuni_perv": "91",
+    "comuni_perv": "92",
     "comuni": "92",
     "perc_ore12": "17,39",
-    "perc_ore19": "51,34",
+    "perc_ore19": "52,14",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -86683,7 +86683,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,78",
-    "perc_ore19": "N.P.",
+    "perc_ore19": "54,41",
     "perc_ore2": null,
     "percprec_ore233": null
   },
