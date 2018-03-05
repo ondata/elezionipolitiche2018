@@ -29,6 +29,7 @@ Degli script per scaricare i dati sulle elezioni politiche del 4 marzo 2018 in I
 - scrutini Senato per Circoscrizione: [scrutiniCI_c.csv](./dati/scrutiniSI_c.csv)
 - scrutini Senato per Collegio Plurinominale: [scrutiniSI_p.csv](./dati/scrutiniSI_p.csv)
 - scrutini Senato per Collegio Uninominale: [scrutiniSI_u.csv](./dati/scrutiniSI_u.csv)
+- dati di riepilogo: [riepilogo.csv](./dati/riepilogo.csv)
 
 
 **NOTA BENE**: manca la sezione Estero
