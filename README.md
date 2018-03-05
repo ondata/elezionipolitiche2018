@@ -1,3 +1,12 @@
+<!-- TOC -->
+
+- [Leggimi](#leggimi)
+    - [Dati](#dati)
+        - [Votanti](#votanti)
+        - [Scrutini](#scrutini)
+
+<!-- /TOC -->
+
 ## Leggimi
 
 Degli script per scaricare i dati sulle elezioni politiche del 4 marzo 2018 in Italia.
