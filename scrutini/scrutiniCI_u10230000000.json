@@ -1,5 +1,6 @@
 [
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -16,6 +17,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -32,6 +34,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -48,6 +51,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -64,6 +68,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -80,6 +85,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -96,6 +102,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -112,6 +119,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -128,6 +136,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -144,6 +153,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -160,6 +170,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -176,6 +187,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -192,6 +204,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -208,6 +221,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -224,6 +238,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -240,6 +255,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -256,6 +272,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -272,6 +289,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -288,6 +306,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -295,8 +314,8 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1.977",
-    "perc": "1,48",
+    "voti": "1.986",
+    "perc": "1,49",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "",
@@ -304,6 +323,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -311,15 +331,16 @@
     "img_lista": "24-20180304000000-11372-0.png",
     "descr_lista": "POTERE AL POPOLO!",
     "link_cand_lista": "",
-    "voti": "1.908",
-    "perc": "1,48",
+    "voti": "1.916",
+    "perc": "1,49",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1.908",
-    "perc_cifra_el": "1,48",
+    "cifra_el": "1.916",
+    "perc_cifra_el": "1,49",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -336,6 +357,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -352,6 +374,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -368,6 +391,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -384,6 +408,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -400,6 +425,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -416,6 +442,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -432,6 +459,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -439,8 +467,8 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "631",
-    "perc": "0,47",
+    "voti": "625",
+    "perc": "0,46",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "",
@@ -448,6 +476,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -455,15 +484,16 @@
     "img_lista": "24-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": "",
-    "voti": "599",
+    "voti": "593",
     "perc": "0,46",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "599",
+    "cifra_el": "593",
     "perc_cifra_el": "0,46",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -480,6 +510,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -487,8 +518,8 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "240",
-    "perc": "0,18",
+    "voti": "237",
+    "perc": "0,17",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "",
@@ -496,6 +527,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -503,15 +535,16 @@
     "img_lista": "24-20180304000000-11381-0.png",
     "descr_lista": "PARTITO VALORE UMANO",
     "link_cand_lista": "",
-    "voti": "221",
+    "voti": "219",
     "perc": "0,17",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "221",
+    "cifra_el": "219",
     "perc_cifra_el": "0,17",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -528,6 +561,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -544,6 +578,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -560,6 +595,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -576,6 +612,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -592,6 +629,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -608,6 +646,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -624,6 +663,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -640,6 +680,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -656,6 +697,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -672,6 +714,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "TU",
@@ -688,6 +731,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "10230000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "TP",

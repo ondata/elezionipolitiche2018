@@ -1,5 +1,6 @@
 [
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -7,8 +8,8 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "59.076",
-    "perc": "47,25",
+    "voti": "60.319",
+    "perc": "47,22",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "",
@@ -16,6 +17,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -23,15 +25,16 @@
     "img_lista": "24-20180304000000-11367-0.png",
     "descr_lista": "LEGA",
     "link_cand_lista": "",
-    "voti": "32.635",
-    "perc": "27,01",
+    "voti": "33.424",
+    "perc": "27,07",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "32.635",
-    "perc_cifra_el": "27,01",
+    "cifra_el": "33.424",
+    "perc_cifra_el": "27,07",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -39,15 +42,16 @@
     "img_lista": "24-20180304000000-1112-0.png",
     "descr_lista": "FORZA ITALIA",
     "link_cand_lista": "",
-    "voti": "18.934",
-    "perc": "15,67",
+    "voti": "19.278",
+    "perc": "15,61",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "18.934",
-    "perc_cifra_el": "15,67",
+    "cifra_el": "19.278",
+    "perc_cifra_el": "15,61",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -55,15 +59,16 @@
     "img_lista": "24-20180304000000-11434-0.png",
     "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
     "link_cand_lista": "",
-    "voti": "5.429",
-    "perc": "4,49",
+    "voti": "5.515",
+    "perc": "4,46",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5.429",
-    "perc_cifra_el": "4,49",
+    "cifra_el": "5.515",
+    "perc_cifra_el": "4,46",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -71,15 +76,16 @@
     "img_lista": "24-20180304000000-11402-0.png",
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": "",
-    "voti": "941",
-    "perc": "0,77",
+    "voti": "949",
+    "perc": "0,76",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "941",
-    "perc_cifra_el": "0,77",
+    "cifra_el": "949",
+    "perc_cifra_el": "0,76",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -96,6 +102,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -103,8 +110,8 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "29.101",
-    "perc": "23,27",
+    "voti": "29.720",
+    "perc": "23,26",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "",
@@ -112,6 +119,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -119,15 +127,16 @@
     "img_lista": "24-20180304000000-11366-0.png",
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": "",
-    "voti": "27.521",
-    "perc": "22,78",
+    "voti": "28.109",
+    "perc": "22,77",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "27.521",
-    "perc_cifra_el": "22,78",
+    "cifra_el": "28.109",
+    "perc_cifra_el": "22,77",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -144,6 +153,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -151,8 +161,8 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "28.758",
-    "perc": "23,00",
+    "voti": "29.423",
+    "perc": "23,03",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "",
@@ -160,6 +170,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -167,15 +178,16 @@
     "img_lista": "24-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": "",
-    "voti": "23.632",
-    "perc": "19,56",
+    "voti": "24.199",
+    "perc": "19,60",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "23.632",
-    "perc_cifra_el": "19,56",
+    "cifra_el": "24.199",
+    "perc_cifra_el": "19,60",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -183,15 +195,16 @@
     "img_lista": "24-20180304000000-11403-0.png",
     "descr_lista": "+EUROPA",
     "link_cand_lista": "",
-    "voti": "3.355",
-    "perc": "2,77",
+    "voti": "3.434",
+    "perc": "2,78",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3.355",
-    "perc_cifra_el": "2,77",
+    "cifra_el": "3.434",
+    "perc_cifra_el": "2,78",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -199,15 +212,16 @@
     "img_lista": "24-20180304000000-11373-0.png",
     "descr_lista": "ITALIA EUROPA INSIEME",
     "link_cand_lista": "",
-    "voti": "517",
+    "voti": "522",
     "perc": "0,42",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "517",
+    "cifra_el": "522",
     "perc_cifra_el": "0,42",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -215,15 +229,16 @@
     "img_lista": "24-20180304000000-11412-0.png",
     "descr_lista": "CIVICA POPOLARE LORENZIN",
     "link_cand_lista": "",
-    "voti": "367",
+    "voti": "375",
     "perc": "0,30",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "367",
+    "cifra_el": "375",
     "perc_cifra_el": "0,30",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -240,6 +255,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -247,8 +263,8 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "3.700",
-    "perc": "2,95",
+    "voti": "3.783",
+    "perc": "2,96",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "",
@@ -256,6 +272,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -263,15 +280,16 @@
     "img_lista": "24-20180304000000-11393-0.png",
     "descr_lista": "LIBERI E UGUALI",
     "link_cand_lista": "",
-    "voti": "3.344",
-    "perc": "2,76",
+    "voti": "3.424",
+    "perc": "2,77",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3.344",
-    "perc_cifra_el": "2,76",
+    "cifra_el": "3.424",
+    "perc_cifra_el": "2,77",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -288,6 +306,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -295,7 +314,7 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1.193",
+    "voti": "1.219",
     "perc": "0,95",
     "eletto": "",
     "perc_voti_liste": "",
@@ -304,6 +323,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -311,15 +331,16 @@
     "img_lista": "24-20180304000000-11372-0.png",
     "descr_lista": "POTERE AL POPOLO!",
     "link_cand_lista": "",
-    "voti": "1.138",
+    "voti": "1.164",
     "perc": "0,94",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1.138",
+    "cifra_el": "1.164",
     "perc_cifra_el": "0,94",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -336,6 +357,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -343,7 +365,7 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1.100",
+    "voti": "1.123",
     "perc": "0,87",
     "eletto": "",
     "perc_voti_liste": "",
@@ -352,6 +374,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -359,15 +382,16 @@
     "img_lista": "24-20180304000000-11003-0.png",
     "descr_lista": "CASAPOUND ITALIA",
     "link_cand_lista": "",
-    "voti": "1.035",
+    "voti": "1.058",
     "perc": "0,85",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1.035",
+    "cifra_el": "1.058",
     "perc_cifra_el": "0,85",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -384,6 +408,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -391,7 +416,7 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "841",
+    "voti": "856",
     "perc": "0,67",
     "eletto": "",
     "perc_voti_liste": "",
@@ -400,6 +425,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -407,15 +433,16 @@
     "img_lista": "24-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": "",
-    "voti": "773",
+    "voti": "788",
     "perc": "0,63",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "773",
+    "cifra_el": "788",
     "perc_cifra_el": "0,63",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -432,6 +459,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -439,7 +467,7 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "796",
+    "voti": "808",
     "perc": "0,63",
     "eletto": "",
     "perc_voti_liste": "",
@@ -448,6 +476,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -455,15 +484,16 @@
     "img_lista": "24-20180304000000-11388-0.png",
     "descr_lista": "ITALIA AGLI ITALIANI",
     "link_cand_lista": "",
-    "voti": "753",
-    "perc": "0,62",
+    "voti": "764",
+    "perc": "0,61",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "753",
-    "perc_cifra_el": "0,62",
+    "cifra_el": "764",
+    "perc_cifra_el": "0,61",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -480,6 +510,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "CA",
@@ -487,8 +518,8 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "462",
-    "perc": "0,36",
+    "voti": "483",
+    "perc": "0,37",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "",
@@ -496,6 +527,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "LI",
@@ -503,15 +535,16 @@
     "img_lista": "24-20180304000000-11381-0.png",
     "descr_lista": "PARTITO VALORE UMANO",
     "link_cand_lista": "",
-    "voti": "423",
+    "voti": "443",
     "perc": "0,35",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "423",
+    "cifra_el": "443",
     "perc_cifra_el": "0,35",
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "XX",
@@ -528,6 +561,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "TU",
@@ -535,7 +569,7 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "125.027",
+    "voti": "127.734",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
@@ -544,6 +578,7 @@
     "seggi": ""
   },
   {
+    "assemblea": "Camera",
     "codice": "02210000000",
     "tipo": "colleggioUninominale",
     "tipo_riga": "TP",
@@ -551,7 +586,7 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "120.797",
+    "voti": "123.446",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "100,00",
