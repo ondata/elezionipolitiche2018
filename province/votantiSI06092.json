@@ -1,0 +1,86 @@
+[
+  {
+    "provincia": "060920000",
+    "livello": "1",
+    "ente": "TRIESTE",
+    "href": "",
+    "comuni_perv": "6",
+    "comuni": "6",
+    "perc_ore12": null,
+    "perc_ore19": null,
+    "perc_ore2": null,
+    "percprec_ore233": null
+  },
+  {
+    "provincia": "060920000",
+    "livello": "2",
+    "ente": "DUINO AURISINA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore12": null,
+    "perc_ore19": null,
+    "perc_ore2": null,
+    "percprec_ore233": null
+  },
+  {
+    "provincia": "060920000",
+    "livello": "2",
+    "ente": "MONRUPINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore12": null,
+    "perc_ore19": null,
+    "perc_ore2": null,
+    "percprec_ore233": null
+  },
+  {
+    "provincia": "060920000",
+    "livello": "2",
+    "ente": "MUGGIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore12": null,
+    "perc_ore19": null,
+    "perc_ore2": null,
+    "percprec_ore233": null
+  },
+  {
+    "provincia": "060920000",
+    "livello": "2",
+    "ente": "SAN DORLIGO DELLA VALLE-DOLINA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore12": null,
+    "perc_ore19": null,
+    "perc_ore2": null,
+    "percprec_ore233": null
+  },
+  {
+    "provincia": "060920000",
+    "livello": "2",
+    "ente": "SGONICO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore12": null,
+    "perc_ore19": null,
+    "perc_ore2": null,
+    "percprec_ore233": null
+  },
+  {
+    "provincia": "060920000",
+    "livello": "2",
+    "ente": "TRIESTE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore12": null,
+    "perc_ore19": null,
+    "perc_ore2": null,
+    "percprec_ore233": null
+  }
+]
