@@ -46,10 +46,9 @@ while read p; do
 		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{codice:"'"$p"'",tipo:"circoscrizione",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti,perc,eletto,perc_voti_liste,cifra_el,perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_c"$p".json
 done <./scrutini/circoscrizioni.csv
 
-
 jq -s add ./scrutini/scrutiniCI_c*.json >./scrutini/scrutiniCI_c.json
 
-<./scrutini/scrutiniCI_c.json in2csv -I -f json >./scrutiniCI_c.csv
+in2csv <./scrutini/scrutiniCI_c.json -I -f json >./scrutiniCI_c.csv
 
 # scarico i dettagli sugli scrutini alla Camera per Colleggio Plurinominale
 while read p; do
@@ -68,7 +67,7 @@ done <./scrutini/colleggiPlurinominali.csv
 
 jq -s add ./scrutini/scrutiniCI_p*.json >./scrutini/scrutiniCI_p.json
 
-<./scrutini/scrutiniCI_p.json in2csv -I -f json >./scrutiniCI_p.csv
+in2csv <./scrutini/scrutiniCI_p.json -I -f json >./scrutiniCI_p.csv
 
 # scarico i dettagli sugli scrutini alla Camera per Colleggio Uninominale
 while read p; do
@@ -87,4 +86,7 @@ done <./scrutini/colleggiUninominali.csv
 
 jq -s add ./scrutini/scrutiniCI_u*.json >./scrutini/scrutiniCI_u.json
 
-<./scrutini/scrutiniCI_u.json in2csv -I -f json >./scrutiniCI_u.csv
+in2csv <./scrutini/scrutiniCI_u.json -I -f json >./scrutiniCI_u.csv
+
+mv ./*.json ./dati
+mv ./*.csv ./dati
