@@ -3,7 +3,7 @@
 "elettori": "192.552",
 "votanti": "151.983",
 "perc_votanti": "78,93",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 09:26",
+"aggiornamento": "Dato aggiornato al 05/03/2018 - 13:46",
 "sezioni_perv": "242",
 "sezioni": "242",
 "coll_uni_perv": "",
@@ -13,12 +13,12 @@
 "sk_nulle": "3.730",
 "sk_contestate": "20",		
 "livello": "U",
-"flag_eletto": "",  
+"flag_eletto": "S",  
 "note": [
 	{"testo": ""}
 	],
 "righe": [
-	{"tipo_riga": "CA", "cand_descr_riga": "MARCO DI MAIO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "48.473", "perc": "32,70", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "2.063"},
+	{"tipo_riga": "CA", "cand_descr_riga": "MARCO DI MAIO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "48.473", "perc": "32,70", "eletto": "U", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "2.063"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-3456-0.png", "descr_lista": "PARTITO DEMOCRATICO", "link_cand_lista": "", "voti": "42.172", "perc": "28,44", "eletto": "", "perc_voti_liste": "", "cifra_el": "42.172", "perc_cifra_el": "28,44", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11403-0.png", "descr_lista": "+EUROPA", "link_cand_lista": "", "voti": "4.294", "perc": "2,89", "eletto": "", "perc_voti_liste": "", "cifra_el": "4.294", "perc_cifra_el": "2,89", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11373-0.png", "descr_lista": "ITALIA EUROPA INSIEME", "link_cand_lista": "", "voti": "1.239", "perc": "0,83", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.239", "perc_cifra_el": "0,83", "seggi": "", "una_lista": "N"},

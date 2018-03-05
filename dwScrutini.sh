@@ -89,6 +89,27 @@ jq -s add ./scrutini/scrutiniCI_u*.json >./scrutini/scrutiniCI_u.json
 
 in2csv <./scrutini/scrutiniCI_u.json -I -f json >./scrutiniCI_u.csv
 
+# scarico i dettagli sugli scrutini alla Camera per Comune (decommentare)
+<<commento2
+while read p; do
+	curl -X GET \
+		http://elezioni.interno.gov.it/politiche/camera20180304/scrutiniCI"$p" \
+		-H 'accept: application/json, text/javascript, */*; q=0.01' \
+		-H 'accept-encoding: gzip, deflate' \
+		-H 'accept-language: it,en-US;q=0.9,en;q=0.8' \
+		-H 'cache-control: no-cache' \
+		-H 'content-type: application/json' \
+		-H 'postman-token: b8b67cdf-9521-4e07-2e63-99b28b20c2be' \
+		-H 'referer: http://elezioni.interno.gov.it/camera/scrutini/20180304/scrutiniCI'"$p"'' \
+		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
+		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniCI_cm"$p".json | jq '[.righe[]|{assemblea:"Camera",codice:"'"$p"'",tipo:"colleggioUninominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_cm"$p".json
+done <./scrutini/comuni.csv
+
+jq -s add ./scrutini/scrutiniCI_cm*.json >./scrutini/scrutiniCI_cm.json
+
+in2csv <./scrutini/scrutiniCI_cm.json -I -f json >./scrutiniCI_cm.csv
+commento2
+
 ### SENATO ###
 
 curl -sL "http://elezioni.interno.gov.it/assets/enti/senato_geopolitico_italia.json" | jq . >./senato_geopolitico_italia.json
@@ -166,6 +187,27 @@ done <./scrutini/colleggiUninominaliSI.csv
 jq -s add ./scrutini/scrutiniSI_u*.json >./scrutini/scrutiniSI_u.json
 
 in2csv <./scrutini/scrutiniSI_u.json -I -f json >./scrutiniSI_u.csv
+
+# scarico i dettagli sugli scrutini al Senato per Comune (decommentare)
+<<commento3
+while read p; do
+	curl -X GET \
+		http://elezioni.interno.gov.it/politiche/senato20180304/scrutiniSI"$p" \
+		-H 'accept: application/json, text/javascript, */*; q=0.01' \
+		-H 'accept-encoding: gzip, deflate' \
+		-H 'accept-language: it,en-US;q=0.9,en;q=0.8' \
+		-H 'cache-control: no-cache' \
+		-H 'content-type: application/json' \
+		-H 'postman-token: d7765423-a0a9-6a75-eafb-965ef2e8aaf2' \
+		-H 'referer: http://elezioni.interno.gov.it/senato/scrutini/20180304/scrutiniSI'"$p"'' \
+		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
+		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniSI_cm"$p".json | jq '[.righe[]|{assemblea:"Senato",codice:"'"$p"'",tipo:"colleggioUninominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniSI_cm"$p".json
+done <./scrutini/comuniSI.csv
+
+jq -s add ./scrutini/scrutiniSI_cm*.json >./scrutini/scrutiniSI_cm.json
+
+in2csv <./scrutini/scrutiniSI_cm.json -I -f json >./scrutiniSI_cm.csv
+commento3
 
 mkdir -p ./rawData/tmp
 for i in ./rawData/*.json; do

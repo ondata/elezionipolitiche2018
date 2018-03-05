@@ -10,7 +10,7 @@
     "link_cand_lista": "",
     "voti": "72838",
     "perc": "49,10",
-    "eletto": "",
+    "eletto": "U",
     "perc_voti_liste": "",
     "cifra_el": "",
     "perc_cifra_el": "",
@@ -30,7 +30,7 @@
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "47150",
-    "perc_cifra_el": "31,78",
+    "perc_cifra_el": "0,78",
     "seggi": ""
   },
   {
@@ -76,7 +76,7 @@
     "img_lista": "24-20180304000000-11402-0.png",
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": "",
-    "voti": "961",
+    "voti": "3720",
     "perc": "0,64",
     "eletto": "",
     "perc_voti_liste": "",
@@ -387,7 +387,7 @@
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "1053",
-    "perc_cifra_el": "0,70",
+    "perc_cifra_el": "1,70",
     "seggi": ""
   },
   {

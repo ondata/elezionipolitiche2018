@@ -3,7 +3,7 @@
 "elettori": "211.364",
 "votanti": "159.986",
 "perc_votanti": "75,69",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 09:26",
+"aggiornamento": "Dato aggiornato al 05/03/2018 - 13:46",
 "sezioni_perv": "303",
 "sezioni": "303",
 "coll_uni_perv": "",
@@ -13,12 +13,12 @@
 "sk_nulle": "4.678",
 "sk_contestate": "2",		
 "livello": "U",
-"flag_eletto": "",  
+"flag_eletto": "S",  
 "note": [
 	{"testo": ""}
 	],
 "righe": [
-	{"tipo_riga": "CA", "cand_descr_riga": "TOMMASO FOTI", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "73.599", "perc": "47,38", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "2.042"},
+	{"tipo_riga": "CA", "cand_descr_riga": "TOMMASO FOTI", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "73.599", "perc": "47,38", "eletto": "U", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "2.042"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11367-0.png", "descr_lista": "LEGA", "link_cand_lista": "", "voti": "42.687", "perc": "27,48", "eletto": "", "perc_voti_liste": "", "cifra_el": "42.687", "perc_cifra_el": "27,48", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-1112-0.png", "descr_lista": "FORZA ITALIA", "link_cand_lista": "", "voti": "20.987", "perc": "13,51", "eletto": "", "perc_voti_liste": "", "cifra_el": "20.987", "perc_cifra_el": "13,51", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11434-0.png", "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI", "link_cand_lista": "", "voti": "8.910", "perc": "5,73", "eletto": "", "perc_voti_liste": "", "cifra_el": "8.910", "perc_cifra_el": "5,73", "seggi": "", "una_lista": "N"},

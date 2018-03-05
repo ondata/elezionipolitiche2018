@@ -64,4 +64,89 @@
 		</head>
 	<body class="html navbar-is-fixed-top cbp-spmenu-push" onload="">
 		<!--[if lt IE 8]>
-			<p class=chromeframe>Il tuo browser &egrave; <em>obsoleto!</em> <a href="http://browsehappy.com/">Aggiornalo</a> o <a
+			<p class=chromeframe>Il tuo browser &egrave; <em>obsoleto!</em> <a href="http://browsehappy.com/">Aggiornalo</a> o <a href="http://www.google.com/chromeframe/?redirect=true">installa Google Chrome Frame</a> per vedere questo sito.</p>
+        <![endif]-->
+
+    	<!-- back to top -->
+    	<a id="top"></a>
+
+        <a class="sr-only sr-only-focusable" href="#main-content">Vai al contenuto della pagina</a>
+        <div id="fb-root"></div><div class="container-fluid">
+    <div class="row header-row">
+        <div class="col-xs-2  col-md-1  col-sm-2 col-lg-1 hidden-print">
+        <!-- Burger menu e comparsa menu da sinistra -->
+           <div class="burger-wrapper burger-wr hidden-print">
+                <button type="button" id="show-menu" class="nav-burger"
+                        data-toggle="offcanvas" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar-menu">MENU</span>
+                </button>
+            </div>
+       <div class="region">
+        <!-- Contenitore del menu che comparirà da sinistra -->
+           <section id="block-system-main-menu"
+                      class="block block-system block-menu clearfix">
+           <ul class="menu nav cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left">
+               <li class="">
+                 <ul class="menu nav cbp-spmenu-left menu-left">
+              	
+                <li class="">
+                <a href="/daithome/elezioni" >
+				Le Elezioni				 </a>
+                                    </li>
+                
+                         </ul>
+            </li>
+            <div class="hidden-sm hidden-md hidden-lg">
+                <li class="border-serp">
+                    <ul class="menu nav  cbp-spmenu-vertical cbp-spmenu-left">
+						                    </ul>
+                 </li>
+                <li class="border-serp">
+                    <ul class="menu nav cbp-spmenu-vertical cbp-spmenu-left">
+						                    </ul>
+                </li>
+                <li class="border-serp">
+                    <ul class="menu nav cbp-spmenu-vertical cbp-spmenu-left">
+						                    </ul>
+                </li>
+            </div>         
+            </ul>
+        </section>
+      </div>  <!-- chiusura region -->           
+        
+    <!-- Div necessario per l'effetto oscuramento all'apertura del menu di sinistra (vedi script javascript) -->
+    <div id="black-overlay"></div>  
+  	  <a id="main-content"></a>  
+	</div>       
+       <div class=" col-xs-8 col-md-4 col-sm-8 col-lg-3 title-top">
+			<a href="/eligendo">
+                <div class="row hidden-print">
+                    <img src="/weblib/images/logo-eligendo.svg" width="140px"/>
+                    <!-- <span><strong></strong></span> -->
+                </div>
+                <div class="row row-logo-print">
+                    <img src="/weblib/images/logo-eligendo_nero.svg" width="140px"/>
+                    <!-- <span><strong></strong></span> -->
+                </div>
+                <div class="row">
+                    <p class="h4">Speciale elezioni</p>
+                </div>
+			</a>
+        </div>  
+		<!-- Header DAIT -->
+        <div class="col-md-6 col-lg-8 col-sm-6 col-xs-6  hidden-xs hidden-sm">
+            <nav class="navbar">
+                 <ul class="nav navbar-nav nav-top">
+                                 </ul>
+                <ul class="nav navbar-nav nav-social hidden-md navbar-right">
+                    <li class="li-menu">
+                        <a class="dropdown-toggle  " data-toggle="dropdown"  href="#">Condividi
+                            <span class="fa fa-share-alt condividi"></span></a>
+                        <a class="dropdown-toggle hidden-lg condividi" data-toggle="dropdown"  href="#">
+                            <span class="fa fa-share-alt"></span></a>
+                        <ul class="dropdown-menu nav-top down-menu">
+                            <li class="li-social">
+	                            <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Felezioni.interno.gov.it%2F%2F

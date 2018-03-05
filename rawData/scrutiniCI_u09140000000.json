@@ -3,7 +3,7 @@
 "elettori": "179.354",
 "votanti": "134.713",
 "perc_votanti": "75,11",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 09:26",
+"aggiornamento": "Dato aggiornato al 05/03/2018 - 13:46",
 "sezioni_perv": "297",
 "sezioni": "297",
 "coll_uni_perv": "",
@@ -13,12 +13,12 @@
 "sk_nulle": "5.415",
 "sk_contestate": "39",		
 "livello": "U",
-"flag_eletto": "",  
+"flag_eletto": "S",  
 "note": [
 	{"testo": ""}
 	],
 "righe": [
-	{"tipo_riga": "CA", "cand_descr_riga": "SANDRA SAVINO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "61.861", "perc": "47,89", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "2.093"},
+	{"tipo_riga": "CA", "cand_descr_riga": "SANDRA SAVINO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "61.861", "perc": "47,89", "eletto": "U", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "2.093"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11367-0.png", "descr_lista": "LEGA", "link_cand_lista": "", "voti": "39.894", "perc": "30,86", "eletto": "", "perc_voti_liste": "", "cifra_el": "39.894", "perc_cifra_el": "30,86", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-1112-0.png", "descr_lista": "FORZA ITALIA", "link_cand_lista": "", "voti": "12.820", "perc": "9,91", "eletto": "", "perc_voti_liste": "", "cifra_el": "12.820", "perc_cifra_el": "9,91", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11434-0.png", "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI", "link_cand_lista": "", "voti": "6.872", "perc": "5,31", "eletto": "", "perc_voti_liste": "", "cifra_el": "6.872", "perc_cifra_el": "5,31", "seggi": "", "una_lista": "N"},

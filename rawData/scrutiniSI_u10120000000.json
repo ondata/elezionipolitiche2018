@@ -3,7 +3,7 @@
 "elettori": "295.950",
 "votanti": "227.219",
 "perc_votanti": "76,77",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 10:26",
+"aggiornamento": "Dato aggiornato al 05/03/2018 - 12:12",
 "sezioni_perv": "509",
 "sezioni": "509",
 "coll_uni_perv": "",
@@ -13,12 +13,12 @@
 "sk_nulle": "6.437",
 "sk_contestate": "97",		
 "livello": "U",
-"flag_eletto": "",  
+"flag_eletto": "S",  
 "note": [
 	{"testo": ""}
 	],
 "righe": [
-	{"tipo_riga": "CA", "cand_descr_riga": "DONATELLA TESEI", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "85.065", "perc": "38,54", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "3.202"},
+	{"tipo_riga": "CA", "cand_descr_riga": "DONATELLA TESEI", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "85.065", "perc": "38,54", "eletto": "U", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "3.202"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11367-0.png", "descr_lista": "LEGA", "link_cand_lista": "", "voti": "46.088", "perc": "20,88", "eletto": "", "perc_voti_liste": "", "cifra_el": "46.088", "perc_cifra_el": "20,88", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-1112-0.png", "descr_lista": "FORZA ITALIA", "link_cand_lista": "", "voti": "27.386", "perc": "12,40", "eletto": "", "perc_voti_liste": "", "cifra_el": "27.386", "perc_cifra_el": "12,40", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11434-0.png", "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI", "link_cand_lista": "", "voti": "10.623", "perc": "4,81", "eletto": "", "perc_voti_liste": "", "cifra_el": "10.623", "perc_cifra_el": "4,81", "seggi": "", "una_lista": "N"},
