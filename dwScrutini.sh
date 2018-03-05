@@ -167,5 +167,17 @@ jq -s add ./scrutini/scrutiniSI_u*.json >./scrutini/scrutiniSI_u.json
 
 in2csv <./scrutini/scrutiniSI_u.json -I -f json >./scrutiniSI_u.csv
 
+mkdir -p ./rawData/tmp
+for i in ./rawData/*.json; do
+	nome=$(echo "$i" | sed 's|\./rawData/||g')
+	codice=$(echo "$i" | sed -r 's|(\./)(.*)(_)(.)([0-9]{1,100})(\.json)|\5|g')
+	assemblea=$(echo "$i" | sed -r 's|(\./rawData/)(.*)(_)(.)([0-9]{1,100})(\.json)|\2|g')
+	jq '[{assemblea:"'"$assemblea"'",codice:"'"$codice"'",status,elettori:.elettori|gsub("\\.";""),votanti,perc_votanti,aggiornamento,sezioni_perv:.sezioni_perv|gsub("\\.";""),sezioni:.sezioni|gsub("\\.";""),coll_uni_perv,coll_uni,sezioni_coll_uni_perv,sk_bianche,sk_nulle,sk_contestate,livello,fine_riparto}]' "$i" >./rawData/tmp/"$nome".json
+	echo "$nome"
+done
+
+jq -s add ./rawData/tmp/*.json >./riepilogo.json
+in2csv <./riepilogo.json -I -f json >./riepilogo.csv
+
 mv ./*.json ./dati
 mv ./*.csv ./dati

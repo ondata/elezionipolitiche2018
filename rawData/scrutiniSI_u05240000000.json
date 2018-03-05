@@ -3,7 +3,7 @@
 "elettori": "327.679",
 "votanti": "-",
 "perc_votanti": "-",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 09:46",
+"aggiornamento": "Dato aggiornato al 05/03/2018 - 10:26",
 "sezioni_perv": "469",
 "sezioni": "471",
 "coll_uni_perv": "",
@@ -43,7 +43,7 @@
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11003-0.png", "descr_lista": "CASAPOUND ITALIA", "link_cand_lista": "", "voti": "3.416", "perc": "1,42", "eletto": "", "perc_voti_liste": "", "cifra_el": "3.416", "perc_cifra_el": "1,42", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "CA", "cand_descr_riga": "MARIA CRISTINA SANDRIN DETTA SIORA GINA", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "1.903", "perc": "0,76", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "210"},
-     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11371-0.png", "descr_lista": "GRANDE NORD", "link_cand_lista": "", "voti": "1.693", "perc": "0,70", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.693", "perc_cifra_el": "0,70", "seggi": "", "una_lista": "S"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11371-0.png", "descr_lista": "GRANDE NORD", "link_cand_lista": "", "voti": "1.693", "perc": "0,70", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.693", "perc_cifra_el": "1,70", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "CA", "cand_descr_riga": "PIETRO AMEDEO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "1.839", "perc": "0,73", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "118"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11388-0.png", "descr_lista": "ITALIA AGLI ITALIANI", "link_cand_lista": "", "voti": "1.721", "perc": "0,71", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.721", "perc_cifra_el": "0,71", "seggi": "", "una_lista": "S"},
@@ -52,16 +52,16 @@
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11372-0.png", "descr_lista": "POTERE AL POPOLO!", "link_cand_lista": "", "voti": "1.512", "perc": "0,63", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.512", "perc_cifra_el": "0,63", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "CA", "cand_descr_riga": "ANTONELLA TODARO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "599", "perc": "0,24", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "53"},
-     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11381-0.png", "descr_lista": "PARTITO VALORE UMANO", "link_cand_lista": "", "voti": "546", "perc": "0,22", "eletto": "", "perc_voti_liste": "", "cifra_el": "546", "perc_cifra_el": "0,22", "seggi": "", "una_lista": "S"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11381-0.png", "descr_lista": "PARTITO VALORE UMANO", "link_cand_lista": "", "voti": "546", "perc": "0,22", "eletto": "", "perc_voti_liste": "", "cifra_el": "546", "perc_cifra_el": "1,22", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
-	{"tipo_riga": "CA", "cand_descr_riga": "STEFANO LISE", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "273", "perc": "0,10", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "25"},
-     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11377-0.png", "descr_lista": "PER UNA SINISTRA RIVOLUZIONARIA", "link_cand_lista": "", "voti": "248", "perc": "0,10", "eletto": "", "perc_voti_liste": "", "cifra_el": "248", "perc_cifra_el": "0,10", "seggi": "", "una_lista": "S"},
+	{"tipo_riga": "CA", "cand_descr_riga": "STEFANO LISE", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "2.73", "perc": "0,10", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "25"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11377-0.png", "descr_lista": "PER UNA SINISTRA RIVOLUZIONARIA", "link_cand_lista": "", "voti": "239.969", "perc": "NaN,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "NaN,00", "seggi": "", "una_lista": "6"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "CA", "cand_descr_riga": "ANDREA MELLA", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "175", "perc": "0,07", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "28"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11418-0.png", "descr_lista": "PARTITO REPUBBLICANO ITALIANO - ALA", "link_cand_lista": "", "voti": "147", "perc": "0,06", "eletto": "", "perc_voti_liste": "", "cifra_el": "147", "perc_cifra_el": "0,06", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
-	{"tipo_riga": "TU", "cand_descr_riga": "Uninominale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "249.095", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
-	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "239.969", "perc": "100,00", "eletto": "", "perc_voti_liste": "100,00", "cifra_el": "", "perc_cifra_el": "", "seggi": ""}		
+	{"tipo_riga": "TU", "cand_descr_riga": "Uninominale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "100,00", "eletto": "", "perc_voti_liste": "100,00", "cifra_el": "", "perc_cifra_el": "", "seggi": ""}		
 	]				               
  }	
 	
