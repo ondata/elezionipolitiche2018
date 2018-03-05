@@ -4,7 +4,7 @@
     "codice": "19210000000",
     "status": "ESERCIZIO",
     "elettori": "186095",
-    "votanti": "120.933",
+    "votanti": "120933",
     "perc_votanti": "64,98",
     "aggiornamento": "Dato aggiornato al 05/03/2018 - 09:42",
     "sezioni_perv": "223",
@@ -13,7 +13,7 @@
     "coll_uni": "",
     "sezioni_coll_uni_perv": "223",
     "sk_bianche": "511",
-    "sk_nulle": "2.729",
+    "sk_nulle": "2729",
     "sk_contestate": "17",
     "livello": "U",
     "fine_riparto": null
