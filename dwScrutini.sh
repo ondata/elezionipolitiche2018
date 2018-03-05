@@ -10,6 +10,7 @@ set -x
 mkdir -p ./province
 mkdir -p ./tmp
 mkdir -p ./scrutini
+mkdir -p ./rawData
 
 # scarico i dati anagrafici
 curl "http://elezioni.interno.gov.it/assets/enti/camera_geopolitico_italia.json" | jq . >./camera_geopolitico_italia.json
@@ -43,7 +44,7 @@ while read p; do
 		-H 'postman-token: b8b67cdf-9521-4e07-2e63-99b28b20c2be' \
 		-H 'referer: http://elezioni.interno.gov.it/camera/scrutini/20180304/scrutiniCI'"$p"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{assemblea:"Camera",codice:"'"$p"'",tipo:"circoscrizione",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti,perc,eletto,perc_voti_liste,cifra_el,perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_c"$p".json
+		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniCI_c"$p".json | jq '[.righe[]|{assemblea:"Camera",codice:"'"$p"'",tipo:"circoscrizione",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_c"$p".json
 done <./scrutini/circoscrizioni.csv
 
 jq -s add ./scrutini/scrutiniCI_c*.json >./scrutini/scrutiniCI_c.json
@@ -62,7 +63,7 @@ while read p; do
 		-H 'postman-token: b8b67cdf-9521-4e07-2e63-99b28b20c2be' \
 		-H 'referer: http://elezioni.interno.gov.it/camera/scrutini/20180304/scrutiniCI'"$p"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{assemblea:"Camera",codice:"'"$p"'",tipo:"colleggioPlurinominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti,perc,eletto,perc_voti_liste,cifra_el,perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_p"$p".json
+		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniCI_p"$p".json | jq '[.righe[]|{assemblea:"Camera",codice:"'"$p"'",tipo:"colleggioPlurinominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_p"$p".json
 done <./scrutini/colleggiPlurinominali.csv
 
 jq -s add ./scrutini/scrutiniCI_p*.json >./scrutini/scrutiniCI_p.json
@@ -81,7 +82,7 @@ while read p; do
 		-H 'postman-token: b8b67cdf-9521-4e07-2e63-99b28b20c2be' \
 		-H 'referer: http://elezioni.interno.gov.it/camera/scrutini/20180304/scrutiniCI'"$p"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{assemblea:"Camera",codice:"'"$p"'",tipo:"colleggioUninominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti,perc,eletto,perc_voti_liste,cifra_el,perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_u"$p".json
+		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniCI_u"$p".json | jq '[.righe[]|{assemblea:"Camera",codice:"'"$p"'",tipo:"colleggioUninominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_u"$p".json
 done <./scrutini/colleggiUninominali.csv
 
 jq -s add ./scrutini/scrutiniCI_u*.json >./scrutini/scrutiniCI_u.json
@@ -121,7 +122,7 @@ while read p; do
 		-H 'postman-token: d7765423-a0a9-6a75-eafb-965ef2e8aaf2' \
 		-H 'referer: http://elezioni.interno.gov.it/senato/scrutini/20180304/scrutiniSI'"$p"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{assemblea:"Senato",codice:"'"$p"'",tipo:"circoscrizione",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti,perc,eletto,perc_voti_liste,cifra_el,perc_cifra_el,seggi}]' >./scrutini/scrutiniSI_c"$p".json
+		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniSI_c"$p".json | jq '[.righe[]|{assemblea:"Senato",codice:"'"$p"'",tipo:"circoscrizione",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniSI_c"$p".json
 done <./scrutini/circoscrizioniSI.csv
 
 jq -s add ./scrutini/scrutiniSI_c*.json >./scrutini/scrutiniSI_c.json
@@ -140,7 +141,7 @@ while read p; do
 		-H 'postman-token: d7765423-a0a9-6a75-eafb-965ef2e8aaf2' \
 		-H 'referer: http://elezioni.interno.gov.it/senato/scrutini/20180304/scrutiniSI'"$p"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{assemblea:"Senato",codice:"'"$p"'",tipo:"colleggioPlurinominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti,perc,eletto,perc_voti_liste,cifra_el,perc_cifra_el,seggi}]' >./scrutini/scrutiniSI_p"$p".json
+		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniSI_p"$p".json | jq '[.righe[]|{assemblea:"Senato",codice:"'"$p"'",tipo:"colleggioPlurinominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniSI_p"$p".json
 done <./scrutini/colleggiPlurinominaliSI.csv
 
 jq -s add ./scrutini/scrutiniSI_p*.json >./scrutini/scrutiniSI_p.json
@@ -159,7 +160,7 @@ while read p; do
 		-H 'postman-token: d7765423-a0a9-6a75-eafb-965ef2e8aaf2' \
 		-H 'referer: http://elezioni.interno.gov.it/senato/scrutini/20180304/scrutiniSI'"$p"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{assemblea:"Senato",codice:"'"$p"'",tipo:"colleggioUninominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti,perc,eletto,perc_voti_liste,cifra_el,perc_cifra_el,seggi}]' >./scrutini/scrutiniSI_u"$p".json
+		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniSI_u"$p".json | jq '[.righe[]|{assemblea:"Senato",codice:"'"$p"'",tipo:"colleggioUninominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniSI_u"$p".json
 done <./scrutini/colleggiUninominaliSI.csv
 
 jq -s add ./scrutini/scrutiniSI_u*.json >./scrutini/scrutiniSI_u.json
