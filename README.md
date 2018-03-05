@@ -21,6 +21,6 @@ Degli script per scaricare i dati sulle elezioni politiche del 4 marzo 2018 in I
 
 #### Scrutini
 
-- scrutini Camera per Circoscrizione: [scrutiniCI_c.csv](./dati/scrutiniCI_c.csv)
-- scrutini Camera per Colleggio Plurinominale: [scrutiniCI_c.csv](./dati/scrutiniCI_p.csv)
-- scrutini Camera per Colleggio Uninominale: [scrutiniCI_c.csv](./dati/scrutiniCI_u.csv)
+- scrutini Camera per Circoscrizione, Camera: [scrutiniCI_c.csv](./dati/scrutiniCI_c.csv)
+- scrutini Camera per Colleggio Plurinominale, Camera: [scrutiniCI_c.csv](./dati/scrutiniCI_p.csv)
+- scrutini Camera per Colleggio Uninominale, Camera: [scrutiniCI_c.csv](./dati/scrutiniCI_u.csv)
