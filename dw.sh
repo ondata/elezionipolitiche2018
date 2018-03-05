@@ -74,6 +74,10 @@ csvgrep <./votantiSIprovince_tmp.csv -c "livello" -r "^2$" >./votantiSIComuni.cs
 # Estraggo i dati soltanto sulle Province al Senato
 csvgrep <./votantiSIprovince_tmp.csv -c "livello" -r "^1$" >./votantiSIprovince.csv
 
+git add .
+git commit -am "update"
+git push
+
 rm *_tmp*
 
 mv ./*.json ./dati
