@@ -172,7 +172,7 @@ for i in ./rawData/*.json; do
 	nome=$(echo "$i" | sed 's|\./rawData/||g')
 	codice=$(echo "$i" | sed -r 's|(\./)(.*)(_)(.)([0-9]{1,100})(\.json)|\5|g')
 	assemblea=$(echo "$i" | sed -r 's|(\./rawData/)(.*)(_)(.)([0-9]{1,100})(\.json)|\2|g')
-	jq '[{assemblea:"'"$assemblea"'",codice:"'"$codice"'",status,elettori:.elettori|gsub("\\.";""),votanti,perc_votanti,aggiornamento,sezioni_perv:.sezioni_perv|gsub("\\.";""),sezioni:.sezioni|gsub("\\.";""),coll_uni_perv,coll_uni,sezioni_coll_uni_perv,sk_bianche,sk_nulle,sk_contestate,livello,fine_riparto}]' "$i" >./rawData/tmp/"$nome".json
+	jq '[{assemblea:"'"$assemblea"'",codice:"'"$codice"'",status,elettori:.elettori|gsub("\\.";""),votanti,perc_votanti,aggiornamento,sezioni_perv:.sezioni_perv|gsub("\\.";""),sezioni:.sezioni|gsub("\\.";""),coll_uni_perv,coll_uni,sezioni_coll_uni_perv,sk_bianche,sk_nulle,sk_contestate,livello,fine_riparto}]' "$i" >./rawData/tmp/"$nome"
 	echo "$nome"
 done
 
