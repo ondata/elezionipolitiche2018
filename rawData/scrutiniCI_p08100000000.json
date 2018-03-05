@@ -3,7 +3,7 @@
 "elettori": "712.555",
 "votanti": "573.175",
 "perc_votanti": "80,43",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 14:02",
+"aggiornamento": "Dato aggiornato al 05/03/2018 - 15:46",
 "sezioni_perv": "884",
 "sezioni": "884",  
 "coll_uni_perv": "3",
@@ -19,7 +19,7 @@
 	],
 "righe": [
 	{"tipo_riga": "CU", "cand_descr_riga": "CANDIDATI UNINOMINALI", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "265.099", "perc": "47,50", "eletto": "", "perc_voti_liste": "", "cifra_el": "265.099", "perc_cifra_el": "47,50", "seggi": "3"},		
-     	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "14", "img_lista": "24-20180304000000-11367-0.png", "descr_lista": "LEGA", "voti": "173.091", "perc": "31,01", "eletto": "", "perc_voti_liste": "", "cifra_el": "173.091", "perc_cifra_el": "31,01", "seggi": "-", "una_lista": "N"},		
+     	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "14", "img_lista": "24-20180304000000-11367-0.png", "descr_lista": "LEGA", "voti": "173.091", "perc": "31,01", "eletto": "", "perc_voti_liste": "", "cifra_el": "97.910", "perc_cifra_el": "31,01", "seggi": "-", "una_lista": "N"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "16", "img_lista": "24-20180304000000-1112-0.png", "descr_lista": "FORZA ITALIA", "voti": "63.485", "perc": "11,37", "eletto": "", "perc_voti_liste": "", "cifra_el": "63.485", "perc_cifra_el": "11,37", "seggi": "-", "una_lista": "N"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "17", "img_lista": "24-20180304000000-11434-0.png", "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI", "voti": "22.568", "perc": "4,04", "eletto": "", "perc_voti_liste": "", "cifra_el": "22.568", "perc_cifra_el": "4,04", "seggi": "-", "una_lista": "N"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "15", "img_lista": "24-20180304000000-11402-0.png", "descr_lista": "NOI CON L'ITALIA - UDC", "voti": "5.955", "perc": "1,06", "eletto": "", "perc_voti_liste": "", "cifra_el": "5.955", "perc_cifra_el": "1,06", "seggi": "-", "una_lista": "N"},

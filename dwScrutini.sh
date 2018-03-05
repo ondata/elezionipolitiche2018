@@ -89,8 +89,7 @@ jq -s add ./scrutini/scrutiniCI_u*.json >./scrutini/scrutiniCI_u.json
 
 in2csv <./scrutini/scrutiniCI_u.json -I -f json >./scrutiniCI_u.csv
 
-# scarico i dettagli sugli scrutini alla Camera per Comune (decommentare)
-<<commento2
+# scarico i dettagli sugli scrutini alla Camera per Comune (decommentare, se commentato)
 while read p; do
 	curl -X GET \
 		http://elezioni.interno.gov.it/politiche/camera20180304/scrutiniCI"$p" \
@@ -102,12 +101,13 @@ while read p; do
 		-H 'postman-token: b8b67cdf-9521-4e07-2e63-99b28b20c2be' \
 		-H 'referer: http://elezioni.interno.gov.it/camera/scrutini/20180304/scrutiniCI'"$p"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniCI_cm"$p".json | jq '[.righe[]|{assemblea:"Camera",codice:"'"$p"'",tipo:"colleggioUninominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_cm"$p".json
+		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniCI_cm"$p".json | jq '[.righe[]|{assemblea:"Camera",codice:"'"$p"'",tipo:"Comune",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_cm"$p".json
 done <./scrutini/comuni.csv
 
 jq -s add ./scrutini/scrutiniCI_cm*.json >./scrutini/scrutiniCI_cm.json
 
 in2csv <./scrutini/scrutiniCI_cm.json -I -f json >./scrutiniCI_cm.csv
+<<commento2
 commento2
 
 ### SENATO ###
@@ -188,7 +188,7 @@ jq -s add ./scrutini/scrutiniSI_u*.json >./scrutini/scrutiniSI_u.json
 
 in2csv <./scrutini/scrutiniSI_u.json -I -f json >./scrutiniSI_u.csv
 
-# scarico i dettagli sugli scrutini al Senato per Comune (decommentare)
+# scarico i dettagli sugli scrutini al Senato per Comune (decommentare, se commentato)
 <<commento3
 while read p; do
 	curl -X GET \
@@ -212,8 +212,8 @@ commento3
 mkdir -p ./rawData/tmp
 for i in ./rawData/*.json; do
 	nome=$(echo "$i" | sed 's|\./rawData/||g')
-	codice=$(echo "$i" | sed -r 's|(\./)(.*)(_)(.)([0-9]{1,100})(\.json)|\5|g')
-	assemblea=$(echo "$i" | sed -r 's|(\./rawData/)(.*)(_)(.)([0-9]{1,100})(\.json)|\2|g')
+	codice=$(echo "$i" | sed -r 's|(\./)(.*)(_)(..?)([0-9]{1,100})(\.json)|\5|g')
+	assemblea=$(echo "$i" | sed -r 's|(\./rawData/)(.*)(_)(..?)([0-9]{1,100})(\.json)|\2|g')
 	jq '[{assemblea:"'"$assemblea"'",codice:"'"$codice"'",status,elettori:.elettori|gsub("\\.";""),votanti:.votanti|gsub("\\.";""),perc_votanti,aggiornamento,sezioni_perv:.sezioni_perv|gsub("\\.";""),sezioni:.sezioni|gsub("\\.";""),coll_uni_perv,coll_uni,sezioni_coll_uni_perv,sk_bianche:.sk_bianche|gsub("\\.";""),sk_nulle:.sk_nulle|gsub("\\.";""),sk_contestate:.sk_contestate|gsub("\\.";""),livello,fine_riparto}]' "$i" >./rawData/tmp/"$nome"
 	echo "$nome"
 done

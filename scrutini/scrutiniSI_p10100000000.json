@@ -14,7 +14,7 @@
     "perc_voti_liste": "",
     "cifra_el": "176526",
     "perc_cifra_el": "37,26",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -677,7 +677,7 @@
     "perc_voti_liste": "",
     "cifra_el": "473763",
     "perc_cifra_el": "100,00",
-    "seggi": "0"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -694,6 +694,6 @@
     "perc_voti_liste": "",
     "cifra_el": "473763",
     "perc_cifra_el": "100,00",
-    "seggi": "0"
+    "seggi": "1"
   }
 ]

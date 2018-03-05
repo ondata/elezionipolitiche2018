@@ -14,7 +14,7 @@
     "perc_voti_liste": "",
     "cifra_el": "188073",
     "perc_cifra_el": "36,78",
-    "seggi": "2"
+    "seggi": "3"
   },
   {
     "assemblea": "Camera",
@@ -728,7 +728,7 @@
     "perc_voti_liste": "",
     "cifra_el": "511279",
     "perc_cifra_el": "100,00",
-    "seggi": "2"
+    "seggi": "3"
   },
   {
     "assemblea": "Camera",
@@ -745,6 +745,6 @@
     "perc_voti_liste": "",
     "cifra_el": "504566",
     "perc_cifra_el": "100,00",
-    "seggi": "2"
+    "seggi": "3"
   }
 ]
