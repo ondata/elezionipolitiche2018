@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "NOVARA",
     "href": "",
-    "comuni_perv": "82",
+    "comuni_perv": "88",
     "comuni": "88",
     "perc_ore12": "21,24",
-    "perc_ore19": "63,18",
+    "perc_ore19": "63,14",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -703,7 +703,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,98",
-    "perc_ore19": "60,40",
+    "perc_ore19": "60,27",
     "perc_ore2": null,
     "percprec_ore233": null
   },

@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "MILANO",
     "href": "",
-    "comuni_perv": "86",
+    "comuni_perv": "134",
     "comuni": "134",
     "perc_ore12": "19,35",
-    "perc_ore19": "60,27",
+    "perc_ore19": "60,23",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -367,7 +367,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "21,73",
-    "perc_ore19": "66,41",
+    "perc_ore19": "63,82",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -883,7 +883,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "18,44",
-    "perc_ore19": "58,68",
+    "perc_ore19": "58,66",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -1363,7 +1363,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,10",
-    "perc_ore19": "58,90",
+    "perc_ore19": "58,72",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -1423,7 +1423,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "19,20",
-    "perc_ore19": "63,74",
+    "perc_ore19": "61,85",
     "perc_ore2": null,
     "percprec_ore233": null
   },

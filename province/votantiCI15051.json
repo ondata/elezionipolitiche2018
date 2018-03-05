@@ -4,9 +4,9 @@
     "livello": "1",
     "ente": "NAPOLI",
     "href": "",
-    "comuni_perv": "80",
+    "comuni_perv": "92",
     "comuni": "92",
-    "perc_ore12": "16,62",
+    "perc_ore12": "16,63",
     "perc_ore19": "50,25",
     "perc_ore2": null,
     "percprec_ore233": null
@@ -618,7 +618,7 @@
     "href": "",
     "comuni_perv": "",
     "comuni": "",
-    "perc_ore12": "15,83",
+    "perc_ore12": "15,86",
     "perc_ore19": "47,49",
     "perc_ore2": null,
     "percprec_ore233": null

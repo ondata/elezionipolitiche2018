@@ -4,10 +4,10 @@
     "livello": "1",
     "ente": "VARESE",
     "href": "",
-    "comuni_perv": "87",
+    "comuni_perv": "139",
     "comuni": "139",
     "perc_ore12": "20,18",
-    "perc_ore19": "61,29",
+    "perc_ore19": "61,24",
     "perc_ore2": null,
     "percprec_ore233": null
   },
@@ -1123,7 +1123,7 @@
     "comuni_perv": "",
     "comuni": "",
     "perc_ore12": "25,25",
-    "perc_ore19": "93,42",
+    "perc_ore19": "65,44",
     "perc_ore2": null,
     "percprec_ore233": null
   },
