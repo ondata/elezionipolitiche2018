@@ -19,7 +19,7 @@ Degli script per scaricare i dati sulle elezioni politiche del 4 marzo 2018 in I
 - votanti per Comune Senato > [votantiSIComuni.csv](./dati/votantiSIComuni.csv)
 - anagrafica con i codici delle province > [anagraficaProvince.csv](./dati/anagraficaProvince.csv)
 
-**NOTA BENE**: manca la sezione Estero
+**NOTA BENE**: manca la sezione Estero e Valle D'Aosta
 
 #### Scrutini
 
@@ -33,4 +33,4 @@ Degli script per scaricare i dati sulle elezioni politiche del 4 marzo 2018 in I
 - dati di riepilogo: [riepilogo.csv](./dati/riepilogo.csv)
 
 
-**NOTA BENE**: manca la sezione Estero
+**NOTA BENE**: manca la sezione Estero e Valle D'Aosta
