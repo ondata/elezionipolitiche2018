@@ -12,6 +12,7 @@ mkdir -p ./tmp
 mkdir -p ./scrutini
 mkdir -p ./rawData
 
+
 # scarico i dati anagrafici
 curl "http://elezioni.interno.gov.it/assets/enti/camera_geopolitico_italia.json" | jq . >./camera_geopolitico_italia.json
 
@@ -31,6 +32,9 @@ grep <./camera_geopolitico_italia_tmp.csv -E '^..[^0]00000000' >./scrutini/colle
 
 # estraggo i codici delle circoscrizioni
 grep <./camera_geopolitico_italia_tmp.csv -E '^.[^0]0{9}' >./scrutini/circoscrizioni.csv
+
+# cancello precedenti dati su scrutini Camera per Circoscrizione
+rm ./scrutini/scrutiniCI_c*.json
 
 # scarico i dettagli sugli scrutini alla Camera per Circoscrizione
 while read p; do
@@ -104,11 +108,12 @@ while read p; do
 		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniCI_cm"$p".json | jq '[.righe[]|{assemblea:"Camera",codice:"'"$p"'",tipo:"Comune",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniCI_cm"$p".json
 done <./scrutini/comuni.csv
 
+<<commento2
+commento2
+
 jq -s add ./scrutini/scrutiniCI_cm*.json >./scrutini/scrutiniCI_cm.json
 
 in2csv <./scrutini/scrutiniCI_cm.json -I -f json >./scrutiniCI_cm.csv
-<<commento2
-commento2
 
 ### SENATO ###
 
@@ -130,6 +135,9 @@ grep <./senato_geopolitico_italia_tmp.csv -E '^..[^0]00000000' >./scrutini/colle
 
 # estraggo i codici delle circoscrizioni
 grep <./senato_geopolitico_italia_tmp.csv -E '^.[^0]0{9}' >./scrutini/circoscrizioniSI.csv
+
+# cancello precedenti dati su scrutini al Senato per Circoscrizione
+rm ./scrutini/scrutiniSI_c*.json
 
 # scarico i dettagli sugli scrutini al Senato per Circoscrizione
 while read p; do
@@ -209,6 +217,8 @@ jq -s add ./scrutini/scrutiniSI_cm*.json >./scrutini/scrutiniSI_cm.json
 in2csv <./scrutini/scrutiniSI_cm.json -I -f json >./scrutiniSI_cm.csv
 commento3
 
+# estraggo dati dati grezzi scaricati, i dati di riepilogo presenti nei JSON di output
+# è troppo lento, è da riscrivere
 mkdir -p ./rawData/tmp
 for i in ./rawData/*.json; do
 	nome=$(echo "$i" | sed 's|\./rawData/||g')

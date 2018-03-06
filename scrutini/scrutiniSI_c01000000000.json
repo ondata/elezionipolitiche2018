@@ -31,7 +31,7 @@
     "perc_voti_liste": "",
     "cifra_el": "513676",
     "perc_cifra_el": "22,60",
-    "seggi": "-"
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -48,7 +48,7 @@
     "perc_voti_liste": "",
     "cifra_el": "317688",
     "perc_cifra_el": "13,98",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -65,7 +65,7 @@
     "perc_voti_liste": "",
     "cifra_el": "84616",
     "perc_cifra_el": "3,72",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -83,6 +83,23 @@
     "cifra_el": "14938",
     "perc_cifra_el": "0,65",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01000000000",
+    "tipo": "circoscrizione",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "13"
   },
   {
     "assemblea": "Senato",
@@ -133,7 +150,24 @@
     "perc_voti_liste": "",
     "cifra_el": "596438",
     "perc_cifra_el": "26,25",
-    "seggi": "-"
+    "seggi": "4"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01000000000",
+    "tipo": "circoscrizione",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "4"
   },
   {
     "assemblea": "Senato",
@@ -184,7 +218,7 @@
     "perc_voti_liste": "",
     "cifra_el": "474826",
     "perc_cifra_el": "20,89",
-    "seggi": "-"
+    "seggi": "4"
   },
   {
     "assemblea": "Senato",
@@ -236,6 +270,23 @@
     "cifra_el": "8334",
     "perc_cifra_el": "0,36",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01000000000",
+    "tipo": "circoscrizione",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -586,11 +637,11 @@
     "img_lista": "25-20180304000000-11371-0.png",
     "descr_lista": "GRANDE NORD",
     "link_cand_lista": "",
-    "voti": "4880",
+    "voti": "4881",
     "perc": "0,21",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4880",
+    "cifra_el": "4881",
     "perc_cifra_el": "0,21",
     "seggi": "-"
   },
@@ -677,7 +728,7 @@
     "perc_voti_liste": "",
     "cifra_el": "2272014",
     "perc_cifra_el": "100,00",
-    "seggi": "8"
+    "seggi": "22"
   },
   {
     "assemblea": "Senato",
@@ -688,12 +739,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "2272013",
+    "voti": "2272014",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "2272013",
+    "cifra_el": "2272014",
     "perc_cifra_el": "100,00",
-    "seggi": "8"
+    "seggi": "22"
   }
 ]

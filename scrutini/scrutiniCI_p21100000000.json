@@ -25,13 +25,30 @@
     "img_lista": "24-20180304000000-11366-0.png",
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": null,
-    "voti": "259727",
-    "perc": "46,51",
+    "voti": "262441",
+    "perc": "46,74",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "259727",
-    "perc_cifra_el": "46,51",
-    "seggi": "-"
+    "cifra_el": "262441",
+    "perc_cifra_el": "46,74",
+    "seggi": "3"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "21100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "7"
   },
   {
     "assemblea": "Camera",
@@ -77,12 +94,12 @@
     "descr_lista": "FORZA ITALIA",
     "link_cand_lista": null,
     "voti": "102086",
-    "perc": "18,28",
+    "perc": "18,18",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "102086",
-    "perc_cifra_el": "18,28",
-    "seggi": "-"
+    "perc_cifra_el": "18,18",
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -94,11 +111,11 @@
     "descr_lista": "LEGA",
     "link_cand_lista": null,
     "voti": "28566",
-    "perc": "5,11",
+    "perc": "5,08",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "28566",
-    "perc_cifra_el": "5,11",
+    "perc_cifra_el": "5,08",
     "seggi": "-"
   },
   {
@@ -111,11 +128,11 @@
     "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
     "link_cand_lista": null,
     "voti": "21449",
-    "perc": "3,84",
+    "perc": "3,82",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "21449",
-    "perc_cifra_el": "3,84",
+    "perc_cifra_el": "3,82",
     "seggi": "-"
   },
   {
@@ -128,12 +145,29 @@
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": null,
     "voti": "13512",
-    "perc": "2,41",
+    "perc": "2,40",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "13512",
-    "perc_cifra_el": "2,41",
+    "perc_cifra_el": "2,40",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "21100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -179,12 +213,12 @@
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": null,
     "voti": "76932",
-    "perc": "13,77",
+    "perc": "13,70",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "76932",
-    "perc_cifra_el": "13,77",
-    "seggi": "-"
+    "perc_cifra_el": "13,70",
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -196,11 +230,11 @@
     "descr_lista": "+EUROPA",
     "link_cand_lista": null,
     "voti": "8558",
-    "perc": "1,53",
+    "perc": "1,52",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "8558",
-    "perc_cifra_el": "1,53",
+    "perc_cifra_el": "1,52",
     "seggi": "-"
   },
   {
@@ -236,6 +270,23 @@
     "cifra_el": "2305",
     "perc_cifra_el": "0,41",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "21100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -281,11 +332,11 @@
     "descr_lista": "LIBERI E UGUALI",
     "link_cand_lista": null,
     "voti": "25158",
-    "perc": "4,50",
+    "perc": "4,48",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "25158",
-    "perc_cifra_el": "4,50",
+    "perc_cifra_el": "4,48",
     "seggi": "-"
   },
   {
@@ -331,12 +382,12 @@
     "img_lista": "24-20180304000000-11372-0.png",
     "descr_lista": "POTERE AL POPOLO!",
     "link_cand_lista": null,
-    "voti": "5781",
-    "perc": "1,03",
+    "voti": "5946",
+    "perc": "1,05",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5781",
-    "perc_cifra_el": "1,03",
+    "cifra_el": "5946",
+    "perc_cifra_el": "1,05",
     "seggi": "-"
   },
   {
@@ -382,11 +433,11 @@
     "img_lista": "24-20180304000000-11003-0.png",
     "descr_lista": "CASAPOUND ITALIA",
     "link_cand_lista": null,
-    "voti": "3966",
+    "voti": "4009",
     "perc": "0,71",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3966",
+    "cifra_el": "4009",
     "perc_cifra_el": "0,71",
     "seggi": "-"
   },
@@ -433,12 +484,12 @@
     "img_lista": "24-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": null,
-    "voti": "3498",
-    "perc": "0,62",
+    "voti": "3545",
+    "perc": "0,63",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3498",
-    "perc_cifra_el": "0,62",
+    "cifra_el": "3545",
+    "perc_cifra_el": "0,63",
     "seggi": "-"
   },
   {
@@ -484,11 +535,11 @@
     "img_lista": "24-20180304000000-11023-0.png",
     "descr_lista": "PARTITO COMUNISTA",
     "link_cand_lista": null,
-    "voti": "1700",
+    "voti": "1718",
     "perc": "0,30",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1700",
+    "cifra_el": "1718",
     "perc_cifra_el": "0,30",
     "seggi": "-"
   },
@@ -626,7 +677,7 @@
     "perc_voti_liste": "",
     "cifra_el": "561412",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "9"
   },
   {
     "assemblea": "Camera",
@@ -637,12 +688,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "558425",
+    "voti": "561412",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "558425",
+    "cifra_el": "561412",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "9"
   }
 ]

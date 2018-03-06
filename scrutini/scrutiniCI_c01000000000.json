@@ -26,12 +26,12 @@
     "descr_lista": "LEGA",
     "link_cand_lista": "",
     "voti": "244560",
-    "perc": "19,20",
+    "perc": "19,17",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "244560",
-    "perc_cifra_el": "19,20",
-    "seggi": "-"
+    "perc_cifra_el": "19,17",
+    "seggi": "3"
   },
   {
     "assemblea": "Camera",
@@ -43,12 +43,12 @@
     "descr_lista": "FORZA ITALIA",
     "link_cand_lista": "",
     "voti": "154612",
-    "perc": "12,13",
+    "perc": "12,12",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "154612",
-    "perc_cifra_el": "12,13",
-    "seggi": "-"
+    "perc_cifra_el": "12,12",
+    "seggi": "2"
   },
   {
     "assemblea": "Camera",
@@ -59,11 +59,11 @@
     "img_lista": "24-20180304000000-11434-0.png",
     "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
     "link_cand_lista": "",
-    "voti": "45613",
+    "voti": "45740",
     "perc": "3,58",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "45613",
+    "cifra_el": "45740",
     "perc_cifra_el": "3,58",
     "seggi": "-"
   },
@@ -76,13 +76,30 @@
     "img_lista": "24-20180304000000-11402-0.png",
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": "",
-    "voti": "7445",
+    "voti": "7460",
     "perc": "0,58",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "7445",
+    "cifra_el": "7460",
     "perc_cifra_el": "0,58",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "01000000000",
+    "tipo": "circoscrizione",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "11"
   },
   {
     "assemblea": "Camera",
@@ -128,12 +145,29 @@
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": "",
     "voti": "364095",
-    "perc": "28,58",
+    "perc": "28,54",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "364095",
-    "perc_cifra_el": "28,58",
-    "seggi": "-"
+    "perc_cifra_el": "28,54",
+    "seggi": "4"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "01000000000",
+    "tipo": "circoscrizione",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Camera",
@@ -178,13 +212,13 @@
     "img_lista": "24-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": "",
-    "voti": "285082",
-    "perc": "22,38",
+    "voti": "286292",
+    "perc": "22,44",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "285082",
-    "perc_cifra_el": "22,38",
-    "seggi": "-"
+    "cifra_el": "286292",
+    "perc_cifra_el": "22,44",
+    "seggi": "4"
   },
   {
     "assemblea": "Camera",
@@ -195,12 +229,12 @@
     "img_lista": "24-20180304000000-11403-0.png",
     "descr_lista": "+EUROPA",
     "link_cand_lista": "",
-    "voti": "60296",
-    "perc": "4,73",
+    "voti": "60525",
+    "perc": "4,74",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "60296",
-    "perc_cifra_el": "4,73",
+    "cifra_el": "60525",
+    "perc_cifra_el": "4,74",
     "seggi": "-"
   },
   {
@@ -236,6 +270,23 @@
     "cifra_el": "5306",
     "perc_cifra_el": "0,41",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "01000000000",
+    "tipo": "circoscrizione",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "6"
   },
   {
     "assemblea": "Camera",
@@ -281,12 +332,29 @@
     "descr_lista": "LIBERI E UGUALI",
     "link_cand_lista": "",
     "voti": "57587",
-    "perc": "4,52",
+    "perc": "4,51",
     "eletto": "",
     "perc_voti_liste": "",
     "cifra_el": "57587",
-    "perc_cifra_el": "4,52",
-    "seggi": "-"
+    "perc_cifra_el": "4,51",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "01000000000",
+    "tipo": "circoscrizione",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -433,11 +501,11 @@
     "img_lista": "24-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": "",
-    "voti": "8420",
+    "voti": "8518",
     "perc": "0,66",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "8420",
+    "cifra_el": "8518",
     "perc_cifra_el": "0,66",
     "seggi": "-"
   },
@@ -484,11 +552,11 @@
     "img_lista": "24-20180304000000-11381-0.png",
     "descr_lista": "PARTITO VALORE UMANO",
     "link_cand_lista": "",
-    "voti": "4351",
+    "voti": "4407",
     "perc": "0,34",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4351",
+    "cifra_el": "4407",
     "perc_cifra_el": "0,34",
     "seggi": "-"
   },
@@ -524,7 +592,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1275447",
     "perc_cifra_el": "100,00",
-    "seggi": "9"
+    "seggi": "23"
   },
   {
     "assemblea": "Camera",
@@ -535,12 +603,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1273712",
+    "voti": "1275447",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1273712",
+    "cifra_el": "1275447",
     "perc_cifra_el": "100,00",
-    "seggi": "9"
+    "seggi": "23"
   }
 ]

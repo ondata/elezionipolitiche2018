@@ -31,7 +31,7 @@
     "perc_voti_liste": "",
     "cifra_el": "225463",
     "perc_cifra_el": "19,04",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -48,7 +48,7 @@
     "perc_voti_liste": "",
     "cifra_el": "151047",
     "perc_cifra_el": "12,76",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -83,6 +83,23 @@
     "cifra_el": "6589",
     "perc_cifra_el": "0,55",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -133,7 +150,24 @@
     "perc_voti_liste": "",
     "cifra_el": "335075",
     "perc_cifra_el": "28,30",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -184,7 +218,7 @@
     "perc_voti_liste": "",
     "cifra_el": "268303",
     "perc_cifra_el": "22,66",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -236,6 +270,23 @@
     "cifra_el": "4689",
     "perc_cifra_el": "0,39",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -677,7 +728,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1183674",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -694,6 +745,6 @@
     "perc_voti_liste": "",
     "cifra_el": "1183674",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   }
 ]

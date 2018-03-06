@@ -3,7 +3,7 @@
 "elettori": "233.710",
 "votanti": "166.650",
 "perc_votanti": "71,30",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 15:46",
+"aggiornamento": "Dato aggiornato al 06/03/2018 - 00:48",
 "sezioni_perv": "394",
 "sezioni": "394",  
 "coll_uni_perv": "1",
@@ -13,13 +13,14 @@
 "sk_nulle": "6.916",
 "sk_contestate": "15",		
 "livello": "I",  
-"fine_riparto": "",
-"note": [
-	{"testo": ""}
+"fine_riparto": "F",
+"note": [{"testo": "Il riparto provvisorio dei seggi si riferisce ad uno scrutinio non definitivo, non essendo pervenuti i risultati di tutte le sezioni"},
+	{"testo": "DATI PROVVISORI, TENENDO CONTO CHE ALCUNI VERBALI RISULTANO ESSERE STATI INVIATI DIRETTAMENTE ALLE CORTI DI APPELLO CHE, COME PREVISTO DALLA LEGGE, PROVVEDERANNO ALLA PROCLAMAZIONE DEGLI ELETTI"}
 	],
 "righe": [
 	{"tipo_riga": "CU", "cand_descr_riga": "CANDIDATI UNINOMINALI", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "71.067", "perc": "44,49", "eletto": "", "perc_voti_liste": "", "cifra_el": "71.067", "perc_cifra_el": "44,49", "seggi": "1"},		
-     	{"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11366-0.png", "descr_lista": "MOVIMENTO 5 STELLE", "link_cand_lista": "", "voti": "71.067", "perc": "44,49", "eletto": "", "perc_voti_liste": "", "cifra_el": "71.067", "perc_cifra_el": "44,49", "seggi": "-", "una_lista": "S"},
+     	{"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11366-0.png", "descr_lista": "MOVIMENTO 5 STELLE", "link_cand_lista": "", "voti": "71.067", "perc": "44,49", "eletto": "", "perc_voti_liste": "", "cifra_el": "71.067", "perc_cifra_el": "44,49", "seggi": "1", "una_lista": "S"},
+	{"tipo_riga": "TS", "cand_descr_riga": "TOTALE SEGGI", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "2"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "CU", "cand_descr_riga": "CANDIDATI UNINOMINALI", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "49.294", "perc": "30,86", "eletto": "", "perc_voti_liste": "", "cifra_el": "49.294", "perc_cifra_el": "30,86", "seggi": "-"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-1112-0.png", "descr_lista": "FORZA ITALIA", "link_cand_lista": "", "voti": "25.265", "perc": "15,81", "eletto": "", "perc_voti_liste": "", "cifra_el": "25.265", "perc_cifra_el": "15,81", "seggi": "-", "una_lista": "N"},		
@@ -51,8 +52,8 @@
 	{"tipo_riga": "CU", "cand_descr_riga": "CANDIDATI UNINOMINALI", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "86", "perc": "0,05", "eletto": "", "perc_voti_liste": "", "cifra_el": "86", "perc_cifra_el": "0,05", "seggi": "-"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11418-0.png", "descr_lista": "PARTITO REPUBBLICANO ITALIANO - ALA", "link_cand_lista": "", "voti": "86", "perc": "0,05", "eletto": "", "perc_voti_liste": "", "cifra_el": "86", "perc_cifra_el": "0,05", "seggi": "-", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
-	{"tipo_riga": "TU", "cand_descr_riga": "Uninominale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "159.719", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "159.719", "perc_cifra_el": "100,00", "seggi": "1"},
-	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "159.719", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "159.719", "perc_cifra_el": "100,00", "seggi": "1"}
+	{"tipo_riga": "TU", "cand_descr_riga": "Uninominale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "159.719", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "159.719", "perc_cifra_el": "100,00", "seggi": "2"},
+	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "159.719", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "159.719", "perc_cifra_el": "100,00", "seggi": "2"}
 	]				               
  }	
 	

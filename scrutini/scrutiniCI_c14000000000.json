@@ -31,7 +31,24 @@
     "perc_voti_liste": "",
     "cifra_el": "316417",
     "perc_cifra_el": "35,55",
-    "seggi": "-"
+    "seggi": "4"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "14000000000",
+    "tipo": "circoscrizione",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "9"
   },
   {
     "assemblea": "Camera",
@@ -82,7 +99,7 @@
     "perc_voti_liste": "",
     "cifra_el": "153742",
     "perc_cifra_el": "17,27",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Camera",
@@ -99,7 +116,7 @@
     "perc_voti_liste": "",
     "cifra_el": "88163",
     "perc_cifra_el": "9,90",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -116,7 +133,7 @@
     "perc_voti_liste": "",
     "cifra_el": "43431",
     "perc_cifra_el": "4,88",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -134,6 +151,23 @@
     "cifra_el": "8519",
     "perc_cifra_el": "0,95",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "14000000000",
+    "tipo": "circoscrizione",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Camera",
@@ -178,13 +212,13 @@
     "img_lista": "24-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": "",
-    "voti": "189582",
-    "perc": "21,30",
+    "voti": "189719",
+    "perc": "21,31",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "189582",
-    "perc_cifra_el": "21,30",
-    "seggi": "-"
+    "cifra_el": "189719",
+    "perc_cifra_el": "21,31",
+    "seggi": "2"
   },
   {
     "assemblea": "Camera",
@@ -229,13 +263,30 @@
     "img_lista": "24-20180304000000-11412-0.png",
     "descr_lista": "CIVICA POPOLARE LORENZIN",
     "link_cand_lista": "",
-    "voti": "3696",
-    "perc": "0,41",
+    "voti": "3559",
+    "perc": "0,39",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3696",
-    "perc_cifra_el": "0,41",
+    "cifra_el": "3559",
+    "perc_cifra_el": "0,39",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "14000000000",
+    "tipo": "circoscrizione",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Camera",
@@ -626,7 +677,7 @@
     "perc_voti_liste": "",
     "cifra_el": "889937",
     "perc_cifra_el": "100,00",
-    "seggi": "6"
+    "seggi": "16"
   },
   {
     "assemblea": "Camera",
@@ -643,6 +694,6 @@
     "perc_voti_liste": "",
     "cifra_el": "889937",
     "perc_cifra_el": "100,00",
-    "seggi": "6"
+    "seggi": "16"
   }
 ]

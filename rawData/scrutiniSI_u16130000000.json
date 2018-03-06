@@ -3,7 +3,7 @@
 "elettori": "361.594",
 "votanti": "245.086",
 "perc_votanti": "67,77",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 15:44",
+"aggiornamento": "Dato aggiornato al 06/03/2018 - 00:48",
 "sezioni_perv": "522",
 "sezioni": "522",
 "coll_uni_perv": "",
@@ -18,10 +18,10 @@
 	{"testo": ""}
 	],
 "righe": [
-	{"tipo_riga": "CA", "cand_descr_riga": "RUGGIERO QUARTO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "108.048", "perc": "45,68", "eletto": "U", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "4.555"},
+	{"tipo_riga": "CA", "cand_descr_riga": "RUGGIERO QUARTO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "108.043", "perc": "45,68", "eletto": "U", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "4.550"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11366-0.png", "descr_lista": "MOVIMENTO 5 STELLE", "link_cand_lista": "", "voti": "108.043", "perc": "45,68", "eletto": "", "perc_voti_liste": "", "cifra_el": "108.043", "perc_cifra_el": "45,68", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
-	{"tipo_riga": "CA", "cand_descr_riga": "SERGIO PAOLO FRANCESCO SILVESTRIS", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "78.423", "perc": "33,15", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "1.653"},
+	{"tipo_riga": "CA", "cand_descr_riga": "SERGIO PAOLO FRANCESCO SILVESTRIS", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "78.428", "perc": "33,15", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "1.658"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-1112-0.png", "descr_lista": "FORZA ITALIA", "link_cand_lista": "", "voti": "51.902", "perc": "21,94", "eletto": "", "perc_voti_liste": "", "cifra_el": "51.902", "perc_cifra_el": "21,94", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11367-0.png", "descr_lista": "LEGA", "link_cand_lista": "", "voti": "15.028", "perc": "6,35", "eletto": "", "perc_voti_liste": "", "cifra_el": "15.028", "perc_cifra_el": "6,35", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11434-0.png", "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI", "link_cand_lista": "", "voti": "7.471", "perc": "3,15", "eletto": "", "perc_voti_liste": "", "cifra_el": "7.471", "perc_cifra_el": "3,15", "seggi": "", "una_lista": "N"},

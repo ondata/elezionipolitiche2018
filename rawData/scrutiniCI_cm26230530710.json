@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/">
+	<head>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="shortcut icon" href="http://elezioni.interno.gov.it/weblib/favicon.ico" type="image/vnd.microsoft.icon" />
+        <title></title>
+        <meta name="description" content="ELIGENDO 2018 | Consulta i risultati elettorali su Eligendo - Il portale delle elezioni del Ministero dell'Interno">
+        <meta name="keywords" content="elezioni 2018, politiche e regionali 2018, elezioni, referendum, europee, regionali, comunali, politiche, risultati elettorali, eligendo, ministero interno, viminale, lazio, lombardia">
+		<link rel="image_src" href="http://elezioni.interno.gov.it/weblib/images/eligendo.png" />
+
+        <!-- SOCIAL -->
+		<meta property="og:site_name" content="Eligendo" />
+		<meta property="og:title" content="" />
+		<meta property="og:url" content="http://elezioni.interno.gov.it////"/>
+  		<meta property="og:description" content="ELIGENDO 2018 | Consulta i risultati elettorali su Eligendo - Il portale delle elezioni del Ministero dell'Interno" />
+		<meta property="og:image" content="http://elezioni.interno.gov.it/weblib/images/eligendo.png" />
+		<meta property="og:image:alt" content="Eligendo" />
+		<meta property="og:type" content="website" />
+
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="" />
+		<meta name="twitter:description" content="ELIGENDO 2018 | Consulta i risultati elettorali su Eligendo - Il portale delle elezioni del Ministero dell'Interno" />
+		<meta name="twitter:url" content="http://elezioni.interno.gov.it////" />
+		<meta name="twitter:image" content="http://elezioni.interno.gov.it/weblib/images/eligendo.png" />
+
+        <!-- CSS -->
+        <link rel="stylesheet" type="text/css" href="/weblib/css/jquery-ui.min.css" />
+        <link rel="stylesheet" type="text/css" href="/weblib/css/bootstrap.css" />
+        <link rel="stylesheet" type="text/css" href="/weblib/css/font-awesome.min.css" />
+        <link rel="stylesheet" type="text/css" href="/weblib/css/slidepushmenus-component.css" />
+        <link rel="stylesheet" type="text/css" href="/weblib/css/slidepushmenus-default.css" />
+        <link rel="stylesheet" type="text/css" href="/weblib/css/easy-autocomplete.min.css" />
+        <link rel="stylesheet" type="text/css" href="/weblib/css/dait.css" />
+
+        <link rel="stylesheet" type="text/css" href="/weblib/css/eligendo.css" />
+
+      	<link rel="stylesheet" type="text/css" href="/weblib/css/dait-elezioni.css"/>
+   	 
+
+        <link rel="stylesheet" media="print" href="/weblib/css/dait-stampa.css" />
+		<!-- HTML5 element support for IE6-8 -->
+		<!--[if lt IE 9]><script src="/weblib/js/respond.min.js"></script><![endif]-->
+        <!--[if lt IE 9]><script src="/weblib/js/html5shiv-printshiv.min.js"></script><![endif]-->
+		<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "Organization",
+			"url": "http://elezioni.interno.gov.it/eligendo",
+			"name": "Eligendo: speciale elezioni",
+			"image": "http://elezioni.interno.gov.it/weblib/images/eligendo.png",
+			"description": "ELIGENDO 2018 | Speciale elezioni | Il 4 marzo si vota per le elezioni politiche. In Lombardia e Lazio si vota anche per le elezioni regionali. Tutte le informazioni sugli adempimenti preparatori e organizzativi per lo svolgimento delle consultazioni elettorali, i dati dell&#039;affluenza e i risultati.",
+			"logo": "http://elezioni.interno.gov.it/weblib/images/logo-eligendo_blu.svg",
+			"contactPoint": {
+				"@type": "ContactPoint",
+				"telephone": "+3946501",
+				"contactType": "technical support"
+			}
+		}
+		</script>
+
+		</head>
+	<body class="html navbar-is-fixed-top cbp-spmenu-push" onload="">
+		<!--[if lt IE 8]>
+			<p class=chromeframe>Il tuo browser &egrave; <em>obsoleto!</em> <a href="http://browsehappy.com/">Aggiornalo</a> o <a

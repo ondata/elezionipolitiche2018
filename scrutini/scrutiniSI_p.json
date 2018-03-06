@@ -31,7 +31,7 @@
     "perc_voti_liste": "",
     "cifra_el": "225463",
     "perc_cifra_el": "19,04",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -48,7 +48,7 @@
     "perc_voti_liste": "",
     "cifra_el": "151047",
     "perc_cifra_el": "12,76",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -83,6 +83,23 @@
     "cifra_el": "6589",
     "perc_cifra_el": "0,55",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -133,7 +150,24 @@
     "perc_voti_liste": "",
     "cifra_el": "335075",
     "perc_cifra_el": "28,30",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -184,7 +218,7 @@
     "perc_voti_liste": "",
     "cifra_el": "268303",
     "perc_cifra_el": "22,66",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -236,6 +270,23 @@
     "cifra_el": "4689",
     "perc_cifra_el": "0,39",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -677,7 +728,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1183674",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -694,7 +745,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1183674",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -728,7 +779,7 @@
     "perc_voti_liste": "",
     "cifra_el": "288213",
     "perc_cifra_el": "26,48",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -745,7 +796,7 @@
     "perc_voti_liste": "",
     "cifra_el": "166641",
     "perc_cifra_el": "15,31",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -762,7 +813,7 @@
     "perc_voti_liste": "",
     "cifra_el": "44613",
     "perc_cifra_el": "4,09",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -780,6 +831,23 @@
     "cifra_el": "8349",
     "perc_cifra_el": "0,76",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "8"
   },
   {
     "assemblea": "Senato",
@@ -830,7 +898,24 @@
     "perc_voti_liste": "",
     "cifra_el": "261363",
     "perc_cifra_el": "24,01",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -881,7 +966,7 @@
     "perc_voti_liste": "",
     "cifra_el": "206523",
     "perc_cifra_el": "18,97",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -933,6 +1018,23 @@
     "cifra_el": "3492",
     "perc_cifra_el": "0,32",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "01200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -1283,11 +1385,11 @@
     "img_lista": "25-20180304000000-11371-0.png",
     "descr_lista": "GRANDE NORD",
     "link_cand_lista": null,
-    "voti": "2873",
+    "voti": "2874",
     "perc": "0,26",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "2873",
+    "cifra_el": "2874",
     "perc_cifra_el": "0,26",
     "seggi": "-"
   },
@@ -1374,7 +1476,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1088340",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "12"
   },
   {
     "assemblea": "Senato",
@@ -1385,13 +1487,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1088339",
+    "voti": "1088340",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1088339",
+    "cifra_el": "1088340",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "12"
   },
   {
     "assemblea": "Senato",
@@ -1425,7 +1527,7 @@
     "perc_voti_liste": "",
     "cifra_el": "242747",
     "perc_cifra_el": "28,48",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -1442,7 +1544,7 @@
     "perc_voti_liste": "",
     "cifra_el": "120025",
     "perc_cifra_el": "14,08",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -1477,6 +1579,23 @@
     "cifra_el": "6448",
     "perc_cifra_el": "0,75",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -1527,7 +1646,7 @@
     "perc_voti_liste": "",
     "cifra_el": "173883",
     "perc_cifra_el": "20,40",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -1584,6 +1703,23 @@
     "assemblea": "Senato",
     "codice": "03100000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03100000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -1629,7 +1765,24 @@
     "perc_voti_liste": "",
     "cifra_el": "191901",
     "perc_cifra_el": "22,51",
-    "seggi": "-"
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -2020,7 +2173,7 @@
     "perc_voti_liste": "",
     "cifra_el": "852341",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -2037,7 +2190,7 @@
     "perc_voti_liste": "",
     "cifra_el": "852341",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -2071,7 +2224,7 @@
     "perc_voti_liste": "",
     "cifra_el": "403318",
     "perc_cifra_el": "34,52",
-    "seggi": "-"
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -2088,7 +2241,7 @@
     "perc_voti_liste": "",
     "cifra_el": "154373",
     "perc_cifra_el": "13,21",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -2105,7 +2258,7 @@
     "perc_voti_liste": "",
     "cifra_el": "51969",
     "perc_cifra_el": "4,44",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -2123,6 +2276,23 @@
     "cifra_el": "9752",
     "perc_cifra_el": "0,83",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -2173,7 +2343,7 @@
     "perc_voti_liste": "",
     "cifra_el": "234175",
     "perc_cifra_el": "20,04",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -2230,6 +2400,23 @@
     "assemblea": "Senato",
     "codice": "03200000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03200000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -2275,7 +2462,24 @@
     "perc_voti_liste": "",
     "cifra_el": "211341",
     "perc_cifra_el": "18,09",
-    "seggi": "-"
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -2615,7 +2819,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1168232",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "12"
   },
   {
     "assemblea": "Senato",
@@ -2632,7 +2836,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1168232",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "12"
   },
   {
     "assemblea": "Senato",
@@ -2666,7 +2870,7 @@
     "perc_voti_liste": "",
     "cifra_el": "349136",
     "perc_cifra_el": "30,89",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -2683,7 +2887,7 @@
     "perc_voti_liste": "",
     "cifra_el": "167967",
     "perc_cifra_el": "14,86",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -2718,6 +2922,23 @@
     "cifra_el": "11717",
     "perc_cifra_el": "1,03",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03300000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -2768,7 +2989,7 @@
     "perc_voti_liste": "",
     "cifra_el": "214295",
     "perc_cifra_el": "18,96",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -2825,6 +3046,23 @@
     "assemblea": "Senato",
     "codice": "03300000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03300000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -2870,7 +3108,24 @@
     "perc_voti_liste": "",
     "cifra_el": "238320",
     "perc_cifra_el": "21,09",
-    "seggi": "-"
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03300000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -3210,7 +3465,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1129919",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -3227,7 +3482,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1129919",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -3255,13 +3510,13 @@
     "img_lista": "25-20180304000000-11367-0.png",
     "descr_lista": "LEGA",
     "link_cand_lista": null,
-    "voti": "231013",
-    "perc": "20,97",
+    "voti": "230640",
+    "perc": "20,98",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "231013",
-    "perc_cifra_el": "20,97",
-    "seggi": "-"
+    "cifra_el": "230640",
+    "perc_cifra_el": "20,98",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -3272,13 +3527,13 @@
     "img_lista": "25-20180304000000-1112-0.png",
     "descr_lista": "FORZA ITALIA",
     "link_cand_lista": null,
-    "voti": "159265",
+    "voti": "158991",
     "perc": "14,46",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "159265",
+    "cifra_el": "158991",
     "perc_cifra_el": "14,46",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -3289,11 +3544,11 @@
     "img_lista": "25-20180304000000-11434-0.png",
     "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
     "link_cand_lista": null,
-    "voti": "44043",
+    "voti": "43968",
     "perc": "3,99",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "44043",
+    "cifra_el": "43968",
     "perc_cifra_el": "3,99",
     "seggi": "-"
   },
@@ -3306,13 +3561,30 @@
     "img_lista": "25-20180304000000-11402-0.png",
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": null,
-    "voti": "11928",
+    "voti": "11908",
     "perc": "1,08",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "11928",
+    "cifra_el": "11908",
     "perc_cifra_el": "1,08",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03400000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "6"
   },
   {
     "assemblea": "Senato",
@@ -3357,13 +3629,13 @@
     "img_lista": "25-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": null,
-    "voti": "269021",
-    "perc": "24,42",
+    "voti": "268552",
+    "perc": "24,43",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "269021",
-    "perc_cifra_el": "24,42",
-    "seggi": "-"
+    "cifra_el": "268552",
+    "perc_cifra_el": "24,43",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -3374,11 +3646,11 @@
     "img_lista": "25-20180304000000-11403-0.png",
     "descr_lista": "+EUROPA",
     "link_cand_lista": null,
-    "voti": "61518",
+    "voti": "61399",
     "perc": "5,58",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "61518",
+    "cifra_el": "61399",
     "perc_cifra_el": "5,58",
     "seggi": "-"
   },
@@ -3391,11 +3663,11 @@
     "img_lista": "25-20180304000000-11373-0.png",
     "descr_lista": "ITALIA EUROPA INSIEME",
     "link_cand_lista": null,
-    "voti": "7036",
+    "voti": "7024",
     "perc": "0,63",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "7036",
+    "cifra_el": "7024",
     "perc_cifra_el": "0,63",
     "seggi": "-"
   },
@@ -3408,13 +3680,30 @@
     "img_lista": "25-20180304000000-11412-0.png",
     "descr_lista": "CIVICA POPOLARE LORENZIN",
     "link_cand_lista": null,
-    "voti": "4711",
+    "voti": "4703",
     "perc": "0,42",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4711",
+    "cifra_el": "4703",
     "perc_cifra_el": "0,42",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03400000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -3459,13 +3748,30 @@
     "img_lista": "25-20180304000000-11366-0.png",
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": null,
-    "voti": "235418",
+    "voti": "234947",
     "perc": "21,37",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "235418",
+    "cifra_el": "234947",
     "perc_cifra_el": "21,37",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03400000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -3510,13 +3816,30 @@
     "img_lista": "25-20180304000000-11393-0.png",
     "descr_lista": "LIBERI E UGUALI",
     "link_cand_lista": null,
-    "voti": "41454",
+    "voti": "41358",
     "perc": "3,76",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "41454",
+    "cifra_el": "41358",
     "perc_cifra_el": "3,76",
-    "seggi": "-"
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03400000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -3561,11 +3884,11 @@
     "img_lista": "25-20180304000000-11372-0.png",
     "descr_lista": "POTERE AL POPOLO!",
     "link_cand_lista": null,
-    "voti": "12526",
+    "voti": "12502",
     "perc": "1,13",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "12526",
+    "cifra_el": "12502",
     "perc_cifra_el": "1,13",
     "seggi": "-"
   },
@@ -3612,11 +3935,11 @@
     "img_lista": "25-20180304000000-11003-0.png",
     "descr_lista": "CASAPOUND ITALIA",
     "link_cand_lista": null,
-    "voti": "8643",
+    "voti": "8620",
     "perc": "0,78",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "8643",
+    "cifra_el": "8620",
     "perc_cifra_el": "0,78",
     "seggi": "-"
   },
@@ -3663,11 +3986,11 @@
     "img_lista": "25-20180304000000-11388-0.png",
     "descr_lista": "ITALIA AGLI ITALIANI",
     "link_cand_lista": null,
-    "voti": "6128",
+    "voti": "6118",
     "perc": "0,55",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "6128",
+    "cifra_el": "6118",
     "perc_cifra_el": "0,55",
     "seggi": "-"
   },
@@ -3714,11 +4037,11 @@
     "img_lista": "25-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": null,
-    "voti": "4946",
+    "voti": "4935",
     "perc": "0,44",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4946",
+    "cifra_el": "4935",
     "perc_cifra_el": "0,44",
     "seggi": "-"
   },
@@ -3765,11 +4088,11 @@
     "img_lista": "25-20180304000000-11377-0.png",
     "descr_lista": "PER UNA SINISTRA RIVOLUZIONARIA",
     "link_cand_lista": null,
-    "voti": "2399",
+    "voti": "2391",
     "perc": "0,21",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "2399",
+    "cifra_el": "2391",
     "perc_cifra_el": "0,21",
     "seggi": "-"
   },
@@ -3816,11 +4139,11 @@
     "img_lista": "25-20180304000000-11418-0.png",
     "descr_lista": "PARTITO REPUBBLICANO ITALIANO - ALA",
     "link_cand_lista": null,
-    "voti": "1196",
+    "voti": "1195",
     "perc": "0,10",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1196",
+    "cifra_el": "1195",
     "perc_cifra_el": "0,10",
     "seggi": "-"
   },
@@ -3856,7 +4179,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1099251",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "12"
   },
   {
     "assemblea": "Senato",
@@ -3867,13 +4190,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1101245",
+    "voti": "1099251",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1101245",
+    "cifra_el": "1099251",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "12"
   },
   {
     "assemblea": "Senato",
@@ -3901,13 +4224,13 @@
     "img_lista": "25-20180304000000-11367-0.png",
     "descr_lista": "LEGA",
     "link_cand_lista": null,
-    "voti": "229125",
+    "voti": "228870",
     "perc": "24,37",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "229125",
+    "cifra_el": "228870",
     "perc_cifra_el": "24,37",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -3918,13 +4241,13 @@
     "img_lista": "25-20180304000000-1112-0.png",
     "descr_lista": "FORZA ITALIA",
     "link_cand_lista": null,
-    "voti": "128619",
+    "voti": "128474",
     "perc": "13,68",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "128619",
+    "cifra_el": "128474",
     "perc_cifra_el": "13,68",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -3935,11 +4258,11 @@
     "img_lista": "25-20180304000000-11434-0.png",
     "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
     "link_cand_lista": null,
-    "voti": "35805",
+    "voti": "35764",
     "perc": "3,80",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "35805",
+    "cifra_el": "35764",
     "perc_cifra_el": "3,80",
     "seggi": "-"
   },
@@ -3952,13 +4275,30 @@
     "img_lista": "25-20180304000000-11402-0.png",
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": null,
-    "voti": "10495",
+    "voti": "10483",
     "perc": "1,11",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "10495",
+    "cifra_el": "10483",
     "perc_cifra_el": "1,11",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03500000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -4003,13 +4343,13 @@
     "img_lista": "25-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": null,
-    "voti": "211433",
+    "voti": "211173",
     "perc": "22,49",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "211433",
+    "cifra_el": "211173",
     "perc_cifra_el": "22,49",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -4020,11 +4360,11 @@
     "img_lista": "25-20180304000000-11403-0.png",
     "descr_lista": "+EUROPA",
     "link_cand_lista": null,
-    "voti": "27376",
+    "voti": "27344",
     "perc": "2,91",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "27376",
+    "cifra_el": "27344",
     "perc_cifra_el": "2,91",
     "seggi": "-"
   },
@@ -4037,11 +4377,11 @@
     "img_lista": "25-20180304000000-11373-0.png",
     "descr_lista": "ITALIA EUROPA INSIEME",
     "link_cand_lista": null,
-    "voti": "4881",
+    "voti": "4875",
     "perc": "0,51",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4881",
+    "cifra_el": "4875",
     "perc_cifra_el": "0,51",
     "seggi": "-"
   },
@@ -4054,13 +4394,30 @@
     "img_lista": "25-20180304000000-11412-0.png",
     "descr_lista": "CIVICA POPOLARE LORENZIN",
     "link_cand_lista": null,
-    "voti": "3891",
+    "voti": "3887",
     "perc": "0,41",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3891",
+    "cifra_el": "3887",
     "perc_cifra_el": "0,41",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03500000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -4105,13 +4462,30 @@
     "img_lista": "25-20180304000000-11366-0.png",
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": null,
-    "voti": "231891",
+    "voti": "231530",
     "perc": "24,66",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "231891",
+    "cifra_el": "231530",
     "perc_cifra_el": "24,66",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "03500000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -4156,11 +4530,11 @@
     "img_lista": "25-20180304000000-11393-0.png",
     "descr_lista": "LIBERI E UGUALI",
     "link_cand_lista": null,
-    "voti": "29270",
+    "voti": "29224",
     "perc": "3,11",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "29270",
+    "cifra_el": "29224",
     "perc_cifra_el": "3,11",
     "seggi": "-"
   },
@@ -4207,11 +4581,11 @@
     "img_lista": "25-20180304000000-11372-0.png",
     "descr_lista": "POTERE AL POPOLO!",
     "link_cand_lista": null,
-    "voti": "7728",
+    "voti": "7714",
     "perc": "0,82",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "7728",
+    "cifra_el": "7714",
     "perc_cifra_el": "0,82",
     "seggi": "-"
   },
@@ -4258,12 +4632,12 @@
     "img_lista": "25-20180304000000-11003-0.png",
     "descr_lista": "CASAPOUND ITALIA",
     "link_cand_lista": null,
-    "voti": "7519",
-    "perc": "0,79",
+    "voti": "7512",
+    "perc": "0,80",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "7519",
-    "perc_cifra_el": "0,79",
+    "cifra_el": "7512",
+    "perc_cifra_el": "0,80",
     "seggi": "-"
   },
   {
@@ -4309,11 +4683,11 @@
     "img_lista": "25-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": null,
-    "voti": "4953",
+    "voti": "4948",
     "perc": "0,52",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4953",
+    "cifra_el": "4948",
     "perc_cifra_el": "0,52",
     "seggi": "-"
   },
@@ -4360,11 +4734,11 @@
     "img_lista": "25-20180304000000-11388-0.png",
     "descr_lista": "ITALIA AGLI ITALIANI",
     "link_cand_lista": null,
-    "voti": "4018",
+    "voti": "4010",
     "perc": "0,42",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4018",
+    "cifra_el": "4010",
     "perc_cifra_el": "0,42",
     "seggi": "-"
   },
@@ -4411,11 +4785,11 @@
     "img_lista": "25-20180304000000-11377-0.png",
     "descr_lista": "PER UNA SINISTRA RIVOLUZIONARIA",
     "link_cand_lista": null,
-    "voti": "2096",
+    "voti": "2092",
     "perc": "0,22",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "2096",
+    "cifra_el": "2092",
     "perc_cifra_el": "0,22",
     "seggi": "-"
   },
@@ -4502,7 +4876,7 @@
     "perc_voti_liste": "",
     "cifra_el": "938777",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -4513,13 +4887,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "939977",
+    "voti": "938777",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "939977",
+    "cifra_el": "938777",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -4553,7 +4927,7 @@
     "perc_voti_liste": "",
     "cifra_el": "128282",
     "perc_cifra_el": "25,09",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -4622,6 +4996,23 @@
     "cifra_el": "4238",
     "perc_cifra_el": "0,82",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "04100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "4"
   },
   {
     "assemblea": "Senato",
@@ -5012,7 +5403,7 @@
     "perc_voti_liste": "",
     "cifra_el": "511271",
     "perc_cifra_el": "100,00",
-    "seggi": "6"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -5029,7 +5420,7 @@
     "perc_voti_liste": "",
     "cifra_el": "511271",
     "perc_cifra_el": "100,00",
-    "seggi": "6"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -5063,7 +5454,7 @@
     "perc_voti_liste": "",
     "cifra_el": "367734",
     "perc_cifra_el": "31,37",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -5080,7 +5471,7 @@
     "perc_voti_liste": "",
     "cifra_el": "126120",
     "perc_cifra_el": "10,76",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -5115,6 +5506,23 @@
     "cifra_el": "7755",
     "perc_cifra_el": "0,66",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "05100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -5165,7 +5573,24 @@
     "perc_voti_liste": "",
     "cifra_el": "297519",
     "perc_cifra_el": "25,38",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "05100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -5216,7 +5641,7 @@
     "perc_voti_liste": "",
     "cifra_el": "207649",
     "perc_cifra_el": "17,71",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -5273,6 +5698,23 @@
     "assemblea": "Senato",
     "codice": "05100000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "05100000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -5760,7 +6202,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1171904",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -5777,7 +6219,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1171904",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -5811,7 +6253,7 @@
     "perc_voti_liste": "",
     "cifra_el": "471852",
     "perc_cifra_el": "32,10",
-    "seggi": "-"
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -5828,7 +6270,7 @@
     "perc_voti_liste": "",
     "cifra_el": "160786",
     "perc_cifra_el": "10,94",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -5845,7 +6287,7 @@
     "perc_voti_liste": "",
     "cifra_el": "66738",
     "perc_cifra_el": "4,54",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -5863,6 +6305,23 @@
     "cifra_el": "25200",
     "perc_cifra_el": "1,71",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "05200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -5913,7 +6372,24 @@
     "perc_voti_liste": "",
     "cifra_el": "350441",
     "perc_cifra_el": "23,84",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "05200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -5964,7 +6440,7 @@
     "perc_voti_liste": "",
     "cifra_el": "242581",
     "perc_cifra_el": "16,50",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -6021,6 +6497,23 @@
     "assemblea": "Senato",
     "codice": "05200000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "05200000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -6508,7 +7001,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1469559",
     "perc_cifra_el": "100,00",
-    "seggi": "5"
+    "seggi": "14"
   },
   {
     "assemblea": "Senato",
@@ -6525,7 +7018,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1469559",
     "perc_cifra_el": "100,00",
-    "seggi": "5"
+    "seggi": "14"
   },
   {
     "assemblea": "Senato",
@@ -6559,7 +7052,7 @@
     "perc_voti_liste": "",
     "cifra_el": "164105",
     "perc_cifra_el": "25,48",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -6576,7 +7069,7 @@
     "perc_voti_liste": "",
     "cifra_el": "76114",
     "perc_cifra_el": "11,82",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -6611,6 +7104,23 @@
     "cifra_el": "6391",
     "perc_cifra_el": "0,99",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "06100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -6661,7 +7171,24 @@
     "perc_voti_liste": "",
     "cifra_el": "156251",
     "perc_cifra_el": "24,26",
-    "seggi": "-"
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "06100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -6712,7 +7239,7 @@
     "perc_voti_liste": "",
     "cifra_el": "128713",
     "perc_cifra_el": "19,99",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -6764,6 +7291,23 @@
     "cifra_el": "2473",
     "perc_cifra_el": "0,38",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "06100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -7358,7 +7902,7 @@
     "perc_voti_liste": "",
     "cifra_el": "643679",
     "perc_cifra_el": "100,00",
-    "seggi": "2"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -7375,7 +7919,7 @@
     "perc_voti_liste": "",
     "cifra_el": "643877",
     "perc_cifra_el": "100,00",
-    "seggi": "2"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -7409,7 +7953,7 @@
     "perc_voti_liste": "",
     "cifra_el": "164831",
     "perc_cifra_el": "20,52",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -7426,7 +7970,7 @@
     "perc_voti_liste": "",
     "cifra_el": "101949",
     "perc_cifra_el": "12,69",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -7461,6 +8005,23 @@
     "cifra_el": "6922",
     "perc_cifra_el": "0,86",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "07100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "4"
   },
   {
     "assemblea": "Senato",
@@ -7511,7 +8072,24 @@
     "perc_voti_liste": "",
     "cifra_el": "237964",
     "perc_cifra_el": "29,62",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "07100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -7562,7 +8140,7 @@
     "perc_voti_liste": "",
     "cifra_el": "164211",
     "perc_cifra_el": "20,44",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -7614,6 +8192,23 @@
     "cifra_el": "2842",
     "perc_cifra_el": "0,35",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "07100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -8055,7 +8650,7 @@
     "perc_voti_liste": "",
     "cifra_el": "803201",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "8"
   },
   {
     "assemblea": "Senato",
@@ -8072,7 +8667,7 @@
     "perc_voti_liste": "",
     "cifra_el": "803201",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "8"
   },
   {
     "assemblea": "Senato",
@@ -8106,7 +8701,7 @@
     "perc_voti_liste": "",
     "cifra_el": "237591",
     "perc_cifra_el": "18,23",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -8123,7 +8718,7 @@
     "perc_voti_liste": "",
     "cifra_el": "130470",
     "perc_cifra_el": "10,01",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -8158,6 +8753,23 @@
     "cifra_el": "7232",
     "perc_cifra_el": "0,55",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "08100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -8208,7 +8820,7 @@
     "perc_voti_liste": "",
     "cifra_el": "350929",
     "perc_cifra_el": "26,92",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -8265,6 +8877,23 @@
     "assemblea": "Senato",
     "codice": "08100000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "4"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "08100000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -8304,13 +8933,30 @@
     "img_lista": "25-20180304000000-11366-0.png",
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": null,
-    "voti": "352900",
-    "perc": "27,08",
+    "voti": "352888",
+    "perc": "27,07",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "352900",
-    "perc_cifra_el": "27,08",
-    "seggi": "-"
+    "cifra_el": "352888",
+    "perc_cifra_el": "27,07",
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "08100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -8355,13 +9001,30 @@
     "img_lista": "25-20180304000000-11393-0.png",
     "descr_lista": "LIBERI E UGUALI",
     "link_cand_lista": null,
-    "voti": "68302",
+    "voti": "68298",
     "perc": "5,24",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "68302",
+    "cifra_el": "68298",
     "perc_cifra_el": "5,24",
-    "seggi": "-"
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "08100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -8406,11 +9069,11 @@
     "img_lista": "25-20180304000000-11372-0.png",
     "descr_lista": "POTERE AL POPOLO!",
     "link_cand_lista": null,
-    "voti": "15093",
+    "voti": "15096",
     "perc": "1,15",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "15093",
+    "cifra_el": "15096",
     "perc_cifra_el": "1,15",
     "seggi": "-"
   },
@@ -8508,11 +9171,11 @@
     "img_lista": "25-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": null,
-    "voti": "9979",
+    "voti": "9984",
     "perc": "0,76",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "9979",
+    "cifra_el": "9984",
     "perc_cifra_el": "0,76",
     "seggi": "-"
   },
@@ -8661,11 +9324,11 @@
     "img_lista": "25-20180304000000-11418-0.png",
     "descr_lista": "PARTITO REPUBBLICANO ITALIANO - ALA",
     "link_cand_lista": null,
-    "voti": "4843",
+    "voti": "4845",
     "perc": "0,37",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4843",
+    "cifra_el": "4845",
     "perc_cifra_el": "0,37",
     "seggi": "-"
   },
@@ -8803,7 +9466,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1303163",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "12"
   },
   {
     "assemblea": "Senato",
@@ -8814,13 +9477,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1303169",
+    "voti": "1303163",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1303169",
+    "cifra_el": "1303163",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "12"
   },
   {
     "assemblea": "Senato",
@@ -8854,7 +9517,7 @@
     "perc_voti_liste": "",
     "cifra_el": "218986",
     "perc_cifra_el": "20,70",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -8871,7 +9534,7 @@
     "perc_voti_liste": "",
     "cifra_el": "108598",
     "perc_cifra_el": "10,27",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -8906,6 +9569,23 @@
     "cifra_el": "6298",
     "perc_cifra_el": "0,59",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "08200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "4"
   },
   {
     "assemblea": "Senato",
@@ -8956,7 +9636,7 @@
     "perc_voti_liste": "",
     "cifra_el": "270592",
     "perc_cifra_el": "25,58",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -9013,6 +9693,23 @@
     "assemblea": "Senato",
     "codice": "08200000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "4"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "08200000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -9058,7 +9755,24 @@
     "perc_voti_liste": "",
     "cifra_el": "283278",
     "perc_cifra_el": "26,78",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "08200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -9551,7 +10265,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1057414",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -9568,7 +10282,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1057414",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -9602,7 +10316,7 @@
     "perc_voti_liste": "",
     "cifra_el": "354341",
     "perc_cifra_el": "31,61",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -9659,6 +10373,23 @@
     "assemblea": "Senato",
     "codice": "09100000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "4"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "09100000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -9704,7 +10435,7 @@
     "perc_voti_liste": "",
     "cifra_el": "186946",
     "perc_cifra_el": "16,67",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -9721,7 +10452,7 @@
     "perc_voti_liste": "",
     "cifra_el": "115346",
     "perc_cifra_el": "10,29",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -9738,7 +10469,7 @@
     "perc_voti_liste": "",
     "cifra_el": "43425",
     "perc_cifra_el": "3,87",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -9756,6 +10487,23 @@
     "cifra_el": "6622",
     "perc_cifra_el": "0,59",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "09100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -9806,7 +10554,24 @@
     "perc_voti_liste": "",
     "cifra_el": "265872",
     "perc_cifra_el": "23,72",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "09100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -10197,7 +10962,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1120800",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "11"
   },
   {
     "assemblea": "Senato",
@@ -10214,7 +10979,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1120800",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "11"
   },
   {
     "assemblea": "Senato",
@@ -10248,7 +11013,7 @@
     "perc_voti_liste": "",
     "cifra_el": "163012",
     "perc_cifra_el": "18,80",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -10305,6 +11070,23 @@
     "assemblea": "Senato",
     "codice": "09200000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "09200000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -10350,7 +11132,7 @@
     "perc_voti_liste": "",
     "cifra_el": "252801",
     "perc_cifra_el": "29,15",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -10407,6 +11189,23 @@
     "assemblea": "Senato",
     "codice": "09200000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "09200000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -10452,7 +11251,24 @@
     "perc_voti_liste": "",
     "cifra_el": "218494",
     "perc_cifra_el": "25,20",
-    "seggi": "-"
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "09200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -10843,7 +11659,7 @@
     "perc_voti_liste": "",
     "cifra_el": "866976",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -10860,7 +11676,7 @@
     "perc_voti_liste": "",
     "cifra_el": "866976",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -10877,7 +11693,7 @@
     "perc_voti_liste": "",
     "cifra_el": "176526",
     "perc_cifra_el": "37,26",
-    "seggi": "1"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -10894,7 +11710,7 @@
     "perc_voti_liste": "",
     "cifra_el": "96080",
     "perc_cifra_el": "20,28",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -10911,7 +11727,7 @@
     "perc_voti_liste": "",
     "cifra_el": "55131",
     "perc_cifra_el": "11,63",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -10946,6 +11762,23 @@
     "cifra_el": "2200",
     "perc_cifra_el": "0,46",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "10100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "4"
   },
   {
     "assemblea": "Senato",
@@ -10996,7 +11829,7 @@
     "perc_voti_liste": "",
     "cifra_el": "120714",
     "perc_cifra_el": "25,47",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -11053,6 +11886,23 @@
     "assemblea": "Senato",
     "codice": "10100000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "10100000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -11098,7 +11948,24 @@
     "perc_voti_liste": "",
     "cifra_el": "128101",
     "perc_cifra_el": "27,03",
-    "seggi": "-"
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "10100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -11540,7 +12407,7 @@
     "perc_voti_liste": "",
     "cifra_el": "473763",
     "perc_cifra_el": "100,00",
-    "seggi": "1"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -11557,7 +12424,7 @@
     "perc_voti_liste": "",
     "cifra_el": "473763",
     "perc_cifra_el": "100,00",
-    "seggi": "1"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -11568,11 +12435,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "289379",
+    "voti": "289374",
     "perc": "35,22",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "289379",
+    "cifra_el": "289374",
     "perc_cifra_el": "35,22",
     "seggi": "3"
   },
@@ -11591,7 +12458,24 @@
     "perc_voti_liste": "",
     "cifra_el": "289374",
     "perc_cifra_el": "35,22",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "11100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -11619,11 +12503,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "270957",
+    "voti": "270962",
     "perc": "32,98",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "270957",
+    "cifra_el": "270962",
     "perc_cifra_el": "32,98",
     "seggi": "-"
   },
@@ -11642,7 +12526,7 @@
     "perc_voti_liste": "",
     "cifra_el": "144623",
     "perc_cifra_el": "17,60",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -11659,7 +12543,7 @@
     "perc_voti_liste": "",
     "cifra_el": "81358",
     "perc_cifra_el": "9,90",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -11694,6 +12578,23 @@
     "cifra_el": "7223",
     "perc_cifra_el": "0,87",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "11100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -11744,7 +12645,7 @@
     "perc_voti_liste": "",
     "cifra_el": "180032",
     "perc_cifra_el": "21,91",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -11801,6 +12702,23 @@
     "assemblea": "Senato",
     "codice": "11100000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "11100000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -12288,7 +13206,7 @@
     "perc_voti_liste": "",
     "cifra_el": "821527",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "8"
   },
   {
     "assemblea": "Senato",
@@ -12305,7 +13223,7 @@
     "perc_voti_liste": "",
     "cifra_el": "821527",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "8"
   },
   {
     "assemblea": "Senato",
@@ -12316,13 +13234,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "262888",
+    "voti": "263039",
     "perc": "31,13",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "262888",
+    "cifra_el": "263039",
     "perc_cifra_el": "31,13",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -12333,13 +13251,13 @@
     "img_lista": "25-20180304000000-1112-0.png",
     "descr_lista": "FORZA ITALIA",
     "link_cand_lista": null,
-    "voti": "92194",
-    "perc": "11,40",
+    "voti": "93241",
+    "perc": "11,26",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "92194",
-    "perc_cifra_el": "11,40",
-    "seggi": "-"
+    "cifra_el": "93241",
+    "perc_cifra_el": "11,26",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -12350,13 +13268,13 @@
     "img_lista": "25-20180304000000-11367-0.png",
     "descr_lista": "LEGA",
     "link_cand_lista": null,
-    "voti": "89748",
-    "perc": "11,10",
+    "voti": "90847",
+    "perc": "10,97",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "89748",
-    "perc_cifra_el": "11,10",
-    "seggi": "-"
+    "cifra_el": "90847",
+    "perc_cifra_el": "10,97",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -12367,12 +13285,12 @@
     "img_lista": "25-20180304000000-11434-0.png",
     "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
     "link_cand_lista": null,
-    "voti": "70904",
-    "perc": "8,77",
+    "voti": "71743",
+    "perc": "8,66",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "70904",
-    "perc_cifra_el": "8,77",
+    "cifra_el": "71743",
+    "perc_cifra_el": "8,66",
     "seggi": "-"
   },
   {
@@ -12384,13 +13302,30 @@
     "img_lista": "25-20180304000000-11402-0.png",
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": null,
-    "voti": "5036",
-    "perc": "0,62",
+    "voti": "5131",
+    "perc": "0,61",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5036",
-    "perc_cifra_el": "0,62",
+    "cifra_el": "5131",
+    "perc_cifra_el": "0,61",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "12100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -12418,13 +13353,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "260398",
+    "voti": "260603",
     "perc": "30,84",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "260398",
+    "cifra_el": "260603",
     "perc_cifra_el": "30,84",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -12435,13 +13370,13 @@
     "img_lista": "25-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": null,
-    "voti": "190819",
-    "perc": "23,60",
+    "voti": "193511",
+    "perc": "23,37",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "190819",
-    "perc_cifra_el": "23,60",
-    "seggi": "-"
+    "cifra_el": "193511",
+    "perc_cifra_el": "23,37",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -12452,12 +13387,12 @@
     "img_lista": "25-20180304000000-11403-0.png",
     "descr_lista": "+EUROPA",
     "link_cand_lista": null,
-    "voti": "46768",
-    "perc": "5,78",
+    "voti": "47329",
+    "perc": "5,71",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "46768",
-    "perc_cifra_el": "5,78",
+    "cifra_el": "47329",
+    "perc_cifra_el": "5,71",
     "seggi": "-"
   },
   {
@@ -12469,12 +13404,12 @@
     "img_lista": "25-20180304000000-11373-0.png",
     "descr_lista": "ITALIA EUROPA INSIEME",
     "link_cand_lista": null,
-    "voti": "5850",
-    "perc": "0,72",
+    "voti": "5917",
+    "perc": "0,71",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5850",
-    "perc_cifra_el": "0,72",
+    "cifra_el": "5917",
+    "perc_cifra_el": "0,71",
     "seggi": "-"
   },
   {
@@ -12486,13 +13421,30 @@
     "img_lista": "25-20180304000000-11412-0.png",
     "descr_lista": "CIVICA POPOLARE LORENZIN",
     "link_cand_lista": null,
-    "voti": "4047",
-    "perc": "0,50",
+    "voti": "4096",
+    "perc": "0,49",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4047",
-    "perc_cifra_el": "0,50",
+    "cifra_el": "4096",
+    "perc_cifra_el": "0,49",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "12100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -12520,13 +13472,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "233376",
-    "perc": "27,64",
+    "voti": "233495",
+    "perc": "27,63",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "233376",
-    "perc_cifra_el": "27,64",
-    "seggi": "-"
+    "cifra_el": "233495",
+    "perc_cifra_el": "27,63",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -12537,13 +13489,30 @@
     "img_lista": "25-20180304000000-11366-0.png",
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": null,
-    "voti": "220495",
-    "perc": "27,27",
+    "voti": "230261",
+    "perc": "27,81",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "220495",
-    "perc_cifra_el": "27,27",
-    "seggi": "-"
+    "cifra_el": "230261",
+    "perc_cifra_el": "27,81",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "12100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -12571,11 +13540,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "42783",
+    "voti": "42811",
     "perc": "5,06",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "42783",
+    "cifra_el": "42811",
     "perc_cifra_el": "5,06",
     "seggi": "-"
   },
@@ -12588,13 +13557,30 @@
     "img_lista": "25-20180304000000-11393-0.png",
     "descr_lista": "LIBERI E UGUALI",
     "link_cand_lista": null,
-    "voti": "40435",
-    "perc": "5,00",
+    "voti": "41796",
+    "perc": "5,04",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "40435",
-    "perc_cifra_el": "5,00",
-    "seggi": "-"
+    "cifra_el": "41796",
+    "perc_cifra_el": "5,04",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "12100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -12622,11 +13608,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "18352",
+    "voti": "18363",
     "perc": "2,17",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "18352",
+    "cifra_el": "18363",
     "perc_cifra_el": "2,17",
     "seggi": "-"
   },
@@ -12639,12 +13625,12 @@
     "img_lista": "25-20180304000000-11372-0.png",
     "descr_lista": "POTERE AL POPOLO!",
     "link_cand_lista": null,
-    "voti": "17354",
-    "perc": "2,14",
+    "voti": "18034",
+    "perc": "2,17",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "17354",
-    "perc_cifra_el": "2,14",
+    "cifra_el": "18034",
+    "perc_cifra_el": "2,17",
     "seggi": "-"
   },
   {
@@ -12673,11 +13659,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "9689",
+    "voti": "9692",
     "perc": "1,14",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "9689",
+    "cifra_el": "9692",
     "perc_cifra_el": "1,14",
     "seggi": "-"
   },
@@ -12690,12 +13676,12 @@
     "img_lista": "25-20180304000000-11003-0.png",
     "descr_lista": "CASAPOUND ITALIA",
     "link_cand_lista": null,
-    "voti": "9136",
-    "perc": "1,13",
+    "voti": "9516",
+    "perc": "1,14",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "9136",
-    "perc_cifra_el": "1,13",
+    "cifra_el": "9516",
+    "perc_cifra_el": "1,14",
     "seggi": "-"
   },
   {
@@ -12724,11 +13710,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "5151",
+    "voti": "5162",
     "perc": "0,61",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5151",
+    "cifra_el": "5162",
     "perc_cifra_el": "0,61",
     "seggi": "-"
   },
@@ -12741,11 +13727,11 @@
     "img_lista": "25-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": null,
-    "voti": "4781",
+    "voti": "4966",
     "perc": "0,59",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4781",
+    "cifra_el": "4966",
     "perc_cifra_el": "0,59",
     "seggi": "-"
   },
@@ -12775,11 +13761,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "4637",
+    "voti": "4641",
     "perc": "0,54",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4637",
+    "cifra_el": "4641",
     "perc_cifra_el": "0,54",
     "seggi": "-"
   },
@@ -12792,12 +13778,12 @@
     "img_lista": "25-20180304000000-11023-0.png",
     "descr_lista": "PARTITO COMUNISTA",
     "link_cand_lista": null,
-    "voti": "4309",
-    "perc": "0,53",
+    "voti": "4565",
+    "perc": "0,55",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4309",
-    "perc_cifra_el": "0,53",
+    "cifra_el": "4565",
+    "perc_cifra_el": "0,55",
     "seggi": "-"
   },
   {
@@ -12826,11 +13812,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "2701",
+    "voti": "2702",
     "perc": "0,31",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "2701",
+    "cifra_el": "2702",
     "perc_cifra_el": "0,31",
     "seggi": "-"
   },
@@ -12843,12 +13829,12 @@
     "img_lista": "25-20180304000000-11388-0.png",
     "descr_lista": "ITALIA AGLI ITALIANI",
     "link_cand_lista": null,
-    "voti": "2573",
-    "perc": "0,31",
+    "voti": "2653",
+    "perc": "0,32",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "2573",
-    "perc_cifra_el": "0,31",
+    "cifra_el": "2653",
+    "perc_cifra_el": "0,32",
     "seggi": "-"
   },
   {
@@ -12877,11 +13863,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1813",
+    "voti": "1814",
     "perc": "0,21",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1813",
+    "cifra_el": "1814",
     "perc_cifra_el": "0,21",
     "seggi": "-"
   },
@@ -12894,11 +13880,11 @@
     "img_lista": "25-20180304000000-3142-0.png",
     "descr_lista": "DEMOCRAZIA CRISTIANA",
     "link_cand_lista": null,
-    "voti": "1727",
+    "voti": "1770",
     "perc": "0,21",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1727",
+    "cifra_el": "1770",
     "perc_cifra_el": "0,21",
     "seggi": "-"
   },
@@ -12945,11 +13931,11 @@
     "img_lista": "25-20180304000000-11377-0.png",
     "descr_lista": "PER UNA SINISTRA RIVOLUZIONARIA",
     "link_cand_lista": null,
-    "voti": "945",
+    "voti": "988",
     "perc": "0,11",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "945",
+    "cifra_el": "988",
     "perc_cifra_el": "0,11",
     "seggi": "-"
   },
@@ -12979,11 +13965,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "845",
+    "voti": "846",
     "perc": "0,10",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "845",
+    "cifra_el": "846",
     "perc_cifra_el": "0,10",
     "seggi": "-"
   },
@@ -12996,11 +13982,11 @@
     "img_lista": "25-20180304000000-11400-0.png",
     "descr_lista": "LISTA DEL POPOLO PER LA COSTITUZIONE",
     "link_cand_lista": null,
-    "voti": "772",
+    "voti": "821",
     "perc": "0,09",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "772",
+    "cifra_el": "821",
     "perc_cifra_el": "0,09",
     "seggi": "-"
   },
@@ -13047,11 +14033,11 @@
     "img_lista": "25-20180304000000-11418-0.png",
     "descr_lista": "PARTITO REPUBBLICANO ITALIANO - ALA",
     "link_cand_lista": null,
-    "voti": "580",
+    "voti": "598",
     "perc": "0,07",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "580",
+    "cifra_el": "598",
     "perc_cifra_el": "0,07",
     "seggi": "-"
   },
@@ -13081,13 +14067,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "844281",
+    "voti": "844816",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "844281",
+    "cifra_el": "844816",
     "perc_cifra_el": "100,00",
-    "seggi": "0"
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -13098,13 +14084,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "808473",
+    "voti": "827783",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "808473",
+    "cifra_el": "827783",
     "perc_cifra_el": "100,00",
-    "seggi": "0"
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -13115,13 +14101,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "312217",
-    "perc": "36,90",
+    "voti": "316311",
+    "perc": "36,93",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "312217",
-    "perc_cifra_el": "36,90",
-    "seggi": "1"
+    "cifra_el": "316311",
+    "perc_cifra_el": "36,93",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -13132,13 +14118,13 @@
     "img_lista": "25-20180304000000-11367-0.png",
     "descr_lista": "LEGA",
     "link_cand_lista": null,
-    "voti": "127385",
-    "perc": "15,46",
+    "voti": "130250",
+    "perc": "15,37",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "127385",
-    "perc_cifra_el": "15,46",
-    "seggi": "-"
+    "cifra_el": "130250",
+    "perc_cifra_el": "15,37",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -13149,13 +14135,13 @@
     "img_lista": "25-20180304000000-1112-0.png",
     "descr_lista": "FORZA ITALIA",
     "link_cand_lista": null,
-    "voti": "109158",
-    "perc": "13,25",
+    "voti": "111683",
+    "perc": "13,18",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "109158",
-    "perc_cifra_el": "13,25",
-    "seggi": "-"
+    "cifra_el": "111683",
+    "perc_cifra_el": "13,18",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -13166,13 +14152,13 @@
     "img_lista": "25-20180304000000-11434-0.png",
     "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
     "link_cand_lista": null,
-    "voti": "64756",
-    "perc": "7,86",
+    "voti": "66436",
+    "perc": "7,84",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "64756",
-    "perc_cifra_el": "7,86",
-    "seggi": "-"
+    "cifra_el": "66436",
+    "perc_cifra_el": "7,84",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -13183,13 +14169,30 @@
     "img_lista": "25-20180304000000-11402-0.png",
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": null,
-    "voti": "6385",
+    "voti": "6525",
     "perc": "0,77",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "6385",
+    "cifra_el": "6525",
     "perc_cifra_el": "0,77",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "12200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -13217,13 +14220,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "281892",
-    "perc": "33,32",
+    "voti": "285142",
+    "perc": "33,29",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "281892",
-    "perc_cifra_el": "33,32",
-    "seggi": "-"
+    "cifra_el": "285142",
+    "perc_cifra_el": "33,29",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -13234,13 +14237,30 @@
     "img_lista": "25-20180304000000-11366-0.png",
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": null,
-    "voti": "270876",
-    "perc": "32,89",
+    "voti": "280423",
+    "perc": "33,11",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "270876",
-    "perc_cifra_el": "32,89",
-    "seggi": "-"
+    "cifra_el": "280423",
+    "perc_cifra_el": "33,11",
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "12200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -13268,12 +14288,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "180432",
-    "perc": "21,33",
+    "voti": "182622",
+    "perc": "21,32",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "180432",
-    "perc_cifra_el": "21,33",
+    "cifra_el": "182622",
+    "perc_cifra_el": "21,32",
     "seggi": "-"
   },
   {
@@ -13285,13 +14305,13 @@
     "img_lista": "25-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": null,
-    "voti": "149563",
-    "perc": "18,16",
+    "voti": "153014",
+    "perc": "18,06",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "149563",
-    "perc_cifra_el": "18,16",
-    "seggi": "-"
+    "cifra_el": "153014",
+    "perc_cifra_el": "18,06",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -13302,12 +14322,12 @@
     "img_lista": "25-20180304000000-11403-0.png",
     "descr_lista": "+EUROPA",
     "link_cand_lista": null,
-    "voti": "19730",
-    "perc": "2,39",
+    "voti": "20164",
+    "perc": "2,38",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "19730",
-    "perc_cifra_el": "2,39",
+    "cifra_el": "20164",
+    "perc_cifra_el": "2,38",
     "seggi": "-"
   },
   {
@@ -13319,11 +14339,11 @@
     "img_lista": "25-20180304000000-11373-0.png",
     "descr_lista": "ITALIA EUROPA INSIEME",
     "link_cand_lista": null,
-    "voti": "3955",
+    "voti": "4118",
     "perc": "0,48",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3955",
+    "cifra_el": "4118",
     "perc_cifra_el": "0,48",
     "seggi": "-"
   },
@@ -13336,13 +14356,30 @@
     "img_lista": "25-20180304000000-11412-0.png",
     "descr_lista": "CIVICA POPOLARE LORENZIN",
     "link_cand_lista": null,
-    "voti": "3483",
-    "perc": "0,42",
+    "voti": "3681",
+    "perc": "0,43",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3483",
-    "perc_cifra_el": "0,42",
+    "cifra_el": "3681",
+    "perc_cifra_el": "0,43",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "12200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -13370,12 +14407,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "26848",
-    "perc": "3,17",
+    "voti": "27237",
+    "perc": "3,18",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "26848",
-    "perc_cifra_el": "3,17",
+    "cifra_el": "27237",
+    "perc_cifra_el": "3,18",
     "seggi": "-"
   },
   {
@@ -13387,12 +14424,12 @@
     "img_lista": "25-20180304000000-11393-0.png",
     "descr_lista": "LIBERI E UGUALI",
     "link_cand_lista": null,
-    "voti": "25634",
-    "perc": "3,11",
+    "voti": "26577",
+    "perc": "3,13",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "25634",
-    "perc_cifra_el": "3,11",
+    "cifra_el": "26577",
+    "perc_cifra_el": "3,13",
     "seggi": "-"
   },
   {
@@ -13421,12 +14458,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "15174",
-    "perc": "1,79",
+    "voti": "15312",
+    "perc": "1,78",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "15174",
-    "perc_cifra_el": "1,79",
+    "cifra_el": "15312",
+    "perc_cifra_el": "1,78",
     "seggi": "-"
   },
   {
@@ -13438,12 +14475,12 @@
     "img_lista": "25-20180304000000-11003-0.png",
     "descr_lista": "CASAPOUND ITALIA",
     "link_cand_lista": null,
-    "voti": "14569",
-    "perc": "1,76",
+    "voti": "15053",
+    "perc": "1,77",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "14569",
-    "perc_cifra_el": "1,76",
+    "cifra_el": "15053",
+    "perc_cifra_el": "1,77",
     "seggi": "-"
   },
   {
@@ -13472,12 +14509,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "12181",
-    "perc": "1,44",
+    "voti": "12311",
+    "perc": "1,43",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "12181",
-    "perc_cifra_el": "1,44",
+    "cifra_el": "12311",
+    "perc_cifra_el": "1,43",
     "seggi": "-"
   },
   {
@@ -13489,11 +14526,11 @@
     "img_lista": "25-20180304000000-11372-0.png",
     "descr_lista": "POTERE AL POPOLO!",
     "link_cand_lista": null,
-    "voti": "11626",
+    "voti": "11958",
     "perc": "1,41",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "11626",
+    "cifra_el": "11958",
     "perc_cifra_el": "1,41",
     "seggi": "-"
   },
@@ -13523,11 +14560,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "5203",
+    "voti": "5270",
     "perc": "0,61",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5203",
+    "cifra_el": "5270",
     "perc_cifra_el": "0,61",
     "seggi": "-"
   },
@@ -13540,12 +14577,12 @@
     "img_lista": "25-20180304000000-11023-0.png",
     "descr_lista": "PARTITO COMUNISTA",
     "link_cand_lista": null,
-    "voti": "5005",
-    "perc": "0,60",
+    "voti": "5172",
+    "perc": "0,61",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5005",
-    "perc_cifra_el": "0,60",
+    "cifra_el": "5172",
+    "perc_cifra_el": "0,61",
     "seggi": "-"
   },
   {
@@ -13574,11 +14611,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "4360",
+    "voti": "4412",
     "perc": "0,51",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4360",
+    "cifra_el": "4412",
     "perc_cifra_el": "0,51",
     "seggi": "-"
   },
@@ -13591,11 +14628,11 @@
     "img_lista": "25-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": null,
-    "voti": "4173",
+    "voti": "4308",
     "perc": "0,50",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4173",
+    "cifra_el": "4308",
     "perc_cifra_el": "0,50",
     "seggi": "-"
   },
@@ -13625,11 +14662,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "3659",
+    "voti": "3698",
     "perc": "0,43",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3659",
+    "cifra_el": "3698",
     "perc_cifra_el": "0,43",
     "seggi": "-"
   },
@@ -13642,12 +14679,12 @@
     "img_lista": "25-20180304000000-11388-0.png",
     "descr_lista": "ITALIA AGLI ITALIANI",
     "link_cand_lista": null,
-    "voti": "3530",
-    "perc": "0,42",
+    "voti": "3660",
+    "perc": "0,43",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3530",
-    "perc_cifra_el": "0,42",
+    "cifra_el": "3660",
+    "perc_cifra_el": "0,43",
     "seggi": "-"
   },
   {
@@ -13676,11 +14713,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1515",
+    "voti": "1541",
     "perc": "0,17",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1515",
+    "cifra_el": "1541",
     "perc_cifra_el": "0,17",
     "seggi": "-"
   },
@@ -13693,11 +14730,11 @@
     "img_lista": "25-20180304000000-3142-0.png",
     "descr_lista": "DEMOCRAZIA CRISTIANA",
     "link_cand_lista": null,
-    "voti": "1438",
+    "voti": "1490",
     "perc": "0,17",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1438",
+    "cifra_el": "1490",
     "perc_cifra_el": "0,17",
     "seggi": "-"
   },
@@ -13727,11 +14764,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1059",
+    "voti": "1082",
     "perc": "0,12",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1059",
+    "cifra_el": "1082",
     "perc_cifra_el": "0,12",
     "seggi": "-"
   },
@@ -13744,11 +14781,11 @@
     "img_lista": "25-20180304000000-11377-0.png",
     "descr_lista": "PER UNA SINISTRA RIVOLUZIONARIA",
     "link_cand_lista": null,
-    "voti": "1001",
+    "voti": "1059",
     "perc": "0,12",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1001",
+    "cifra_el": "1059",
     "perc_cifra_el": "0,12",
     "seggi": "-"
   },
@@ -13778,11 +14815,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "737",
+    "voti": "738",
     "perc": "0,08",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "737",
+    "cifra_el": "738",
     "perc_cifra_el": "0,08",
     "seggi": "-"
   },
@@ -13795,11 +14832,11 @@
     "img_lista": "25-20180304000000-11400-0.png",
     "descr_lista": "LISTA DEL POPOLO PER LA COSTITUZIONE",
     "link_cand_lista": null,
-    "voti": "702",
+    "voti": "718",
     "perc": "0,08",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "702",
+    "cifra_el": "718",
     "perc_cifra_el": "0,08",
     "seggi": "-"
   },
@@ -13829,11 +14866,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "618",
+    "voti": "626",
     "perc": "0,07",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "618",
+    "cifra_el": "626",
     "perc_cifra_el": "0,07",
     "seggi": "-"
   },
@@ -13846,12 +14883,12 @@
     "img_lista": "25-20180304000000-11418-0.png",
     "descr_lista": "PARTITO REPUBBLICANO ITALIANO - ALA",
     "link_cand_lista": null,
-    "voti": "576",
-    "perc": "0,06",
+    "voti": "605",
+    "perc": "0,07",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "576",
-    "perc_cifra_el": "0,06",
+    "cifra_el": "605",
+    "perc_cifra_el": "0,07",
     "seggi": "-"
   },
   {
@@ -13880,13 +14917,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "845895",
+    "voti": "856302",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "845895",
+    "cifra_el": "856302",
     "perc_cifra_el": "100,00",
-    "seggi": "1"
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -13897,13 +14934,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "823545",
+    "voti": "846894",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "823545",
+    "cifra_el": "846894",
     "perc_cifra_el": "100,00",
-    "seggi": "1"
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -13914,13 +14951,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "435075",
-    "perc": "38,38",
+    "voti": "437541",
+    "perc": "38,37",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "435075",
-    "perc_cifra_el": "38,38",
-    "seggi": "1"
+    "cifra_el": "437541",
+    "perc_cifra_el": "38,37",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -13931,13 +14968,13 @@
     "img_lista": "25-20180304000000-1112-0.png",
     "descr_lista": "FORZA ITALIA",
     "link_cand_lista": null,
-    "voti": "180772",
-    "perc": "16,51",
+    "voti": "185027",
+    "perc": "16,32",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "180772",
-    "perc_cifra_el": "16,51",
-    "seggi": "-"
+    "cifra_el": "185027",
+    "perc_cifra_el": "16,32",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -13948,13 +14985,13 @@
     "img_lista": "25-20180304000000-11367-0.png",
     "descr_lista": "LEGA",
     "link_cand_lista": null,
-    "voti": "162154",
-    "perc": "14,81",
+    "voti": "166601",
+    "perc": "14,69",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "162154",
-    "perc_cifra_el": "14,81",
-    "seggi": "-"
+    "cifra_el": "166601",
+    "perc_cifra_el": "14,69",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -13965,12 +15002,12 @@
     "img_lista": "25-20180304000000-11434-0.png",
     "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
     "link_cand_lista": null,
-    "voti": "72725",
-    "perc": "6,64",
+    "voti": "74833",
+    "perc": "6,60",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "72725",
-    "perc_cifra_el": "6,64",
+    "cifra_el": "74833",
+    "perc_cifra_el": "6,60",
     "seggi": "-"
   },
   {
@@ -13982,13 +15019,30 @@
     "img_lista": "25-20180304000000-11402-0.png",
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": null,
-    "voti": "9423",
-    "perc": "0,86",
+    "voti": "9612",
+    "perc": "0,84",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "9423",
-    "perc_cifra_el": "0,86",
+    "cifra_el": "9612",
+    "perc_cifra_el": "0,84",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "12300000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -14016,13 +15070,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "412630",
+    "voti": "415146",
     "perc": "36,40",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "412630",
+    "cifra_el": "415146",
     "perc_cifra_el": "36,40",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -14033,13 +15087,30 @@
     "img_lista": "25-20180304000000-11366-0.png",
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": null,
-    "voti": "394232",
-    "perc": "36,02",
+    "voti": "412139",
+    "perc": "36,35",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "394232",
-    "perc_cifra_el": "36,02",
-    "seggi": "-"
+    "cifra_el": "412139",
+    "perc_cifra_el": "36,35",
+    "seggi": "3"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "12300000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "4"
   },
   {
     "assemblea": "Senato",
@@ -14067,12 +15138,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "203137",
-    "perc": "17,92",
+    "voti": "204539",
+    "perc": "17,93",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "203137",
-    "perc_cifra_el": "17,92",
+    "cifra_el": "204539",
+    "perc_cifra_el": "17,93",
     "seggi": "-"
   },
   {
@@ -14084,13 +15155,13 @@
     "img_lista": "25-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": null,
-    "voti": "168965",
-    "perc": "15,44",
+    "voti": "174870",
+    "perc": "15,42",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "168965",
-    "perc_cifra_el": "15,44",
-    "seggi": "-"
+    "cifra_el": "174870",
+    "perc_cifra_el": "15,42",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -14101,11 +15172,11 @@
     "img_lista": "25-20180304000000-11403-0.png",
     "descr_lista": "+EUROPA",
     "link_cand_lista": null,
-    "voti": "17351",
+    "voti": "17955",
     "perc": "1,58",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "17351",
+    "cifra_el": "17955",
     "perc_cifra_el": "1,58",
     "seggi": "-"
   },
@@ -14118,11 +15189,11 @@
     "img_lista": "25-20180304000000-11373-0.png",
     "descr_lista": "ITALIA EUROPA INSIEME",
     "link_cand_lista": null,
-    "voti": "5955",
+    "voti": "6147",
     "perc": "0,54",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5955",
+    "cifra_el": "6147",
     "perc_cifra_el": "0,54",
     "seggi": "-"
   },
@@ -14135,13 +15206,30 @@
     "img_lista": "25-20180304000000-11412-0.png",
     "descr_lista": "CIVICA POPOLARE LORENZIN",
     "link_cand_lista": null,
-    "voti": "4214",
+    "voti": "4340",
     "perc": "0,38",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4214",
+    "cifra_el": "4340",
     "perc_cifra_el": "0,38",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "12300000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -14169,12 +15257,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "32579",
-    "perc": "2,87",
+    "voti": "32712",
+    "perc": "2,86",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "32579",
-    "perc_cifra_el": "2,87",
+    "cifra_el": "32712",
+    "perc_cifra_el": "2,86",
     "seggi": "-"
   },
   {
@@ -14186,12 +15274,12 @@
     "img_lista": "25-20180304000000-11393-0.png",
     "descr_lista": "LIBERI E UGUALI",
     "link_cand_lista": null,
-    "voti": "30877",
-    "perc": "2,82",
+    "voti": "32190",
+    "perc": "2,83",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "30877",
-    "perc_cifra_el": "2,82",
+    "cifra_el": "32190",
+    "perc_cifra_el": "2,83",
     "seggi": "-"
   },
   {
@@ -14220,11 +15308,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "16429",
+    "voti": "16509",
     "perc": "1,44",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "16429",
+    "cifra_el": "16509",
     "perc_cifra_el": "1,44",
     "seggi": "-"
   },
@@ -14237,12 +15325,12 @@
     "img_lista": "25-20180304000000-11003-0.png",
     "descr_lista": "CASAPOUND ITALIA",
     "link_cand_lista": null,
-    "voti": "15680",
-    "perc": "1,43",
+    "voti": "16381",
+    "perc": "1,44",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "15680",
-    "perc_cifra_el": "1,43",
+    "cifra_el": "16381",
+    "perc_cifra_el": "1,44",
     "seggi": "-"
   },
   {
@@ -14271,11 +15359,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "11787",
+    "voti": "11848",
     "perc": "1,03",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "11787",
+    "cifra_el": "11848",
     "perc_cifra_el": "1,03",
     "seggi": "-"
   },
@@ -14288,12 +15376,12 @@
     "img_lista": "25-20180304000000-11372-0.png",
     "descr_lista": "POTERE AL POPOLO!",
     "link_cand_lista": null,
-    "voti": "11193",
-    "perc": "1,02",
+    "voti": "11746",
+    "perc": "1,03",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "11193",
-    "perc_cifra_el": "1,02",
+    "cifra_el": "11746",
+    "perc_cifra_el": "1,03",
     "seggi": "-"
   },
   {
@@ -14322,11 +15410,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "5875",
+    "voti": "5914",
     "perc": "0,51",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5875",
+    "cifra_el": "5914",
     "perc_cifra_el": "0,51",
     "seggi": "-"
   },
@@ -14339,12 +15427,12 @@
     "img_lista": "25-20180304000000-11023-0.png",
     "descr_lista": "PARTITO COMUNISTA",
     "link_cand_lista": null,
-    "voti": "5553",
-    "perc": "0,50",
+    "voti": "5854",
+    "perc": "0,51",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5553",
-    "perc_cifra_el": "0,50",
+    "cifra_el": "5854",
+    "perc_cifra_el": "0,51",
     "seggi": "-"
   },
   {
@@ -14373,11 +15461,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "5479",
+    "voti": "5527",
     "perc": "0,48",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5479",
+    "cifra_el": "5527",
     "perc_cifra_el": "0,48",
     "seggi": "-"
   },
@@ -14390,11 +15478,11 @@
     "img_lista": "25-20180304000000-11388-0.png",
     "descr_lista": "ITALIA AGLI ITALIANI",
     "link_cand_lista": null,
-    "voti": "5274",
+    "voti": "5489",
     "perc": "0,48",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5274",
+    "cifra_el": "5489",
     "perc_cifra_el": "0,48",
     "seggi": "-"
   },
@@ -14424,11 +15512,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "5142",
+    "voti": "5171",
     "perc": "0,45",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5142",
+    "cifra_el": "5171",
     "perc_cifra_el": "0,45",
     "seggi": "-"
   },
@@ -14441,12 +15529,12 @@
     "img_lista": "25-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": null,
-    "voti": "4893",
-    "perc": "0,44",
+    "voti": "5151",
+    "perc": "0,45",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4893",
-    "perc_cifra_el": "0,44",
+    "cifra_el": "5151",
+    "perc_cifra_el": "0,45",
     "seggi": "-"
   },
   {
@@ -14475,11 +15563,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "2143",
+    "voti": "2163",
     "perc": "0,18",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "2143",
+    "cifra_el": "2163",
     "perc_cifra_el": "0,18",
     "seggi": "-"
   },
@@ -14492,11 +15580,11 @@
     "img_lista": "25-20180304000000-3142-0.png",
     "descr_lista": "DEMOCRAZIA CRISTIANA",
     "link_cand_lista": null,
-    "voti": "2043",
+    "voti": "2147",
     "perc": "0,18",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "2043",
+    "cifra_el": "2147",
     "perc_cifra_el": "0,18",
     "seggi": "-"
   },
@@ -14526,11 +15614,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1261",
+    "voti": "1275",
     "perc": "0,11",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1261",
+    "cifra_el": "1275",
     "perc_cifra_el": "0,11",
     "seggi": "-"
   },
@@ -14543,12 +15631,12 @@
     "img_lista": "25-20180304000000-11377-0.png",
     "descr_lista": "PER UNA SINISTRA RIVOLUZIONARIA",
     "link_cand_lista": null,
-    "voti": "1189",
-    "perc": "0,10",
+    "voti": "1249",
+    "perc": "0,11",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1189",
-    "perc_cifra_el": "0,10",
+    "cifra_el": "1249",
+    "perc_cifra_el": "0,11",
     "seggi": "-"
   },
   {
@@ -14577,11 +15665,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1153",
+    "voti": "1154",
     "perc": "0,10",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1153",
+    "cifra_el": "1154",
     "perc_cifra_el": "0,10",
     "seggi": "-"
   },
@@ -14594,11 +15682,11 @@
     "img_lista": "25-20180304000000-11418-0.png",
     "descr_lista": "PARTITO REPUBBLICANO ITALIANO - ALA",
     "link_cand_lista": null,
-    "voti": "1089",
+    "voti": "1123",
     "perc": "0,09",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1089",
+    "cifra_el": "1123",
     "perc_cifra_el": "0,09",
     "seggi": "-"
   },
@@ -14628,11 +15716,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "783",
+    "voti": "795",
     "perc": "0,06",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "783",
+    "cifra_el": "795",
     "perc_cifra_el": "0,06",
     "seggi": "-"
   },
@@ -14645,11 +15733,11 @@
     "img_lista": "25-20180304000000-11400-0.png",
     "descr_lista": "LISTA DEL POPOLO PER LA COSTITUZIONE",
     "link_cand_lista": null,
-    "voti": "741",
+    "voti": "780",
     "perc": "0,06",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "741",
+    "cifra_el": "780",
     "perc_cifra_el": "0,06",
     "seggi": "-"
   },
@@ -14679,13 +15767,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1133473",
+    "voti": "1140294",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1133473",
+    "cifra_el": "1140294",
     "perc_cifra_el": "100,00",
-    "seggi": "1"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -14696,13 +15784,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "1094323",
+    "voti": "1133634",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1094323",
+    "cifra_el": "1133634",
     "perc_cifra_el": "100,00",
-    "seggi": "1"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -14736,7 +15824,24 @@
     "perc_voti_liste": "",
     "cifra_el": "274185",
     "perc_cifra_el": "39,29",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "13100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -14787,7 +15892,7 @@
     "perc_voti_liste": "",
     "cifra_el": "110665",
     "perc_cifra_el": "15,86",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -14804,7 +15909,7 @@
     "perc_voti_liste": "",
     "cifra_el": "97196",
     "perc_cifra_el": "13,93",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -14839,6 +15944,23 @@
     "cifra_el": "12871",
     "perc_cifra_el": "1,84",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "13100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -14889,7 +16011,7 @@
     "perc_voti_liste": "",
     "cifra_el": "97531",
     "perc_cifra_el": "13,97",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -14946,6 +16068,23 @@
     "assemblea": "Senato",
     "codice": "13100000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "13100000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -15331,7 +16470,7 @@
     "perc_voti_liste": "",
     "cifra_el": "697717",
     "perc_cifra_el": "100,00",
-    "seggi": "2"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -15348,7 +16487,7 @@
     "perc_voti_liste": "",
     "cifra_el": "697717",
     "perc_cifra_el": "100,00",
-    "seggi": "2"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -15382,7 +16521,24 @@
     "perc_voti_liste": "",
     "cifra_el": "71067",
     "perc_cifra_el": "44,49",
-    "seggi": "-"
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "14100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -15926,7 +17082,7 @@
     "perc_voti_liste": "",
     "cifra_el": "159719",
     "perc_cifra_el": "100,00",
-    "seggi": "1"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -15943,7 +17099,7 @@
     "perc_voti_liste": "",
     "cifra_el": "159719",
     "perc_cifra_el": "100,00",
-    "seggi": "1"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -15977,7 +17133,24 @@
     "perc_voti_liste": "",
     "cifra_el": "375771",
     "perc_cifra_el": "47,44",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "15100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -16028,7 +17201,7 @@
     "perc_voti_liste": "",
     "cifra_el": "152282",
     "perc_cifra_el": "19,22",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -16045,7 +17218,7 @@
     "perc_voti_liste": "",
     "cifra_el": "46289",
     "perc_cifra_el": "5,84",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -16080,6 +17253,23 @@
     "cifra_el": "10190",
     "perc_cifra_el": "1,28",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "15100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -16130,7 +17320,7 @@
     "perc_voti_liste": "",
     "cifra_el": "111232",
     "perc_cifra_el": "14,04",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -16182,6 +17372,23 @@
     "cifra_el": "4897",
     "perc_cifra_el": "0,61",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "15100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -16674,7 +17881,7 @@
     "perc_voti_liste": "",
     "cifra_el": "792075",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "8"
   },
   {
     "assemblea": "Senato",
@@ -16691,7 +17898,7 @@
     "perc_voti_liste": "",
     "cifra_el": "792075",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "8"
   },
   {
     "assemblea": "Senato",
@@ -16725,7 +17932,24 @@
     "perc_voti_liste": "",
     "cifra_el": "495291",
     "perc_cifra_el": "53,89",
-    "seggi": "-"
+    "seggi": "4"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "15200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "8"
   },
   {
     "assemblea": "Senato",
@@ -16776,7 +18000,7 @@
     "perc_voti_liste": "",
     "cifra_el": "169994",
     "perc_cifra_el": "18,49",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -16833,6 +18057,23 @@
     "assemblea": "Senato",
     "codice": "15200000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "15200000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -16878,7 +18119,7 @@
     "perc_voti_liste": "",
     "cifra_el": "116690",
     "perc_cifra_el": "12,69",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -16930,6 +18171,23 @@
     "cifra_el": "3052",
     "perc_cifra_el": "0,33",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "15200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -17320,7 +18578,7 @@
     "perc_voti_liste": "",
     "cifra_el": "918920",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -17337,7 +18595,7 @@
     "perc_voti_liste": "",
     "cifra_el": "918920",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -17371,7 +18629,24 @@
     "perc_voti_liste": "",
     "cifra_el": "435403",
     "perc_cifra_el": "44,92",
-    "seggi": "-"
+    "seggi": "3"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "15300000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -17422,7 +18697,7 @@
     "perc_voti_liste": "",
     "cifra_el": "208057",
     "perc_cifra_el": "21,46",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -17456,7 +18731,7 @@
     "perc_voti_liste": "",
     "cifra_el": "37724",
     "perc_cifra_el": "3,89",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -17474,6 +18749,23 @@
     "cifra_el": "17501",
     "perc_cifra_el": "1,80",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "15300000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -17524,7 +18816,7 @@
     "perc_voti_liste": "",
     "cifra_el": "141229",
     "perc_cifra_el": "14,57",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -17576,6 +18868,23 @@
     "cifra_el": "6690",
     "perc_cifra_el": "0,69",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "15300000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -17722,11 +19031,11 @@
     "img_lista": "25-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": null,
-    "voti": "5642",
+    "voti": "5643",
     "perc": "0,58",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5642",
+    "cifra_el": "5643",
     "perc_cifra_el": "0,58",
     "seggi": "-"
   },
@@ -18068,7 +19377,7 @@
     "perc_voti_liste": "",
     "cifra_el": "969276",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "11"
   },
   {
     "assemblea": "Senato",
@@ -18079,13 +19388,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "969275",
+    "voti": "969276",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "969275",
+    "cifra_el": "969276",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "11"
   },
   {
     "assemblea": "Senato",
@@ -18096,11 +19405,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "429063",
+    "voti": "429058",
     "perc": "45,48",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "429063",
+    "cifra_el": "429058",
     "perc_cifra_el": "45,48",
     "seggi": "4"
   },
@@ -18119,7 +19428,24 @@
     "perc_voti_liste": "",
     "cifra_el": "429058",
     "perc_cifra_el": "45,48",
-    "seggi": "-"
+    "seggi": "3"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "16100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -18147,12 +19473,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "298490",
-    "perc": "31,63",
+    "voti": "298495",
+    "perc": "31,64",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "298490",
-    "perc_cifra_el": "31,63",
+    "cifra_el": "298495",
+    "perc_cifra_el": "31,64",
     "seggi": "-"
   },
   {
@@ -18170,7 +19496,7 @@
     "perc_voti_liste": "",
     "cifra_el": "185015",
     "perc_cifra_el": "19,61",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -18227,6 +19553,23 @@
     "assemblea": "Senato",
     "codice": "16100000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "16100000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -18272,7 +19615,7 @@
     "perc_voti_liste": "",
     "cifra_el": "132469",
     "perc_cifra_el": "14,04",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -18329,6 +19672,23 @@
     "assemblea": "Senato",
     "codice": "16100000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "16100000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -18765,7 +20125,7 @@
     "perc_voti_liste": "",
     "cifra_el": "943399",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -18782,7 +20142,7 @@
     "perc_voti_liste": "",
     "cifra_el": "943399",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -18816,7 +20176,24 @@
     "perc_voti_liste": "",
     "cifra_el": "444179",
     "perc_cifra_el": "42,86",
-    "seggi": "-"
+    "seggi": "3"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "16200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -18867,7 +20244,7 @@
     "perc_voti_liste": "",
     "cifra_el": "200435",
     "perc_cifra_el": "19,34",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -18884,7 +20261,7 @@
     "perc_voti_liste": "",
     "cifra_el": "71686",
     "perc_cifra_el": "6,91",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -18919,6 +20296,23 @@
     "cifra_el": "39459",
     "perc_cifra_el": "3,80",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "16200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -18963,13 +20357,13 @@
     "img_lista": "25-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": null,
-    "voti": "149073",
-    "perc": "14,38",
+    "voti": "149170",
+    "perc": "14,39",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "149073",
-    "perc_cifra_el": "14,38",
-    "seggi": "-"
+    "cifra_el": "149170",
+    "perc_cifra_el": "14,39",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -18997,11 +20391,11 @@
     "img_lista": "25-20180304000000-11373-0.png",
     "descr_lista": "ITALIA EUROPA INSIEME",
     "link_cand_lista": null,
-    "voti": "6338",
+    "voti": "6339",
     "perc": "0,61",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "6338",
+    "cifra_el": "6339",
     "perc_cifra_el": "0,61",
     "seggi": "-"
   },
@@ -19014,13 +20408,30 @@
     "img_lista": "25-20180304000000-11412-0.png",
     "descr_lista": "CIVICA POPOLARE LORENZIN",
     "link_cand_lista": null,
-    "voti": "4338",
-    "perc": "0,41",
+    "voti": "4240",
+    "perc": "0,40",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4338",
-    "perc_cifra_el": "0,41",
+    "cifra_el": "4240",
+    "perc_cifra_el": "0,40",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "16200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -19462,7 +20873,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1036212",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "11"
   },
   {
     "assemblea": "Senato",
@@ -19479,7 +20890,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1036212",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "11"
   },
   {
     "assemblea": "Senato",
@@ -19513,7 +20924,24 @@
     "perc_voti_liste": "",
     "cifra_el": "123118",
     "perc_cifra_el": "43,00",
-    "seggi": "-"
+    "seggi": "3"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "17100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "4"
   },
   {
     "assemblea": "Senato",
@@ -19564,7 +20992,7 @@
     "perc_voti_liste": "",
     "cifra_el": "36226",
     "perc_cifra_el": "12,65",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -19581,7 +21009,7 @@
     "perc_voti_liste": "",
     "cifra_el": "20591",
     "perc_cifra_el": "7,19",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -19616,6 +21044,23 @@
     "cifra_el": "7083",
     "perc_cifra_el": "2,47",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "17100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -19666,7 +21111,7 @@
     "perc_voti_liste": "",
     "cifra_el": "49406",
     "perc_cifra_el": "17,25",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -19718,6 +21163,23 @@
     "cifra_el": "3659",
     "perc_cifra_el": "1,27",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "17100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -20108,7 +21570,7 @@
     "perc_voti_liste": "",
     "cifra_el": "286309",
     "perc_cifra_el": "100,00",
-    "seggi": "1"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -20125,7 +21587,7 @@
     "perc_voti_liste": "",
     "cifra_el": "286309",
     "perc_cifra_el": "100,00",
-    "seggi": "1"
+    "seggi": "7"
   },
   {
     "assemblea": "Senato",
@@ -20136,11 +21598,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "369375",
+    "voti": "369365",
     "perc": "43,56",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "369375",
+    "cifra_el": "369365",
     "perc_cifra_el": "43,56",
     "seggi": "3"
   },
@@ -20153,13 +21615,30 @@
     "img_lista": "25-20180304000000-11366-0.png",
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": null,
-    "voti": "369375",
+    "voti": "369365",
     "perc": "43,56",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "369375",
+    "cifra_el": "369365",
     "perc_cifra_el": "43,56",
-    "seggi": "-"
+    "seggi": "3"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "18100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "6"
   },
   {
     "assemblea": "Senato",
@@ -20210,7 +21689,7 @@
     "perc_voti_liste": "",
     "cifra_el": "181849",
     "perc_cifra_el": "21,44",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -20227,7 +21706,7 @@
     "perc_voti_liste": "",
     "cifra_el": "49797",
     "perc_cifra_el": "5,87",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -20262,6 +21741,23 @@
     "cifra_el": "13197",
     "perc_cifra_el": "1,55",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "18100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -20312,7 +21808,7 @@
     "perc_voti_liste": "",
     "cifra_el": "123206",
     "perc_cifra_el": "14,53",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -20364,6 +21860,23 @@
     "cifra_el": "4298",
     "perc_cifra_el": "0,50",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "18100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -20901,13 +22414,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "847794",
+    "voti": "847784",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "847794",
+    "cifra_el": "847784",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -20918,13 +22431,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "847794",
+    "voti": "847784",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "847794",
+    "cifra_el": "847784",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "10"
   },
   {
     "assemblea": "Senato",
@@ -20958,7 +22471,24 @@
     "perc_voti_liste": "",
     "cifra_el": "523620",
     "perc_cifra_el": "47,29",
-    "seggi": "-"
+    "seggi": "4"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "19100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "9"
   },
   {
     "assemblea": "Senato",
@@ -21009,7 +22539,7 @@
     "perc_voti_liste": "",
     "cifra_el": "234326",
     "perc_cifra_el": "21,16",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -21026,7 +22556,7 @@
     "perc_voti_liste": "",
     "cifra_el": "61268",
     "perc_cifra_el": "5,53",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -21061,6 +22591,23 @@
     "cifra_el": "29892",
     "perc_cifra_el": "2,69",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "19100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -21111,7 +22658,7 @@
     "perc_voti_liste": "",
     "cifra_el": "123023",
     "perc_cifra_el": "11,11",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -21168,6 +22715,23 @@
     "assemblea": "Senato",
     "codice": "19100000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "19100000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -21213,7 +22777,24 @@
     "perc_voti_liste": "",
     "cifra_el": "36879",
     "perc_cifra_el": "3,33",
-    "seggi": "-"
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "19100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -21604,7 +23185,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1107120",
     "perc_cifra_el": "100,00",
-    "seggi": "5"
+    "seggi": "14"
   },
   {
     "assemblea": "Senato",
@@ -21621,7 +23202,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1107120",
     "perc_cifra_el": "100,00",
-    "seggi": "5"
+    "seggi": "14"
   },
   {
     "assemblea": "Senato",
@@ -21655,7 +23236,24 @@
     "perc_voti_liste": "",
     "cifra_el": "531395",
     "perc_cifra_el": "48,88",
-    "seggi": "-"
+    "seggi": "4"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "19200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "8"
   },
   {
     "assemblea": "Senato",
@@ -21706,7 +23304,7 @@
     "perc_voti_liste": "",
     "cifra_el": "218791",
     "perc_cifra_el": "20,12",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -21740,7 +23338,7 @@
     "perc_voti_liste": "",
     "cifra_el": "45169",
     "perc_cifra_el": "4,15",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -21758,6 +23356,23 @@
     "cifra_el": "18468",
     "perc_cifra_el": "1,69",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "19200000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -21808,7 +23423,7 @@
     "perc_voti_liste": "",
     "cifra_el": "132173",
     "perc_cifra_el": "12,16",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -21865,6 +23480,23 @@
     "assemblea": "Senato",
     "codice": "19200000000",
     "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "19200000000",
+    "tipo": "colleggioPlurinominale",
     "tipo_riga": "XX",
     "cand_descr_riga": "",
     "img_lista": "",
@@ -22301,7 +23933,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1086935",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "11"
   },
   {
     "assemblea": "Senato",
@@ -22318,7 +23950,7 @@
     "perc_voti_liste": "",
     "cifra_el": "1086935",
     "perc_cifra_el": "100,00",
-    "seggi": "4"
+    "seggi": "11"
   },
   {
     "assemblea": "Senato",
@@ -22329,13 +23961,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "340937",
+    "voti": "341177",
     "perc": "42,15",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "340937",
+    "cifra_el": "341177",
     "perc_cifra_el": "42,15",
-    "seggi": "2"
+    "seggi": "3"
   },
   {
     "assemblea": "Senato",
@@ -22346,13 +23978,30 @@
     "img_lista": "25-20180304000000-11366-0.png",
     "descr_lista": "MOVIMENTO 5 STELLE",
     "link_cand_lista": null,
-    "voti": "334596",
-    "perc": "41,98",
+    "voti": "341177",
+    "perc": "42,15",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "334596",
-    "perc_cifra_el": "41,98",
-    "seggi": "-"
+    "cifra_el": "341177",
+    "perc_cifra_el": "42,15",
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "20100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "5"
   },
   {
     "assemblea": "Senato",
@@ -22380,12 +24029,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "251168",
-    "perc": "31,05",
+    "voti": "251389",
+    "perc": "31,06",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "251168",
-    "perc_cifra_el": "31,05",
+    "cifra_el": "251389",
+    "perc_cifra_el": "31,06",
     "seggi": "-"
   },
   {
@@ -22397,13 +24046,13 @@
     "img_lista": "25-20180304000000-1112-0.png",
     "descr_lista": "FORZA ITALIA",
     "link_cand_lista": null,
-    "voti": "113226",
-    "perc": "14,20",
+    "voti": "114003",
+    "perc": "14,08",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "113226",
-    "perc_cifra_el": "14,20",
-    "seggi": "-"
+    "cifra_el": "114003",
+    "perc_cifra_el": "14,08",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -22414,13 +24063,13 @@
     "img_lista": "25-20180304000000-11367-0.png",
     "descr_lista": "LEGA",
     "link_cand_lista": null,
-    "voti": "93176",
-    "perc": "11,69",
+    "voti": "93812",
+    "perc": "11,59",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "93176",
-    "perc_cifra_el": "11,69",
-    "seggi": "-"
+    "cifra_el": "93812",
+    "perc_cifra_el": "11,59",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -22431,12 +24080,12 @@
     "img_lista": "25-20180304000000-11434-0.png",
     "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
     "link_cand_lista": null,
-    "voti": "34488",
-    "perc": "4,32",
+    "voti": "34722",
+    "perc": "4,29",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "34488",
-    "perc_cifra_el": "4,32",
+    "cifra_el": "34722",
+    "perc_cifra_el": "4,29",
     "seggi": "-"
   },
   {
@@ -22448,13 +24097,30 @@
     "img_lista": "25-20180304000000-11402-0.png",
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": null,
-    "voti": "8776",
-    "perc": "1,10",
+    "voti": "8852",
+    "perc": "1,09",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "8776",
-    "perc_cifra_el": "1,10",
+    "cifra_el": "8852",
+    "perc_cifra_el": "1,09",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "20100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Senato",
@@ -22482,11 +24148,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "144409",
+    "voti": "144511",
     "perc": "17,85",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "144409",
+    "cifra_el": "144511",
     "perc_cifra_el": "17,85",
     "seggi": "-"
   },
@@ -22499,13 +24165,13 @@
     "img_lista": "25-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": null,
-    "voti": "122277",
-    "perc": "15,34",
+    "voti": "123887",
+    "perc": "15,30",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "122277",
-    "perc_cifra_el": "15,34",
-    "seggi": "-"
+    "cifra_el": "123887",
+    "perc_cifra_el": "15,30",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -22516,11 +24182,11 @@
     "img_lista": "25-20180304000000-11403-0.png",
     "descr_lista": "+EUROPA",
     "link_cand_lista": null,
-    "voti": "12448",
+    "voti": "12694",
     "perc": "1,56",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "12448",
+    "cifra_el": "12694",
     "perc_cifra_el": "1,56",
     "seggi": "-"
   },
@@ -22533,11 +24199,11 @@
     "img_lista": "25-20180304000000-11373-0.png",
     "descr_lista": "ITALIA EUROPA INSIEME",
     "link_cand_lista": null,
-    "voti": "4719",
+    "voti": "4806",
     "perc": "0,59",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "4719",
+    "cifra_el": "4806",
     "perc_cifra_el": "0,59",
     "seggi": "-"
   },
@@ -22550,13 +24216,30 @@
     "img_lista": "25-20180304000000-11412-0.png",
     "descr_lista": "CIVICA POPOLARE LORENZIN",
     "link_cand_lista": null,
-    "voti": "3084",
+    "voti": "3124",
     "perc": "0,38",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3084",
+    "cifra_el": "3124",
     "perc_cifra_el": "0,38",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Senato",
+    "codice": "20100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Senato",
@@ -22584,11 +24267,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "23930",
+    "voti": "23952",
     "perc": "2,95",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "23930",
+    "cifra_el": "23952",
     "perc_cifra_el": "2,95",
     "seggi": "-"
   },
@@ -22601,12 +24284,12 @@
     "img_lista": "25-20180304000000-11393-0.png",
     "descr_lista": "LIBERI E UGUALI",
     "link_cand_lista": null,
-    "voti": "23051",
-    "perc": "2,89",
+    "voti": "23952",
+    "perc": "2,95",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "23051",
-    "perc_cifra_el": "2,89",
+    "cifra_el": "23952",
+    "perc_cifra_el": "2,95",
     "seggi": "-"
   },
   {
@@ -22635,11 +24318,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "20457",
+    "voti": "20468",
     "perc": "2,52",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "20457",
+    "cifra_el": "20468",
     "perc_cifra_el": "2,52",
     "seggi": "-"
   },
@@ -22652,12 +24335,12 @@
     "img_lista": "25-20180304000000-11408-0.png",
     "descr_lista": "AUTODETERMINATZIONE",
     "link_cand_lista": null,
-    "voti": "19981",
-    "perc": "2,50",
+    "voti": "20468",
+    "perc": "2,52",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "19981",
-    "perc_cifra_el": "2,50",
+    "cifra_el": "20468",
+    "perc_cifra_el": "2,52",
     "seggi": "-"
   },
   {
@@ -22686,11 +24369,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "7477",
+    "voti": "7480",
     "perc": "0,92",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "7477",
+    "cifra_el": "7480",
     "perc_cifra_el": "0,92",
     "seggi": "-"
   },
@@ -22703,12 +24386,12 @@
     "img_lista": "25-20180304000000-11372-0.png",
     "descr_lista": "POTERE AL POPOLO!",
     "link_cand_lista": null,
-    "voti": "7280",
-    "perc": "0,91",
+    "voti": "7480",
+    "perc": "0,92",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "7280",
-    "perc_cifra_el": "0,91",
+    "cifra_el": "7480",
+    "perc_cifra_el": "0,92",
     "seggi": "-"
   },
   {
@@ -22737,11 +24420,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "6771",
+    "voti": "6775",
     "perc": "0,83",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "6771",
+    "cifra_el": "6775",
     "perc_cifra_el": "0,83",
     "seggi": "-"
   },
@@ -22754,12 +24437,12 @@
     "img_lista": "25-20180304000000-11003-0.png",
     "descr_lista": "CASAPOUND ITALIA",
     "link_cand_lista": null,
-    "voti": "6609",
-    "perc": "0,82",
+    "voti": "6775",
+    "perc": "0,83",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "6609",
-    "perc_cifra_el": "0,82",
+    "cifra_el": "6775",
+    "perc_cifra_el": "0,83",
     "seggi": "-"
   },
   {
@@ -22788,11 +24471,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "5526",
+    "voti": "5531",
     "perc": "0,68",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5526",
+    "cifra_el": "5531",
     "perc_cifra_el": "0,68",
     "seggi": "-"
   },
@@ -22805,12 +24488,12 @@
     "img_lista": "25-20180304000000-11277-0.png",
     "descr_lista": "IL POPOLO DELLA FAMIGLIA",
     "link_cand_lista": null,
-    "voti": "5373",
-    "perc": "0,67",
+    "voti": "5531",
+    "perc": "0,68",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5373",
-    "perc_cifra_el": "0,67",
+    "cifra_el": "5531",
+    "perc_cifra_el": "0,68",
     "seggi": "-"
   },
   {
@@ -22839,11 +24522,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "5138",
+    "voti": "5140",
     "perc": "0,63",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5138",
+    "cifra_el": "5140",
     "perc_cifra_el": "0,63",
     "seggi": "-"
   },
@@ -22856,11 +24539,11 @@
     "img_lista": "25-20180304000000-11023-0.png",
     "descr_lista": "PARTITO COMUNISTA",
     "link_cand_lista": null,
-    "voti": "5028",
+    "voti": "5140",
     "perc": "0,63",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "5028",
+    "cifra_el": "5140",
     "perc_cifra_el": "0,63",
     "seggi": "-"
   },
@@ -22890,11 +24573,11 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "2928",
+    "voti": "2929",
     "perc": "0,36",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "2928",
+    "cifra_el": "2929",
     "perc_cifra_el": "0,36",
     "seggi": "-"
   },
@@ -22907,11 +24590,11 @@
     "img_lista": "25-20180304000000-11381-0.png",
     "descr_lista": "PARTITO VALORE UMANO",
     "link_cand_lista": null,
-    "voti": "2878",
+    "voti": "2929",
     "perc": "0,36",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "2878",
+    "cifra_el": "2929",
     "perc_cifra_el": "0,36",
     "seggi": "-"
   },
@@ -22941,13 +24624,13 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "808741",
+    "voti": "809352",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "808741",
+    "cifra_el": "809352",
     "perc_cifra_el": "100,00",
-    "seggi": "2"
+    "seggi": "8"
   },
   {
     "assemblea": "Senato",
@@ -22958,12 +24641,12 @@
     "img_lista": "",
     "descr_lista": "",
     "link_cand_lista": "",
-    "voti": "796990",
+    "voti": "809352",
     "perc": "100,00",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "796990",
+    "cifra_el": "809352",
     "perc_cifra_el": "100,00",
-    "seggi": "2"
+    "seggi": "8"
   }
 ]

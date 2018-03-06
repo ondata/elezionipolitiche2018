@@ -3,7 +3,7 @@
 "elettori": "381.219",
 "votanti": "285.983",
 "perc_votanti": "75,01",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 15:44",
+"aggiornamento": "Dato aggiornato al 06/03/2018 - 00:48",
 "sezioni_perv": "571",
 "sezioni": "571",
 "coll_uni_perv": "",
@@ -51,14 +51,14 @@
 	{"tipo_riga": "CA", "cand_descr_riga": "LORENZO BAUDO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "783", "perc": "0,28", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "59"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11381-0.png", "descr_lista": "PARTITO VALORE UMANO", "link_cand_lista": "", "voti": "783", "perc": "0,28", "eletto": "", "perc_voti_liste": "", "cifra_el": "783", "perc_cifra_el": "0,28", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
-	{"tipo_riga": "CA", "cand_descr_riga": "BIAGIO ROSSO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "626", "perc": "0,22", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "33"},
-     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11371-0.png", "descr_lista": "GRANDE NORD", "link_cand_lista": "", "voti": "625", "perc": "0,22", "eletto": "", "perc_voti_liste": "", "cifra_el": "625", "perc_cifra_el": "0,22", "seggi": "", "una_lista": "S"},
+	{"tipo_riga": "CA", "cand_descr_riga": "BIAGIO ROSSO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "626", "perc": "0,22", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "32"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11371-0.png", "descr_lista": "GRANDE NORD", "link_cand_lista": "", "voti": "626", "perc": "0,22", "eletto": "", "perc_voti_liste": "", "cifra_el": "626", "perc_cifra_el": "0,22", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "CA", "cand_descr_riga": "ANTONIO TEDESCO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "209", "perc": "0,07", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "28"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11418-0.png", "descr_lista": "PARTITO REPUBBLICANO ITALIANO - ALA", "link_cand_lista": "", "voti": "209", "perc": "0,07", "eletto": "", "perc_voti_liste": "", "cifra_el": "209", "perc_cifra_el": "0,07", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "TU", "cand_descr_riga": "Uninominale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "275.000", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
-	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "274.999", "perc": "100,00", "eletto": "", "perc_voti_liste": "100,00", "cifra_el": "", "perc_cifra_el": "", "seggi": ""}		
+	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "275.000", "perc": "100,00", "eletto": "", "perc_voti_liste": "100,00", "cifra_el": "", "perc_cifra_el": "", "seggi": ""}		
 	]				               
  }	
 	

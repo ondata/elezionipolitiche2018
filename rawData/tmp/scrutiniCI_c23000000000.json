@@ -1,21 +1,21 @@
 [
   {
     "assemblea": "scrutiniCI",
-    "codice": "3000000000",
+    "codice": "23000000000",
     "status": "ESERCIZIO",
     "elettori": "1541566",
-    "votanti": "-",
-    "perc_votanti": "-",
-    "aggiornamento": "Dato aggiornato al 05/03/2018 - 15:46",
-    "sezioni_perv": "2414",
+    "votanti": "981045",
+    "perc_votanti": "63,63",
+    "aggiornamento": "Dato aggiornato al 06/03/2018 - 00:48",
+    "sezioni_perv": "2416",
     "sezioni": "2416",
-    "coll_uni_perv": "7",
+    "coll_uni_perv": "8",
     "coll_uni": "8",
     "sezioni_coll_uni_perv": "0",
-    "sk_bianche": "-",
-    "sk_nulle": "-",
-    "sk_contestate": "-",
+    "sk_bianche": "15683",
+    "sk_nulle": "43309",
+    "sk_contestate": "26",
     "livello": "I",
-    "fine_riparto": ""
+    "fine_riparto": "F"
   }
 ]

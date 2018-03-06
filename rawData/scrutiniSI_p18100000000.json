@@ -3,7 +3,7 @@
 "elettori": "1.402.353",
 "votanti": "890.600",
 "perc_votanti": "63,50",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 16:12",
+"aggiornamento": "Dato aggiornato al 06/03/2018 - 00:48",
 "sezioni_perv": "2.416",
 "sezioni": "2.416",  
 "coll_uni_perv": "4",
@@ -13,25 +13,28 @@
 "sk_nulle": "42.706",
 "sk_contestate": "100",		
 "livello": "L",
-"fine_riparto": "N",  
-"note": [
-	{"testo": ""}
+"fine_riparto": "F",  
+"note": [{"testo": "Il riparto provvisorio dei seggi si riferisce ad uno scrutinio non definitivo, non essendo pervenuti i risultati di tutte le sezioni"},
+	{"testo": "DATI PROVVISORI, TENENDO CONTO CHE ALCUNI VERBALI RISULTANO ESSERE STATI INVIATI DIRETTAMENTE ALLE CORTI DI APPELLO CHE, COME PREVISTO DALLA LEGGE, PROVVEDERANNO ALLA PROCLAMAZIONE DEGLI ELETTI"}
 	],
 "righe": [
-	{"tipo_riga": "CU", "cand_descr_riga": "CANDIDATI UNINOMINALI", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "369.375", "perc": "43,56", "eletto": "", "perc_voti_liste": "", "cifra_el": "369.375", "perc_cifra_el": "43,56", "seggi": "3"},		
-     	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "01", "img_lista": "25-20180304000000-11366-0.png", "descr_lista": "MOVIMENTO 5 STELLE", "voti": "369.375", "perc": "43,56", "eletto": "", "perc_voti_liste": "", "cifra_el": "369.375", "perc_cifra_el": "43,56", "seggi": "-", "una_lista": "S"},
+	{"tipo_riga": "CU", "cand_descr_riga": "CANDIDATI UNINOMINALI", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "369.365", "perc": "43,56", "eletto": "", "perc_voti_liste": "", "cifra_el": "369.365", "perc_cifra_el": "43,56", "seggi": "3"},		
+     	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "01", "img_lista": "25-20180304000000-11366-0.png", "descr_lista": "MOVIMENTO 5 STELLE", "voti": "369.365", "perc": "43,56", "eletto": "", "perc_voti_liste": "", "cifra_el": "369.365", "perc_cifra_el": "43,56", "seggi": "3", "una_lista": "S"},
+	{"tipo_riga": "TS", "cand_descr_riga": "TOTALE SEGGI", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "6"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "CU", "cand_descr_riga": "CANDIDATI UNINOMINALI", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "279.706", "perc": "32,99", "eletto": "", "perc_voti_liste": "", "cifra_el": "279.706", "perc_cifra_el": "32,99", "seggi": "1"},		
-     	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "13", "img_lista": "25-20180304000000-1112-0.png", "descr_lista": "FORZA ITALIA", "voti": "181.849", "perc": "21,44", "eletto": "", "perc_voti_liste": "", "cifra_el": "181.849", "perc_cifra_el": "21,44", "seggi": "-", "una_lista": "N"},		
-     	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "11", "img_lista": "25-20180304000000-11367-0.png", "descr_lista": "LEGA", "voti": "49.797", "perc": "5,87", "eletto": "", "perc_voti_liste": "", "cifra_el": "49.797", "perc_cifra_el": "5,87", "seggi": "-", "una_lista": "N"},		
+     	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "13", "img_lista": "25-20180304000000-1112-0.png", "descr_lista": "FORZA ITALIA", "voti": "181.849", "perc": "21,44", "eletto": "", "perc_voti_liste": "", "cifra_el": "181.849", "perc_cifra_el": "21,44", "seggi": "1", "una_lista": "N"},		
+     	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "11", "img_lista": "25-20180304000000-11367-0.png", "descr_lista": "LEGA", "voti": "49.797", "perc": "5,87", "eletto": "", "perc_voti_liste": "", "cifra_el": "49.797", "perc_cifra_el": "5,87", "seggi": "1", "una_lista": "N"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "12", "img_lista": "25-20180304000000-11434-0.png", "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI", "voti": "34.863", "perc": "4,11", "eletto": "", "perc_voti_liste": "", "cifra_el": "34.863", "perc_cifra_el": "4,11", "seggi": "-", "una_lista": "N"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "14", "img_lista": "25-20180304000000-11402-0.png", "descr_lista": "NOI CON L'ITALIA - UDC", "voti": "13.197", "perc": "1,55", "eletto": "", "perc_voti_liste": "", "cifra_el": "13.197", "perc_cifra_el": "1,55", "seggi": "-", "una_lista": "N"},
+	{"tipo_riga": "TS", "cand_descr_riga": "TOTALE SEGGI", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "3"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "CU", "cand_descr_riga": "CANDIDATI UNINOMINALI", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "139.812", "perc": "16,49", "eletto": "", "perc_voti_liste": "", "cifra_el": "139.812", "perc_cifra_el": "16,49", "seggi": "-"},		
-     	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "04", "img_lista": "25-20180304000000-3456-0.png", "descr_lista": "PARTITO DEMOCRATICO", "voti": "123.206", "perc": "14,53", "eletto": "", "perc_voti_liste": "", "cifra_el": "123.206", "perc_cifra_el": "14,53", "seggi": "-", "una_lista": "N"},		
+     	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "04", "img_lista": "25-20180304000000-3456-0.png", "descr_lista": "PARTITO DEMOCRATICO", "voti": "123.206", "perc": "14,53", "eletto": "", "perc_voti_liste": "", "cifra_el": "123.206", "perc_cifra_el": "14,53", "seggi": "1", "una_lista": "N"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "07", "img_lista": "25-20180304000000-11403-0.png", "descr_lista": "+EUROPA", "voti": "6.870", "perc": "0,81", "eletto": "", "perc_voti_liste": "", "cifra_el": "6.870", "perc_cifra_el": "0,81", "seggi": "-", "una_lista": "N"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "06", "img_lista": "25-20180304000000-11373-0.png", "descr_lista": "ITALIA EUROPA INSIEME", "voti": "5.438", "perc": "0,64", "eletto": "", "perc_voti_liste": "", "cifra_el": "5.438", "perc_cifra_el": "0,64", "seggi": "-", "una_lista": "N"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "05", "img_lista": "25-20180304000000-11412-0.png", "descr_lista": "CIVICA POPOLARE LORENZIN", "voti": "4.298", "perc": "0,50", "eletto": "", "perc_voti_liste": "", "cifra_el": "4.298", "perc_cifra_el": "0,50", "seggi": "-", "una_lista": "N"},
+	{"tipo_riga": "TS", "cand_descr_riga": "TOTALE SEGGI", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "1"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "CU", "cand_descr_riga": "CANDIDATI UNINOMINALI", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "23.101", "perc": "2,72", "eletto": "", "perc_voti_liste": "", "cifra_el": "23.101", "perc_cifra_el": "2,72", "seggi": "-"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "18", "img_lista": "25-20180304000000-11393-0.png", "descr_lista": "LIBERI E UGUALI", "voti": "23.101", "perc": "2,72", "eletto": "", "perc_voti_liste": "", "cifra_el": "23.101", "perc_cifra_el": "2,72", "seggi": "-", "una_lista": "S"},
@@ -63,8 +66,8 @@
 	{"tipo_riga": "CU", "cand_descr_riga": "CANDIDATI UNINOMINALI", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "1.272", "perc": "0,15", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.272", "perc_cifra_el": "0,15", "seggi": "-"},		
      	{"tipo_riga": "LI", "cand_descr_riga": "", "num_lista": "03", "img_lista": "25-20180304000000-11400-0.png", "descr_lista": "LISTA DEL POPOLO PER LA COSTITUZIONE", "voti": "1.272", "perc": "0,15", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.272", "perc_cifra_el": "0,15", "seggi": "-", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
-	{"tipo_riga": "TU", "cand_descr_riga": "Uninominale", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "847.794", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "847.794", "perc_cifra_el": "100,00", "seggi": "4"},
-	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "847.794", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "847.794", "perc_cifra_el": "100,00", "seggi": "4"}
+	{"tipo_riga": "TU", "cand_descr_riga": "Uninominale", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "847.784", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "847.784", "perc_cifra_el": "100,00", "seggi": "10"},
+	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "num_lista": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "847.784", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "847.784", "perc_cifra_el": "100,00", "seggi": "10"}
 	]				               
  }	
 	

@@ -29,9 +29,9 @@
     "perc": "31,01",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "97910",
+    "cifra_el": "173091",
     "perc_cifra_el": "31,01",
-    "seggi": "-"
+    "seggi": "2"
   },
   {
     "assemblea": "Camera",
@@ -48,7 +48,7 @@
     "perc_voti_liste": "",
     "cifra_el": "63485",
     "perc_cifra_el": "11,37",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -83,6 +83,23 @@
     "cifra_el": "5955",
     "perc_cifra_el": "1,06",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "08100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "6"
   },
   {
     "assemblea": "Camera",
@@ -133,7 +150,24 @@
     "perc_voti_liste": "",
     "cifra_el": "136982",
     "perc_cifra_el": "24,54",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "08100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Camera",
@@ -184,7 +218,7 @@
     "perc_voti_liste": "",
     "cifra_el": "94042",
     "perc_cifra_el": "16,85",
-    "seggi": "-"
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -236,6 +270,23 @@
     "cifra_el": "2307",
     "perc_cifra_el": "0,41",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "08100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -728,7 +779,7 @@
     "perc_voti_liste": "",
     "cifra_el": "558003",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "9"
   },
   {
     "assemblea": "Camera",
@@ -745,6 +796,6 @@
     "perc_voti_liste": "",
     "cifra_el": "558003",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "9"
   }
 ]

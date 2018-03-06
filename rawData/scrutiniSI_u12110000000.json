@@ -3,7 +3,7 @@
 "elettori": "399.729",
 "votanti": "-",
 "perc_votanti": "-",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 16:07",
+"aggiornamento": "Dato aggiornato al 06/03/2018 - 00:48",
 "sezioni_perv": "544",
 "sezioni": "552",
 "coll_uni_perv": "",
@@ -13,12 +13,12 @@
 "sk_nulle": "-",
 "sk_contestate": "-",		
 "livello": "U",
-"flag_eletto": "",  
+"flag_eletto": "S",  
 "note": [
 	{"testo": ""}
 	],
 "righe": [
-	{"tipo_riga": "CA", "cand_descr_riga": "EMMA BONINO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "111.113", "perc": "38,93", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "9.750"},
+	{"tipo_riga": "CA", "cand_descr_riga": "EMMA BONINO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "111.113", "perc": "38,93", "eletto": "U", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "9.750"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-3456-0.png", "descr_lista": "PARTITO DEMOCRATICO", "link_cand_lista": "", "voti": "73.730", "perc": "27,47", "eletto": "", "perc_voti_liste": "", "cifra_el": "73.730", "perc_cifra_el": "27,47", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11403-0.png", "descr_lista": "+EUROPA", "link_cand_lista": "", "voti": "22.816", "perc": "8,50", "eletto": "", "perc_voti_liste": "", "cifra_el": "22.816", "perc_cifra_el": "8,50", "seggi": "", "una_lista": "N"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11373-0.png", "descr_lista": "ITALIA EUROPA INSIEME", "link_cand_lista": "", "voti": "2.957", "perc": "1,10", "eletto": "", "perc_voti_liste": "", "cifra_el": "2.957", "perc_cifra_el": "1,10", "seggi": "", "una_lista": "N"},

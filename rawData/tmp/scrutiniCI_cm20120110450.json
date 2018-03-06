@@ -1,0 +1,21 @@
+[
+  {
+    "assemblea": "scrutiniCI",
+    "codice": "20120110450",
+    "status": "ESERCIZIO",
+    "elettori": "2039",
+    "votanti": "1394",
+    "perc_votanti": "68,36",
+    "aggiornamento": "Dato aggiornato al 05/03/2018 - 12:44",
+    "sezioni_perv": "3",
+    "sezioni": "3",
+    "coll_uni_perv": "",
+    "coll_uni": "",
+    "sezioni_coll_uni_perv": "",
+    "sk_bianche": "41",
+    "sk_nulle": "67",
+    "sk_contestate": "0",
+    "livello": "C",
+    "fine_riparto": null
+  }
+]

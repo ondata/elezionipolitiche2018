@@ -1,0 +1,21 @@
+[
+  {
+    "assemblea": "scrutiniCI",
+    "codice": "19310510520",
+    "status": "ESERCIZIO",
+    "elettori": "11381",
+    "votanti": "8497",
+    "perc_votanti": "74,65",
+    "aggiornamento": "Dato aggiornato al 05/03/2018 - 08:00",
+    "sezioni_perv": "13",
+    "sezioni": "13",
+    "coll_uni_perv": "",
+    "coll_uni": "",
+    "sezioni_coll_uni_perv": "",
+    "sk_bianche": "117",
+    "sk_nulle": "265",
+    "sk_contestate": "0",
+    "livello": "C",
+    "fine_riparto": null
+  }
+]

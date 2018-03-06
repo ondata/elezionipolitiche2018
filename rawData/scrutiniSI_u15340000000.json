@@ -3,7 +3,7 @@
 "elettori": "360.380",
 "votanti": "254.260",
 "perc_votanti": "70,55",
-"aggiornamento": "Dato aggiornato al 05/03/2018 - 15:44",
+"aggiornamento": "Dato aggiornato al 06/03/2018 - 00:48",
 "sezioni_perv": "560",
 "sezioni": "560",
 "coll_uni_perv": "",
@@ -42,8 +42,8 @@
 	{"tipo_riga": "CA", "cand_descr_riga": "ERMANNO MANDARINO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "1.655", "perc": "0,68", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "88"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11388-0.png", "descr_lista": "ITALIA AGLI ITALIANI", "link_cand_lista": "", "voti": "1.655", "perc": "0,68", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.655", "perc_cifra_el": "0,68", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
-	{"tipo_riga": "CA", "cand_descr_riga": "RICCARDO MARIA ANTONIO BIAGIO CERSOSIMO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "1.427", "perc": "0,58", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "87"},
-     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11277-0.png", "descr_lista": "IL POPOLO DELLA FAMIGLIA", "link_cand_lista": "", "voti": "1.426", "perc": "0,58", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.426", "perc_cifra_el": "0,58", "seggi": "", "una_lista": "S"},
+	{"tipo_riga": "CA", "cand_descr_riga": "RICCARDO MARIA ANTONIO BIAGIO CERSOSIMO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "1.427", "perc": "0,58", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "86"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11277-0.png", "descr_lista": "IL POPOLO DELLA FAMIGLIA", "link_cand_lista": "", "voti": "1.427", "perc": "0,58", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.427", "perc_cifra_el": "0,58", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "CA", "cand_descr_riga": "SALVATORE LUONGO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "1.307", "perc": "0,54", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "84"},
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11003-0.png", "descr_lista": "CASAPOUND ITALIA", "link_cand_lista": "", "voti": "1.307", "perc": "0,54", "eletto": "", "perc_voti_liste": "", "cifra_el": "1.307", "perc_cifra_el": "0,54", "seggi": "", "una_lista": "S"},
@@ -61,7 +61,7 @@
      {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "25-20180304000000-11377-0.png", "descr_lista": "PER UNA SINISTRA RIVOLUZIONARIA", "link_cand_lista": "", "voti": "304", "perc": "0,12", "eletto": "", "perc_voti_liste": "", "cifra_el": "304", "perc_cifra_el": "0,12", "seggi": "", "una_lista": "S"},
 	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
 	{"tipo_riga": "TU", "cand_descr_riga": "Uninominale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "241.916", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
-	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "241.915", "perc": "100,00", "eletto": "", "perc_voti_liste": "100,00", "cifra_el": "", "perc_cifra_el": "", "seggi": ""}		
+	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "241.916", "perc": "100,00", "eletto": "", "perc_voti_liste": "100,00", "cifra_el": "", "perc_cifra_el": "", "seggi": ""}		
 	]				               
  }	
 	

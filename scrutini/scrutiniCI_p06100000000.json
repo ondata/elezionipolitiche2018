@@ -25,13 +25,13 @@
     "img_lista": "24-20180304000000-11367-0.png",
     "descr_lista": "LEGA",
     "link_cand_lista": null,
-    "voti": "129573",
-    "perc": "27,74",
+    "voti": "129814",
+    "perc": "27,79",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "129573",
-    "perc_cifra_el": "27,74",
-    "seggi": "-"
+    "cifra_el": "129814",
+    "perc_cifra_el": "27,79",
+    "seggi": "2"
   },
   {
     "assemblea": "Camera",
@@ -42,13 +42,13 @@
     "img_lista": "24-20180304000000-1112-0.png",
     "descr_lista": "FORZA ITALIA",
     "link_cand_lista": null,
-    "voti": "75267",
-    "perc": "16,11",
+    "voti": "74980",
+    "perc": "16,05",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "75267",
-    "perc_cifra_el": "16,11",
-    "seggi": "-"
+    "cifra_el": "74980",
+    "perc_cifra_el": "16,05",
+    "seggi": "1"
   },
   {
     "assemblea": "Camera",
@@ -59,12 +59,12 @@
     "img_lista": "24-20180304000000-11434-0.png",
     "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
     "link_cand_lista": null,
-    "voti": "18706",
-    "perc": "4,00",
+    "voti": "18745",
+    "perc": "4,01",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "18706",
-    "perc_cifra_el": "4,00",
+    "cifra_el": "18745",
+    "perc_cifra_el": "4,01",
     "seggi": "-"
   },
   {
@@ -76,13 +76,30 @@
     "img_lista": "24-20180304000000-11402-0.png",
     "descr_lista": "NOI CON L'ITALIA - UDC",
     "link_cand_lista": null,
-    "voti": "3076",
-    "perc": "0,65",
+    "voti": "3083",
+    "perc": "0,66",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "3076",
-    "perc_cifra_el": "0,65",
+    "cifra_el": "3083",
+    "perc_cifra_el": "0,66",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "06100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "6"
   },
   {
     "assemblea": "Camera",
@@ -133,7 +150,24 @@
     "perc_voti_liste": "",
     "cifra_el": "106219",
     "perc_cifra_el": "22,74",
-    "seggi": "-"
+    "seggi": "2"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "06100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Camera",
@@ -178,13 +212,13 @@
     "img_lista": "24-20180304000000-3456-0.png",
     "descr_lista": "PARTITO DEMOCRATICO",
     "link_cand_lista": null,
-    "voti": "89817",
-    "perc": "19,23",
+    "voti": "89785",
+    "perc": "19,22",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "89817",
-    "perc_cifra_el": "19,23",
-    "seggi": "-"
+    "cifra_el": "89785",
+    "perc_cifra_el": "19,22",
+    "seggi": "2"
   },
   {
     "assemblea": "Camera",
@@ -195,11 +229,11 @@
     "img_lista": "24-20180304000000-11403-0.png",
     "descr_lista": "+EUROPA",
     "link_cand_lista": null,
-    "voti": "11628",
+    "voti": "11643",
     "perc": "2,49",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "11628",
+    "cifra_el": "11643",
     "perc_cifra_el": "2,49",
     "seggi": "-"
   },
@@ -212,11 +246,11 @@
     "img_lista": "24-20180304000000-11373-0.png",
     "descr_lista": "ITALIA EUROPA INSIEME",
     "link_cand_lista": null,
-    "voti": "1797",
+    "voti": "1799",
     "perc": "0,38",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1797",
+    "cifra_el": "1799",
     "perc_cifra_el": "0,38",
     "seggi": "-"
   },
@@ -229,13 +263,30 @@
     "img_lista": "24-20180304000000-11412-0.png",
     "descr_lista": "CIVICA POPOLARE LORENZIN",
     "link_cand_lista": null,
-    "voti": "1403",
+    "voti": "1418",
     "perc": "0,30",
     "eletto": "",
     "perc_voti_liste": "",
-    "cifra_el": "1403",
+    "cifra_el": "1418",
     "perc_cifra_el": "0,30",
     "seggi": "-"
+  },
+  {
+    "assemblea": "Camera",
+    "codice": "06100000000",
+    "tipo": "colleggioPlurinominale",
+    "tipo_riga": "TS",
+    "cand_descr_riga": "TOTALE SEGGI",
+    "img_lista": "",
+    "descr_lista": "",
+    "link_cand_lista": "",
+    "voti": "",
+    "perc": "",
+    "eletto": "",
+    "perc_voti_liste": "",
+    "cifra_el": "",
+    "perc_cifra_el": "",
+    "seggi": "2"
   },
   {
     "assemblea": "Camera",
@@ -677,7 +728,7 @@
     "perc_voti_liste": "",
     "cifra_el": "466958",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "10"
   },
   {
     "assemblea": "Camera",
@@ -694,6 +745,6 @@
     "perc_voti_liste": "",
     "cifra_el": "466958",
     "perc_cifra_el": "100,00",
-    "seggi": "3"
+    "seggi": "10"
   }
 ]
