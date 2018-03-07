@@ -25,7 +25,13 @@ Sono due script in bash:
 
 ### Dati
 
-Tutti i CSV elencati a seguire utilizzano come separatore la `,` e l'*encoding* è `UTF-8`.
+Tutti i CSV elencati a seguire utilizzano come separatore la `,` e l'*encoding* è `UTF-8`. 
+<br>I dati **replicano** lo **schema di output originale** (con piccole modifiche):
+
+- [questo](https://github.com/ondata/elezionipolitiche2018/blob/master/rawData/scrutiniCI_c01000000000.json) un file per come è esposto sul sito del ministero;
+  - da qui estriamo la parte anagrafica in testa ad ogni file di output, per costruire un file di riepilogo (come [questo](https://github.com/ondata/elezionipolitiche2018/blob/master/dati/riepilogo.json))
+  - estraiamo i dettagli (un [esempio](https://github.com/ondata/elezionipolitiche2018/blob/master/scrutini/scrutiniCI_c01000000000.json));
+  - mettiamo insieme i file con i dettagli per creare  alcuni dei file di insieme indicati sotti.
 
 #### Anagrafica geografica
 
