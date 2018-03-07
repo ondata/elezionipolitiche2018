@@ -20,7 +20,7 @@ La fonte è [http://elezioni.interno.gov.it/eligendo](http://elezioni.interno.go
 
 Sono due script in bash:
 
-- [dwVotanti.sh](./dwVotanti.sh) per scaricare i dati sui votanti di questa tornata elettorale.
+- [dwVotanti.sh](./dwVotanti.sh) per scaricare i dati sui votanti di questa tornata elettorale;
 - [dwScrutini.sh](./dwScrutini.sh) per scaricare i risultati di questa tornata elettorale.
 
 ### Dati
