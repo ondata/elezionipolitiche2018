@@ -25,6 +25,8 @@ Sono due script in bash:
 
 ### Dati
 
+Tutti i CSV elencati a seguire utilizzano come separatore la `,` e l'*encoding* è `UTF-8`.
+
 #### Anagrafica geografica
 
 - per la Camera: [camera_geopolitico_italia.csv](./dati/camera_geopolitico_italia.csv)
