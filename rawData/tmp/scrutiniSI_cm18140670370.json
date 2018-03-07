@@ -1,0 +1,21 @@
+[
+  {
+    "assemblea": "scrutiniSI",
+    "codice": "18140670370",
+    "status": "ESERCIZIO",
+    "elettori": "1294",
+    "votanti": "681",
+    "perc_votanti": "52,62",
+    "aggiornamento": "Dato aggiornato al 05/03/2018 - 02:22",
+    "sezioni_perv": "2",
+    "sezioni": "2",
+    "coll_uni_perv": "",
+    "coll_uni": "",
+    "sezioni_coll_uni_perv": "",
+    "sk_bianche": "19",
+    "sk_nulle": "36",
+    "sk_contestate": "0",
+    "livello": "C",
+    "fine_riparto": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "assemblea": "scrutiniSI",
+    "codice": "03240151390",
+    "status": "ESERCIZIO",
+    "elettori": "1328",
+    "votanti": "1090",
+    "perc_votanti": "82,07",
+    "aggiornamento": "Dato aggiornato al 05/03/2018 - 07:28",
+    "sezioni_perv": "4",
+    "sezioni": "4",
+    "coll_uni_perv": "",
+    "coll_uni": "",
+    "sezioni_coll_uni_perv": "",
+    "sk_bianche": "23",
+    "sk_nulle": "54",
+    "sk_contestate": "24",
+    "livello": "C",
+    "fine_riparto": null
+  }
+]

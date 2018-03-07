@@ -111,7 +111,7 @@ done <./scrutini/comuni.csv
 <<commento2
 commento2
 
-jq -s add ./scrutini/scrutiniCI_cm*.json >./scrutini/scrutiniCI_cm.json
+jq -s add ./scrutini/scrutiniCI_cm*.json  | jq -c . >./scrutini/scrutiniCI_cm.json
 
 in2csv <./scrutini/scrutiniCI_cm.json -I -f json >./scrutiniCI_cm.csv
 
@@ -197,7 +197,6 @@ jq -s add ./scrutini/scrutiniSI_u*.json >./scrutini/scrutiniSI_u.json
 in2csv <./scrutini/scrutiniSI_u.json -I -f json >./scrutiniSI_u.csv
 
 # scarico i dettagli sugli scrutini al Senato per Comune (decommentare, se commentato)
-<<commento3
 while read p; do
 	curl -X GET \
 		http://elezioni.interno.gov.it/politiche/senato20180304/scrutiniSI"$p" \
@@ -212,9 +211,10 @@ while read p; do
 		-H 'x-requested-with: XMLHttpRequest' | tee ./rawData/scrutiniSI_cm"$p".json | jq '[.righe[]|{assemblea:"Senato",codice:"'"$p"'",tipo:"colleggioUninominale",tipo_riga,cand_descr_riga,img_lista,descr_lista,link_cand_lista,voti:.voti|gsub("\\.";""),perc,eletto,perc_voti_liste,cifra_el:.cifra_el|gsub("\\.";""),perc_cifra_el,seggi}]' >./scrutini/scrutiniSI_cm"$p".json
 done <./scrutini/comuniSI.csv
 
-jq -s add ./scrutini/scrutiniSI_cm*.json >./scrutini/scrutiniSI_cm.json
+jq -s add ./scrutini/scrutiniSI_cm*.json | jq -c . >./scrutini/scrutiniSI_cm.json
 
 in2csv <./scrutini/scrutiniSI_cm.json -I -f json >./scrutiniSI_cm.csv
+<<commento3
 commento3
 
 # estraggo dati dati grezzi scaricati, i dati di riepilogo presenti nei JSON di output
@@ -230,6 +230,10 @@ done
 
 jq -s add ./rawData/tmp/*.json >./riepilogo.json
 in2csv <./riepilogo.json -I -f json >./riepilogo.csv
+
+### eletetti ###
+<./dati/scrutiniCI_u.csv csvgrep -c "eletto" -r '^U$' | csvcut -c "codice,cand_descr_riga,voti,perc" >./dati/elettiCI_u.csv
+<./dati/scrutiniSI_u.csv csvgrep -c "eletto" -r '^U$' | csvcut -c "codice,cand_descr_riga,voti,perc" | sed 's/&Egrave;/È/g' >./dati/elettiSI_u.csv
 
 mv ./*.json ./dati
 mv ./*.csv ./dati

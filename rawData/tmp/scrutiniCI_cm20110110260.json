@@ -1,0 +1,21 @@
+[
+  {
+    "assemblea": "scrutiniCI",
+    "codice": "20110110260",
+    "status": "ESERCIZIO",
+    "elettori": "3405",
+    "votanti": "2333",
+    "perc_votanti": "68,51",
+    "aggiornamento": "Dato aggiornato al 05/03/2018 - 05:15",
+    "sezioni_perv": "6",
+    "sezioni": "6",
+    "coll_uni_perv": "",
+    "coll_uni": "",
+    "sezioni_coll_uni_perv": "",
+    "sk_bianche": "53",
+    "sk_nulle": "149",
+    "sk_contestate": "0",
+    "livello": "C",
+    "fine_riparto": null
+  }
+]

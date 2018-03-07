@@ -1,67 +1,60 @@
-<!DOCTYPE html>
-<html lang="it" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/">
-	<head>
-
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <link rel="shortcut icon" href="http://elezioni.interno.gov.it/weblib/favicon.ico" type="image/vnd.microsoft.icon" />
-        <title></title>
-        <meta name="description" content="ELIGENDO 2018 | Consulta i risultati elettorali su Eligendo - Il portale delle elezioni del Ministero dell'Interno">
-        <meta name="keywords" content="elezioni 2018, politiche e regionali 2018, elezioni, referendum, europee, regionali, comunali, politiche, risultati elettorali, eligendo, ministero interno, viminale, lazio, lombardia">
-		<link rel="image_src" href="http://elezioni.interno.gov.it/weblib/images/eligendo.png" />
-
-        <!-- SOCIAL -->
-		<meta property="og:site_name" content="Eligendo" />
-		<meta property="og:title" content="" />
-		<meta property="og:url" content="http://elezioni.interno.gov.it////"/>
-  		<meta property="og:description" content="ELIGENDO 2018 | Consulta i risultati elettorali su Eligendo - Il portale delle elezioni del Ministero dell'Interno" />
-		<meta property="og:image" content="http://elezioni.interno.gov.it/weblib/images/eligendo.png" />
-		<meta property="og:image:alt" content="Eligendo" />
-		<meta property="og:type" content="website" />
-
-		<meta name="twitter:card" content="summary" />
-		<meta name="twitter:title" content="" />
-		<meta name="twitter:description" content="ELIGENDO 2018 | Consulta i risultati elettorali su Eligendo - Il portale delle elezioni del Ministero dell'Interno" />
-		<meta name="twitter:url" content="http://elezioni.interno.gov.it////" />
-		<meta name="twitter:image" content="http://elezioni.interno.gov.it/weblib/images/eligendo.png" />
-
-        <!-- CSS -->
-        <link rel="stylesheet" type="text/css" href="/weblib/css/jquery-ui.min.css" />
-        <link rel="stylesheet" type="text/css" href="/weblib/css/bootstrap.css" />
-        <link rel="stylesheet" type="text/css" href="/weblib/css/font-awesome.min.css" />
-        <link rel="stylesheet" type="text/css" href="/weblib/css/slidepushmenus-component.css" />
-        <link rel="stylesheet" type="text/css" href="/weblib/css/slidepushmenus-default.css" />
-        <link rel="stylesheet" type="text/css" href="/weblib/css/easy-autocomplete.min.css" />
-        <link rel="stylesheet" type="text/css" href="/weblib/css/dait.css" />
-
-        <link rel="stylesheet" type="text/css" href="/weblib/css/eligendo.css" />
-
-      	<link rel="stylesheet" type="text/css" href="/weblib/css/dait-elezioni.css"/>
-   	 
-
-        <link rel="stylesheet" media="print" href="/weblib/css/dait-stampa.css" />
-		<!-- HTML5 element support for IE6-8 -->
-		<!--[if lt IE 9]><script src="/weblib/js/respond.min.js"></script><![endif]-->
-        <!--[if lt IE 9]><script src="/weblib/js/html5shiv-printshiv.min.js"></script><![endif]-->
-		<script type="application/ld+json">
-		{
-			"@context": "http://schema.org",
-			"@type": "Organization",
-			"url": "http://elezioni.interno.gov.it/eligendo",
-			"name": "Eligendo: speciale elezioni",
-			"image": "http://elezioni.interno.gov.it/weblib/images/eligendo.png",
-			"description": "ELIGENDO 2018 | Speciale elezioni | Il 4 marzo si vota per le elezioni politiche. In Lombardia e Lazio si vota anche per le elezioni regionali. Tutte le informazioni sugli adempimenti preparatori e organizzativi per lo svolgimento delle consultazioni elettorali, i dati dell&#039;affluenza e i risultati.",
-			"logo": "http://elezioni.interno.gov.it/weblib/images/logo-eligendo_blu.svg",
-			"contactPoint": {
-				"@type": "ContactPoint",
-				"telephone": "+3946501",
-				"contactType": "technical support"
-			}
-		}
-		</script>
-
-		</head>
-	<body class="html navbar-is-fixed-top cbp-spmenu-push" onload="">
-		<!--[if lt IE 8]>
-			<p class=chromeframe>Il tuo browser &egrave; <em>obsoleto!</em> <a href="http://browsehappy.com/">Aggiornalo</a> o <a
+{ 
+"status": "ESERCIZIO",
+"elettori": "2.359",
+"votanti": "1.473",
+"perc_votanti": "62,44",
+"aggiornamento": "Dato aggiornato al 06/03/2018 - 12:05",
+"sezioni_perv": "3",
+"sezioni": "3",
+"coll_uni_perv": "",
+"coll_uni": "",
+"sezioni_coll_uni_perv": "",
+"sk_bianche": "9",
+"sk_nulle": "37",
+"sk_contestate": "0",		
+"livello": "C",
+"note": [
+	{"testo": ""}
+	],
+"righe": [
+	{"tipo_riga": "CA", "cand_descr_riga": "BERNARDO MARINO NOTO NARDO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "528", "perc": "36,76", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "17"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11366-0.png", "descr_lista": "MOVIMENTO 5 STELLE", "link_cand_lista": "", "voti": "511", "perc": "36,47", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "CA", "cand_descr_riga": "GIUSEPPE FASOLINO", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "465", "perc": "32,38", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "7"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-1112-0.png", "descr_lista": "FORZA ITALIA", "link_cand_lista": "", "voti": "273", "perc": "19,48", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11367-0.png", "descr_lista": "LEGA", "link_cand_lista": "", "voti": "132", "perc": "9,42", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11434-0.png", "descr_lista": "FRATELLI D'ITALIA CON GIORGIA MELONI", "link_cand_lista": "", "voti": "47", "perc": "3,35", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11402-0.png", "descr_lista": "NOI CON L'ITALIA - UDC", "link_cand_lista": "", "voti": "6", "perc": "0,42", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "CA", "cand_descr_riga": "PAOLO BITTU", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "279", "perc": "19,42", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "4"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-3456-0.png", "descr_lista": "PARTITO DEMOCRATICO", "link_cand_lista": "", "voti": "225", "perc": "16,05", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11373-0.png", "descr_lista": "ITALIA EUROPA INSIEME", "link_cand_lista": "", "voti": "35", "perc": "2,49", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11403-0.png", "descr_lista": "+EUROPA", "link_cand_lista": "", "voti": "14", "perc": "0,99", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11412-0.png", "descr_lista": "CIVICA POPOLARE LORENZIN", "link_cand_lista": "", "voti": "1", "perc": "0,07", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "CA", "cand_descr_riga": "MARIA MULTINU NOTA MARIELLA", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "75", "perc": "5,22", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "2"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11408-0.png", "descr_lista": "AUTODETERMINATZIONE", "link_cand_lista": "", "voti": "73", "perc": "5,21", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "CA", "cand_descr_riga": "FRANCESCO DORE", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "35", "perc": "2,43", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "2"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11393-0.png", "descr_lista": "LIBERI E UGUALI", "link_cand_lista": "", "voti": "33", "perc": "2,35", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "CA", "cand_descr_riga": "UGO ROBERTO PASELLA", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "15", "perc": "1,04", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "0"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11003-0.png", "descr_lista": "CASAPOUND ITALIA", "link_cand_lista": "", "voti": "15", "perc": "1,07", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "CA", "cand_descr_riga": "TIZIANO MACCIONI", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "15", "perc": "1,04", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "1"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11277-0.png", "descr_lista": "IL POPOLO DELLA FAMIGLIA", "link_cand_lista": "", "voti": "14", "perc": "0,99", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "CA", "cand_descr_riga": "ANTONELLA CARRACOI", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "13", "perc": "0,90", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "1"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11023-0.png", "descr_lista": "PARTITO COMUNISTA", "link_cand_lista": "", "voti": "12", "perc": "0,85", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "CA", "cand_descr_riga": "ENZO GAMBA", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "10", "perc": "0,69", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "1"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11372-0.png", "descr_lista": "POTERE AL POPOLO!", "link_cand_lista": "", "voti": "9", "perc": "0,64", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "CA", "cand_descr_riga": "MARTA PALA", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "1", "perc": "0,06", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": "", "voti_cand": "0"},
+     {"tipo_riga": "LI", "cand_descr_riga": "", "img_lista": "24-20180304000000-11381-0.png", "descr_lista": "PARTITO VALORE UMANO", "link_cand_lista": "", "voti": "1", "perc": "0,07", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "XX", "cand_descr_riga": "", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "", "perc": "", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "TU", "cand_descr_riga": "Uninominale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "1.436", "perc": "100,00", "eletto": "", "perc_voti_liste": "", "cifra_el": "", "perc_cifra_el": "", "seggi": ""},
+	{"tipo_riga": "TP", "cand_descr_riga": "Proporzionale", "img_lista": "", "descr_lista": "", "link_cand_lista": "", "voti": "1.401", "perc": "100,00", "eletto": "", "perc_voti_liste": "100,00", "cifra_el": "", "perc_cifra_el": "", "seggi": ""}	
+	]				               
+ }	
+	

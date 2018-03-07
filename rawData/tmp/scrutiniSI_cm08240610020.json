@@ -1,0 +1,21 @@
+[
+  {
+    "assemblea": "scrutiniSI",
+    "codice": "08240610020",
+    "status": "ESERCIZIO",
+    "elettori": "3404",
+    "votanti": "2693",
+    "perc_votanti": "79,11",
+    "aggiornamento": "Dato aggiornato al 05/03/2018 - 03:30",
+    "sezioni_perv": "5",
+    "sezioni": "5",
+    "coll_uni_perv": "",
+    "coll_uni": "",
+    "sezioni_coll_uni_perv": "",
+    "sk_bianche": "41",
+    "sk_nulle": "83",
+    "sk_contestate": "0",
+    "livello": "C",
+    "fine_riparto": null
+  }
+]

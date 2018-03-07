@@ -5,12 +5,13 @@
         - [Anagrafica geografica](#anagrafica-geografica)
         - [Votanti](#votanti)
         - [Scrutini](#scrutini)
+- [Note](#note)
 
 <!-- /TOC -->
 
 ## Leggimi
 
-Degli script per scaricare i dati sulle elezioni politiche del 4 marzo 2018 in Italia.
+Degli script per scaricare i dati sulle elezioni politiche del 4 marzo 2018 in Italia e i dati stessi.
 
 ### Dati
 
@@ -38,7 +39,7 @@ Sotto un esempio della struttura gerarchica per la Camera.
 - votanti per Comune Senato > [votantiSIComuni.csv](./dati/votantiSIComuni.csv)
 - anagrafica con i codici delle province > [anagraficaProvince.csv](./dati/anagraficaProvince.csv)
 
-**NOTA BENE**: manca la sezione Estero e Valle D'Aosta
+**NOTA BENE**: manca la sezione Estero
 
 #### Scrutini
 
@@ -52,4 +53,10 @@ Sotto un esempio della struttura gerarchica per la Camera.
 - dati di riepilogo: [riepilogo.csv](./dati/riepilogo.csv)
 
 
-**NOTA BENE**: manca la sezione Estero e Valle D'Aosta
+**NOTA BENE**: manca la sezione Estero
+
+## Note
+
+- i numeri interi sono in origine riportati come stringhe con un inutile ed errato separatore delle migliaia. Ad esempio `"sk_bianche": "2.698"` doveva essere `"sk_bianche": 2698`;
+- i nomi dei candidati sono riportati come `Nome Cognome`, mentre nelle liste candidati di ["Elezioni trasparenti"](http://dait.interno.gov.it/elezioni/trasparenza) come `Cognome Nome`. Non essendoci un `ID candidato `è quindi impossibile fare JOIN;
+- 
