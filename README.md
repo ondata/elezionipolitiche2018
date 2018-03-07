@@ -1,6 +1,7 @@
 <!-- TOC -->
 
 - [Leggimi](#leggimi)
+    - [Script](#script)
     - [Dati](#dati)
         - [Anagrafica geografica](#anagrafica-geografica)
         - [Votanti](#votanti)
@@ -11,7 +12,16 @@
 
 ## Leggimi
 
-Degli script per scaricare i dati sulle elezioni politiche del 4 marzo 2018 in Italia e i dati stessi.
+Degli script per scaricare i dati sulle **elezioni** politiche del **4 marzo 2018** in **Italia** e i dati stessi.
+
+La fonte è [http://elezioni.interno.gov.it/eligendo](http://elezioni.interno.gov.it/eligendo).
+
+### Script
+
+Sono due script in bash:
+
+- [dwVotanti.sh](./dwVotanti.sh) per scaricare i dati sui votanti di questa tornata elettorale.
+- [dwScrutini.sh](./dwScrutini.sh) per scaricare i risultati di questa tornata elettorale.
 
 ### Dati
 
@@ -63,3 +73,8 @@ Sotto un esempio della struttura gerarchica per la Camera.
 - i codice dei collegi elettorarli di ISTAT e del Ministero degli Interni sono differenti (vedi [qui](https://forum.italia.it/t/sui-dati-dei-collegi-elettorali/2625));
 - alcuni candidati hanno il nome nel campo "voti_cand" (vedi [#9](https://github.com/ondata/elezionipolitiche2018/issues/9));
 - alcune liste hanno valori "NaN,00" per le percentuali di voto (vedi [#8](https://github.com/ondata/elezionipolitiche2018/issues/8));
+
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
