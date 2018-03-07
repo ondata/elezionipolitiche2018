@@ -21,7 +21,7 @@ Degli script per scaricare i dati sulle elezioni politiche del 4 marzo 2018 in I
 
 Sotto un esempio della struttura gerarchica per la Camera.
 
-**Nota Bene**: alla voce denominata "Comune" su Eligendo non corrispondono sempre in modo univoco dei comuni, ma per città grandi anche parte di essi (come `24120550510`, che non è il Comune di Palermo per intero, ma parte di esso).
+**Nota Bene**: alla voce denominata "Comune" su Eligendo non corrispondono sempre in modo univoco dei comuni, ma per città grandi anche parte di esse (come `24120550510`, che non è il Comune di Palermo per intero, ma una sua parte).
 
 | ID          | Nome                          | Livello gerarchico     | URI                                                                                                                                                            | 
 |-------------|-------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------| 
