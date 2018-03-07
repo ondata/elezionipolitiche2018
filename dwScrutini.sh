@@ -231,7 +231,7 @@ done
 jq -s add ./rawData/tmp/*.json >./riepilogo.json
 in2csv <./riepilogo.json -I -f json >./riepilogo.csv
 
-### eletetti ###
+### eletti ###
 <./dati/scrutiniCI_u.csv csvgrep -c "eletto" -r '^U$' | csvcut -c "codice,cand_descr_riga,voti,perc" >./dati/elettiCI_u.csv
 <./dati/scrutiniSI_u.csv csvgrep -c "eletto" -r '^U$' | csvcut -c "codice,cand_descr_riga,voti,perc" | sed 's/&Egrave;/È/g' >./dati/elettiSI_u.csv
 

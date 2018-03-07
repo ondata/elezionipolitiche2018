@@ -8,8 +8,8 @@
     "comuni": "17",
     "perc_ore12": "19,26",
     "perc_ore19": "53,23",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "67,30",
+    "percprec_ore23": "70,68"
   },
   {
     "provincia": "200170000",
@@ -20,8 +20,8 @@
     "comuni": "",
     "perc_ore12": "18,82",
     "perc_ore19": "53,60",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "67,38",
+    "percprec_ore23": "69,48"
   },
   {
     "provincia": "200170000",
@@ -32,8 +32,8 @@
     "comuni": "",
     "perc_ore12": "19,77",
     "perc_ore19": "54,88",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "68,14",
+    "percprec_ore23": "71,33"
   },
   {
     "provincia": "200170000",
@@ -44,8 +44,8 @@
     "comuni": "",
     "perc_ore12": "19,75",
     "perc_ore19": "53,12",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "66,67",
+    "percprec_ore23": "68,70"
   },
   {
     "provincia": "200170000",
@@ -56,8 +56,8 @@
     "comuni": "",
     "perc_ore12": "13,84",
     "perc_ore19": "42,46",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "60,90",
+    "percprec_ore23": "71,87"
   },
   {
     "provincia": "200170000",
@@ -68,8 +68,8 @@
     "comuni": "",
     "perc_ore12": "20,29",
     "perc_ore19": "57,23",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "71,18",
+    "percprec_ore23": "74,14"
   },
   {
     "provincia": "200170000",
@@ -80,8 +80,8 @@
     "comuni": "",
     "perc_ore12": "17,65",
     "perc_ore19": "49,03",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "66,30",
+    "percprec_ore23": "67,82"
   },
   {
     "provincia": "200170000",
@@ -92,8 +92,8 @@
     "comuni": "",
     "perc_ore12": "19,71",
     "perc_ore19": "54,96",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "68,85",
+    "percprec_ore23": "71,82"
   },
   {
     "provincia": "200170000",
@@ -104,8 +104,8 @@
     "comuni": "",
     "perc_ore12": "22,09",
     "perc_ore19": "56,18",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "65,42",
+    "percprec_ore23": "66,43"
   },
   {
     "provincia": "200170000",
@@ -116,8 +116,8 @@
     "comuni": "",
     "perc_ore12": "18,49",
     "perc_ore19": "51,06",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "65,13",
+    "percprec_ore23": "69,08"
   },
   {
     "provincia": "200170000",
@@ -128,8 +128,8 @@
     "comuni": "",
     "perc_ore12": "22,71",
     "perc_ore19": "54,83",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "66,98",
+    "percprec_ore23": "70,79"
   },
   {
     "provincia": "200170000",
@@ -140,8 +140,8 @@
     "comuni": "",
     "perc_ore12": "21,03",
     "perc_ore19": "56,12",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "65,44",
+    "percprec_ore23": "67,86"
   },
   {
     "provincia": "200170000",
@@ -152,8 +152,8 @@
     "comuni": "",
     "perc_ore12": "18,23",
     "perc_ore19": "51,23",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "69,65",
+    "percprec_ore23": "74,47"
   },
   {
     "provincia": "200170000",
@@ -164,8 +164,8 @@
     "comuni": "",
     "perc_ore12": "18,64",
     "perc_ore19": "51,95",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "67,22",
+    "percprec_ore23": "71,05"
   },
   {
     "provincia": "200170000",
@@ -176,8 +176,8 @@
     "comuni": "",
     "perc_ore12": "18,47",
     "perc_ore19": "54,18",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "67,16",
+    "percprec_ore23": "74,21"
   },
   {
     "provincia": "200170000",
@@ -188,8 +188,8 @@
     "comuni": "",
     "perc_ore12": "19,67",
     "perc_ore19": "53,65",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "68,36",
+    "percprec_ore23": "71,23"
   },
   {
     "provincia": "200170000",
@@ -200,8 +200,8 @@
     "comuni": "",
     "perc_ore12": "17,60",
     "perc_ore19": "48,28",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "64,40",
+    "percprec_ore23": "63,21"
   },
   {
     "provincia": "200170000",
@@ -212,7 +212,7 @@
     "comuni": "",
     "perc_ore12": "15,40",
     "perc_ore19": "51,22",
-    "perc_ore2": null,
-    "percprec_ore233": null
+    "perc_ore23": "66,40",
+    "percprec_ore23": "69,85"
   }
 ]

@@ -36,7 +36,7 @@ while read p; do
 		-H 'postman-token: ead779f5-6125-4c7a-a9d2-46213fe299da' \
 		-H 'referer: http://elezioni.interno.gov.it/camera/votanti/20180304/votantiCI'"$codice"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{provincia:("'"$codice"'" + "0000"),livello,ente,href,comuni_perv,comuni,perc_ore12,perc_ore19,perc_ore2,percprec_ore233}]' >./province/votantiCI"$codice".json
+		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{provincia:("'"$codice"'" + "0000"),livello,ente,href,comuni_perv,comuni,perc_ore12,perc_ore19,perc_ore23,percprec_ore23}]' >./province/votantiCI"$codice".json
 done <./tmp/campioneProvince.csv
 
 # scarico i dettagli sui votanti al Senato
@@ -53,7 +53,7 @@ while read p; do
 		-H 'postman-token: ead779f5-6125-4c7a-a9d2-46213fe299da' \
 		-H 'referer: http://elezioni.interno.gov.it/camera/votanti/20180304/votantiSI'"$codice"'' \
 		-H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36' \
-		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{provincia:("'"$codice"'" + "0000"),livello,ente,href,comuni_perv,comuni,perc_ore12,perc_ore19,perc_ore2,percprec_ore233}]' >./province/votantiSI"$codice".json
+		-H 'x-requested-with: XMLHttpRequest' | jq '[.righe[]|{provincia:("'"$codice"'" + "0000"),livello,ente,href,comuni_perv,comuni,perc_ore12,perc_ore19,perc_ore23,percprec_ore23}]' >./province/votantiSI"$codice".json
 done <./tmp/campioneProvince.csv
 
 # faccio il merge dei dati sui votanti alla Camera
