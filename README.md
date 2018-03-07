@@ -50,6 +50,7 @@ Sotto un esempio della struttura gerarchica per la Camera.
 - scrutini Senato per Circoscrizione: [scrutiniCI_c.csv](./dati/scrutiniSI_c.csv)
 - scrutini Senato per Collegio Plurinominale: [scrutiniSI_p.csv](./dati/scrutiniSI_p.csv)
 - scrutini Senato per Collegio Uninominale: [scrutiniSI_u.csv](./dati/scrutiniSI_u.csv)
+- scrutini Senato per Comune: [scrutiniSI_cm.csv](./dati/scrutiniSI_cm.csv)
 - dati di riepilogo: [riepilogo.csv](./dati/riepilogo.csv)
 
 
