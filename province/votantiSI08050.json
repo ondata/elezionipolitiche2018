@@ -1,0 +1,482 @@
+[
+  {
+    "provincia": "080500000",
+    "livello": "1",
+    "ente": "MODENA",
+    "href": "",
+    "comuni_perv": "47",
+    "comuni": "47",
+    "perc_ore23": "79,50",
+    "percprec_ore23": "82,82"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "BASTIGLIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "82,97",
+    "percprec_ore23": "85,20"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "BOMPORTO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,77",
+    "percprec_ore23": "82,77"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "CAMPOGALLIANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "82,43",
+    "percprec_ore23": "85,73"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "CAMPOSANTO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "82,05",
+    "percprec_ore23": "82,08"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "CARPI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,08",
+    "percprec_ore23": "84,23"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "CASTELFRANCO EMILIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,01",
+    "percprec_ore23": "83,93"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "CASTELNUOVO RANGONE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "82,74",
+    "percprec_ore23": "86,57"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "CASTELVETRO DI MODENA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,34",
+    "percprec_ore23": "83,64"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "CAVEZZO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,43",
+    "percprec_ore23": "83,94"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "CONCORDIA SULLA SECCHIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,15",
+    "percprec_ore23": "81,17"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "FANANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,25",
+    "percprec_ore23": "75,69"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "FINALE EMILIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,20",
+    "percprec_ore23": "79,39"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "FIORANO MODENESE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,46",
+    "percprec_ore23": "82,85"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "FIUMALBO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,62",
+    "percprec_ore23": "71,05"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "FORMIGINE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "82,00",
+    "percprec_ore23": "85,02"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "FRASSINORO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,66",
+    "percprec_ore23": "71,47"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "GUIGLIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,22",
+    "percprec_ore23": "78,81"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "LAMA MOCOGNO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,66",
+    "percprec_ore23": "73,98"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "MARANELLO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,03",
+    "percprec_ore23": "82,81"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "MARANO SUL PANARO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,24",
+    "percprec_ore23": "84,35"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "MEDOLLA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "83,02",
+    "percprec_ore23": "85,40"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "MIRANDOLA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,15",
+    "percprec_ore23": "81,82"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "MODENA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,68",
+    "percprec_ore23": "83,33"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "MONTECRETO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "72,13",
+    "percprec_ore23": "69,94"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "MONTEFIORINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,13",
+    "percprec_ore23": "73,69"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "MONTESE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,54",
+    "percprec_ore23": "75,43"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "NONANTOLA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,52",
+    "percprec_ore23": "85,19"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "NOVI DI MODENA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,43",
+    "percprec_ore23": "83,33"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "PALAGANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,57",
+    "percprec_ore23": "72,99"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "PAVULLO NEL FRIGNANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,14",
+    "percprec_ore23": "79,39"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "PIEVEPELAGO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,91",
+    "percprec_ore23": "70,35"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "POLINAGO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,43",
+    "percprec_ore23": "69,94"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "PRIGNANO SULLA SECCHIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,67",
+    "percprec_ore23": "82,04"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "RAVARINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,10",
+    "percprec_ore23": "85,26"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "RIOLUNATO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,23",
+    "percprec_ore23": "71,74"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "SAN CESARIO SUL PANARO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,68",
+    "percprec_ore23": "86,64"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "SAN FELICE SUL PANARO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,18",
+    "percprec_ore23": "81,17"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "SAN POSSIDONIO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,43",
+    "percprec_ore23": "82,11"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "SAN PROSPERO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,08",
+    "percprec_ore23": "81,16"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "SASSUOLO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,66",
+    "percprec_ore23": "81,15"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "SAVIGNANO SUL PANARO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,26",
+    "percprec_ore23": "84,78"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "SERRAMAZZONI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,15",
+    "percprec_ore23": "78,46"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "SESTOLA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,59",
+    "percprec_ore23": "74,57"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "SOLIERA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,85",
+    "percprec_ore23": "85,13"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "SPILAMBERTO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,18",
+    "percprec_ore23": "86,15"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "VIGNOLA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,25",
+    "percprec_ore23": "82,89"
+  },
+  {
+    "provincia": "080500000",
+    "livello": "2",
+    "ente": "ZOCCA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,89",
+    "percprec_ore23": "75,46"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "provincia": "090300000",
+    "livello": "1",
+    "ente": "FIRENZE",
+    "href": "",
+    "comuni_perv": "42",
+    "comuni": "42",
+    "perc_ore23": "79,51",
+    "percprec_ore23": "81,55"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "BAGNO A RIPOLI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "82,56",
+    "percprec_ore23": "84,63"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "BARBERINO DI MUGELLO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,88",
+    "percprec_ore23": "79,61"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "BARBERINO VAL D'ELSA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,75",
+    "percprec_ore23": "84,29"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "BORGO SAN LORENZO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,75",
+    "percprec_ore23": "82,75"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "CALENZANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,55",
+    "percprec_ore23": "83,44"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "CAMPI BISENZIO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,29",
+    "percprec_ore23": "79,90"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "CAPRAIA E LIMITE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,07",
+    "percprec_ore23": "83,47"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "CASTELFIORENTINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,66",
+    "percprec_ore23": "82,50"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "CERRETO GUIDI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,64",
+    "percprec_ore23": "83,72"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "CERTALDO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,76",
+    "percprec_ore23": "83,13"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "DICOMANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,99",
+    "percprec_ore23": "81,17"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "EMPOLI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,11",
+    "percprec_ore23": "83,08"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "FIESOLE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,62",
+    "percprec_ore23": "83,93"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "FIGLINE E INCISA VALDARNO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,03",
+    "percprec_ore23": "-"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "FIRENZE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,29",
+    "percprec_ore23": "79,98"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "FIRENZUOLA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,43",
+    "percprec_ore23": "71,53"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "FUCECCHIO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,23",
+    "percprec_ore23": "80,28"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "GAMBASSI TERME",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,24",
+    "percprec_ore23": "83,21"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "GREVE IN CHIANTI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,94",
+    "percprec_ore23": "81,60"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "IMPRUNETA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "82,17",
+    "percprec_ore23": "84,37"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "LASTRA A SIGNA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,55",
+    "percprec_ore23": "81,44"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "LONDA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,55",
+    "percprec_ore23": "79,84"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "MARRADI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,29",
+    "percprec_ore23": "78,21"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "MONTAIONE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,18",
+    "percprec_ore23": "80,91"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "MONTELUPO FIORENTINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,04",
+    "percprec_ore23": "84,71"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "MONTESPERTOLI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,51",
+    "percprec_ore23": "82,21"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "PALAZZUOLO SUL SENIO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "72,08",
+    "percprec_ore23": "73,31"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "PELAGO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,44",
+    "percprec_ore23": "83,93"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "PONTASSIEVE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,89",
+    "percprec_ore23": "84,90"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "REGGELLO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,03",
+    "percprec_ore23": "83,51"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "RIGNANO SULL'ARNO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "82,94",
+    "percprec_ore23": "83,26"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "RUFINA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,10",
+    "percprec_ore23": "82,53"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "SAN CASCIANO IN VAL DI PESA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,52",
+    "percprec_ore23": "82,95"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "SAN GODENZO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,97",
+    "percprec_ore23": "79,10"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "SCANDICCI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,83",
+    "percprec_ore23": "82,65"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "SCARPERIA E SAN PIERO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,42",
+    "percprec_ore23": "-"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "SESTO FIORENTINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,30",
+    "percprec_ore23": "83,94"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "SIGNA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,12",
+    "percprec_ore23": "79,72"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "TAVARNELLE VAL DI PESA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,64",
+    "percprec_ore23": "81,34"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "VAGLIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,17",
+    "percprec_ore23": "80,62"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "VICCHIO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,61",
+    "percprec_ore23": "81,95"
+  },
+  {
+    "provincia": "090300000",
+    "livello": "2",
+    "ente": "VINCI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "81,16",
+    "percprec_ore23": "83,73"
+  }
+]

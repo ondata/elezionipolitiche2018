@@ -1,0 +1,642 @@
+[
+  {
+    "provincia": "050100000",
+    "livello": "1",
+    "ente": "BELLUNO",
+    "href": "",
+    "comuni_perv": "63",
+    "comuni": "63",
+    "perc_ore23": "74,28",
+    "percprec_ore23": "73,17"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "AGORDO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,84",
+    "percprec_ore23": "69,37"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "ALANO DI PIAVE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,54",
+    "percprec_ore23": "77,50"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "ALLEGHE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "71,68",
+    "percprec_ore23": "64,54"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "ALPAGO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,22",
+    "percprec_ore23": "-"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "ARSIE'",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,92",
+    "percprec_ore23": "76,28"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "AURONZO DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,00",
+    "percprec_ore23": "69,20"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "BELLUNO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,92",
+    "percprec_ore23": "76,37"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "BORCA DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,18",
+    "percprec_ore23": "64,02"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "CALALZO DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,85",
+    "percprec_ore23": "76,54"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "CANALE D'AGORDO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,11",
+    "percprec_ore23": "68,36"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "CENCENIGHE AGORDINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "68,16",
+    "percprec_ore23": "62,42"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "CESIOMAGGIORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,60",
+    "percprec_ore23": "74,15"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "CHIES D'ALPAGO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,86",
+    "percprec_ore23": "73,07"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "CIBIANA DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "66,66",
+    "percprec_ore23": "57,78"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "COLLE SANTA LUCIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "59,71",
+    "percprec_ore23": "59,46"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "COMELICO SUPERIORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,17",
+    "percprec_ore23": "67,66"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "CORTINA D'AMPEZZO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,40",
+    "percprec_ore23": "72,46"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "DANTA DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "59,89",
+    "percprec_ore23": "49,74"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "DOMEGGE DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,61",
+    "percprec_ore23": "68,86"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "FALCADE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "72,19",
+    "percprec_ore23": "66,64"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "FELTRE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,84",
+    "percprec_ore23": "76,72"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "FONZASO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,44",
+    "percprec_ore23": "72,56"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "GOSALDO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "69,69",
+    "percprec_ore23": "65,94"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "LA VALLE AGORDINA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "69,72",
+    "percprec_ore23": "68,48"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "LAMON",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "69,85",
+    "percprec_ore23": "69,80"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "LENTIAI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,88",
+    "percprec_ore23": "77,62"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "LIMANA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,02",
+    "percprec_ore23": "76,29"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "LIVINALLONGO DEL COL DI LANA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "62,47",
+    "percprec_ore23": "53,72"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "LONGARONE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "71,75",
+    "percprec_ore23": "-"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "LORENZAGO DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,67",
+    "percprec_ore23": "66,14"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "LOZZO DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,70",
+    "percprec_ore23": "66,76"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "MEL",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,29",
+    "percprec_ore23": "74,69"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "OSPITALE DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,36",
+    "percprec_ore23": "73,39"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "PEDAVENA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,99",
+    "percprec_ore23": "73,86"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "PERAROLO DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,90",
+    "percprec_ore23": "74,50"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "PIEVE DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,90",
+    "percprec_ore23": "68,51"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "PONTE NELLE ALPI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,92",
+    "percprec_ore23": "78,27"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "QUERO VAS",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,72",
+    "percprec_ore23": "-"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "RIVAMONTE AGORDINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,66",
+    "percprec_ore23": "66,40"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "ROCCA PIETORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "68,00",
+    "percprec_ore23": "62,32"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SAN GREGORIO NELLE ALPI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,89",
+    "percprec_ore23": "77,28"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SAN NICOLO' DI COMELICO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,74",
+    "percprec_ore23": "69,23"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SAN PIETRO DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "68,81",
+    "percprec_ore23": "60,70"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SAN TOMASO AGORDINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "62,54",
+    "percprec_ore23": "52,67"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SAN VITO DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,55",
+    "percprec_ore23": "71,22"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SANTA GIUSTINA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,75",
+    "percprec_ore23": "77,99"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SANTO STEFANO DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "71,09",
+    "percprec_ore23": "61,92"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SEDICO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,30",
+    "percprec_ore23": "76,94"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SELVA DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "61,67",
+    "percprec_ore23": "51,88"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SEREN DEL GRAPPA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,16",
+    "percprec_ore23": "72,97"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SOSPIROLO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "72,96",
+    "percprec_ore23": "73,10"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SOVERZENE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "83,82",
+    "percprec_ore23": "83,92"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "SOVRAMONTE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "71,54",
+    "percprec_ore23": "73,36"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "TAIBON AGORDINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,13",
+    "percprec_ore23": "67,48"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "TAMBRE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,34",
+    "percprec_ore23": "67,93"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "TRICHIANA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,98",
+    "percprec_ore23": "77,68"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "VAL DI ZOLDO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "57,49",
+    "percprec_ore23": "-"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "VALLADA AGORDINA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,00",
+    "percprec_ore23": "69,28"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "VALLE DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,01",
+    "percprec_ore23": "63,62"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "VIGO DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,42",
+    "percprec_ore23": "60,11"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "VODO CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,50",
+    "percprec_ore23": "66,86"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "VOLTAGO AGORDINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,16",
+    "percprec_ore23": "64,46"
+  },
+  {
+    "provincia": "050100000",
+    "livello": "2",
+    "ente": "ZOPPE' DI CADORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "59,77",
+    "percprec_ore23": "57,74"
+  }
+]

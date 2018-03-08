@@ -1,0 +1,342 @@
+[
+  {
+    "provincia": "100800000",
+    "livello": "1",
+    "ente": "TERNI",
+    "href": "",
+    "comuni_perv": "33",
+    "comuni": "33",
+    "perc_ore23": "76,58",
+    "percprec_ore23": "77,54"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "ACQUASPARTA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,66",
+    "percprec_ore23": "76,73"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "ALLERONA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,80",
+    "percprec_ore23": "79,65"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "ALVIANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,38",
+    "percprec_ore23": "78,61"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "AMELIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,05",
+    "percprec_ore23": "78,59"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "ARRONE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,14",
+    "percprec_ore23": "76,69"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "ATTIGLIANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,59",
+    "percprec_ore23": "82,04"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "AVIGLIANO UMBRO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,93",
+    "percprec_ore23": "78,30"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "BASCHI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,13",
+    "percprec_ore23": "78,33"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "CALVI DELL'UMBRIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,96",
+    "percprec_ore23": "73,83"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "CASTEL GIORGIO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,99",
+    "percprec_ore23": "74,72"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "CASTEL VISCARDO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,56",
+    "percprec_ore23": "77,90"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "FABRO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,53",
+    "percprec_ore23": "76,33"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "FERENTILLO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,94",
+    "percprec_ore23": "74,52"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "FICULLE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,19",
+    "percprec_ore23": "78,00"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "GIOVE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,02",
+    "percprec_ore23": "79,86"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "GUARDEA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,57",
+    "percprec_ore23": "74,92"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "LUGNANO IN TEVERINA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,98",
+    "percprec_ore23": "77,35"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "MONTECASTRILLI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,92",
+    "percprec_ore23": "79,11"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "MONTECCHIO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,95",
+    "percprec_ore23": "74,94"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "MONTEFRANCO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,95",
+    "percprec_ore23": "78,27"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "MONTEGABBIONE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,39",
+    "percprec_ore23": "77,12"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "MONTELEONE D'ORVIETO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,30",
+    "percprec_ore23": "78,50"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "NARNI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,05",
+    "percprec_ore23": "78,59"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "ORVIETO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,85",
+    "percprec_ore23": "80,26"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "OTRICOLI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,21",
+    "percprec_ore23": "75,72"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "PARRANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,94",
+    "percprec_ore23": "72,66"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "PENNA IN TEVERINA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,28",
+    "percprec_ore23": "78,38"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "POLINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,43",
+    "percprec_ore23": "73,05"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "PORANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,82",
+    "percprec_ore23": "82,06"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "SAN GEMINI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,30",
+    "percprec_ore23": "78,52"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "SAN VENANZO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "83,33",
+    "percprec_ore23": "82,59"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "STRONCONE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,11",
+    "percprec_ore23": "75,89"
+  },
+  {
+    "provincia": "100800000",
+    "livello": "2",
+    "ente": "TERNI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,44",
+    "percprec_ore23": "76,66"
+  }
+]

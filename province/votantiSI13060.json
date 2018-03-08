@@ -1,0 +1,472 @@
+[
+  {
+    "provincia": "130600000",
+    "livello": "1",
+    "ente": "PESCARA",
+    "href": "",
+    "comuni_perv": "46",
+    "comuni": "46",
+    "perc_ore23": "75,49",
+    "percprec_ore23": "75,56"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "ABBATEGGIO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,67",
+    "percprec_ore23": "70,80"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "ALANNO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,24",
+    "percprec_ore23": "74,70"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "BOLOGNANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,95",
+    "percprec_ore23": "76,26"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "BRITTOLI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "67,38",
+    "percprec_ore23": "77,90"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "BUSSI SUL TIRINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,85",
+    "percprec_ore23": "79,40"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CAPPELLE SUL TAVO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,08",
+    "percprec_ore23": "74,30"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CARAMANICO TERME",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "72,57",
+    "percprec_ore23": "70,00"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CARPINETO DELLA NORA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,98",
+    "percprec_ore23": "73,34"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CASTIGLIONE A CASAURIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,16",
+    "percprec_ore23": "68,57"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CATIGNANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,31",
+    "percprec_ore23": "79,48"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CEPAGATTI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,63",
+    "percprec_ore23": "78,95"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CITTA' SANT'ANGELO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,52",
+    "percprec_ore23": "79,10"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CIVITAQUANA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "71,50",
+    "percprec_ore23": "71,76"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CIVITELLA CASANOVA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "69,58",
+    "percprec_ore23": "68,45"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "COLLECORVINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "72,82",
+    "percprec_ore23": "75,50"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CORVARA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "68,68",
+    "percprec_ore23": "65,25"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "CUGNOLI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,31",
+    "percprec_ore23": "74,26"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "ELICE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,36",
+    "percprec_ore23": "74,32"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "FARINDOLA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,21",
+    "percprec_ore23": "66,82"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "LETTOMANOPPELLO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,62",
+    "percprec_ore23": "74,50"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "LORETO APRUTINO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,46",
+    "percprec_ore23": "77,72"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "MANOPPELLO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,47",
+    "percprec_ore23": "76,53"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "MONTEBELLO DI BERTONA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,80",
+    "percprec_ore23": "76,96"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "MONTESILVANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "73,63",
+    "percprec_ore23": "73,87"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "MOSCUFO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,54",
+    "percprec_ore23": "78,07"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "NOCCIANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "74,83",
+    "percprec_ore23": "73,89"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "PENNE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,79",
+    "percprec_ore23": "77,88"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "PESCARA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,08",
+    "percprec_ore23": "75,29"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "PESCOSANSONESCO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "71,27",
+    "percprec_ore23": "72,77"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "PIANELLA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,44",
+    "percprec_ore23": "78,24"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "PICCIANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,78",
+    "percprec_ore23": "76,93"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "PIETRANICO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "72,13",
+    "percprec_ore23": "75,00"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "POPOLI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,29",
+    "percprec_ore23": "77,21"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "ROCCAMORICE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "60,52",
+    "percprec_ore23": "57,88"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "ROSCIANO",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,52",
+    "percprec_ore23": "81,12"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "SALLE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,15",
+    "percprec_ore23": "76,92"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "SAN VALENTINO IN ABRUZZO CITERIORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "76,65",
+    "percprec_ore23": "77,34"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "SANT'EUFEMIA A MAIELLA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "65,68",
+    "percprec_ore23": "70,99"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "SCAFA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "79,38",
+    "percprec_ore23": "62,44"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "SERRAMONACESCA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "70,66",
+    "percprec_ore23": "74,15"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "SPOLTORE",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,07",
+    "percprec_ore23": "78,09"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "TOCCO DA CASAURIA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "80,05",
+    "percprec_ore23": "78,66"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "TORRE DE' PASSERI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "78,32",
+    "percprec_ore23": "78,35"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "TURRIVALIGNANI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "77,91",
+    "percprec_ore23": "77,89"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "VICOLI",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "72,13",
+    "percprec_ore23": "69,00"
+  },
+  {
+    "provincia": "130600000",
+    "livello": "2",
+    "ente": "VILLA CELIERA",
+    "href": "",
+    "comuni_perv": "",
+    "comuni": "",
+    "perc_ore23": "75,61",
+    "percprec_ore23": "68,63"
+  }
+]
