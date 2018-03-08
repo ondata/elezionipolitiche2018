@@ -3,6 +3,7 @@
 - [Leggimi](#leggimi)
     - [Script](#script)
     - [Dati](#dati)
+        - [Anagrafica codici Comuni, Ministero vs ISTAT](#anagrafica-codici-comuni-ministero-vs-istat)
         - [Anagrafica geografica](#anagrafica-geografica)
         - [Votanti](#votanti)
         - [Scrutini](#scrutini)
@@ -33,6 +34,9 @@ Tutti i CSV elencati a seguire utilizzano come separatore la `,` e l'*encoding* 
   - estraiamo i dettagli (un [esempio](https://github.com/ondata/elezionipolitiche2018/blob/master/scrutini/scrutiniCI_c01000000000.json));
   - mettiamo insieme i file con i dettagli per creare  alcuni dei file di insieme indicati sotti.
 
+#### Anagrafica codici Comuni, Ministero vs ISTAT
+
+  - [comuniViminaleISTAT.csv](./risorse/comuniViminaleISTAT.csv), una tabella che mette in relazione i codici assegnati dal Ministero dell'Interno ai codici comunali di ISTAT.
 #### Anagrafica geografica
 
 - per la Camera: [camera_geopolitico_italia.csv](./dati/camera_geopolitico_italia.csv)
