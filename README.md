@@ -92,7 +92,6 @@ Sotto un esempio della struttura gerarchica per la Camera.
 
 Una raccolta di post che hanno a che fare con questi dati:
 
-- Le mappe [Giuseppe Sollazzo](https://twitter.com/puntofisso) ha fatto qualche mappa diversa da quelle che si vedono in giro [https://twitter.com/puntofisso/status/971066648395505667](https://twitter.com/puntofisso/status/971066648395505667).
 - "Politica e immigrazione: scopri i comuni colpiti dall’effetto Brexit" di [Riccardo Saporiti](https://twitter.com/sapomnia), [http://www.infodata.ilsole24ore.com/2018/03/09/politica-immigrazione-scopri-comuni-colpiti-dalleffetto-brexit/](http://www.infodata.ilsole24ore.com/2018/03/09/politica-immigrazione-scopri-comuni-colpiti-dalleffetto-brexit/)
 - "the 4 italies" di [Filippo Mastroianni](https://twitter.com/FilMastroianni),  [https://public.tableau.com/profile/filippo.mastroianni#!/vizhome/TheFourItaliesItalyaftertheElection2018/The4Italies](https://public.tableau.com/profile/filippo.mastroianni#!/vizhome/TheFourItaliesItalyaftertheElection2018/The4Italies)
 - "Elezioni 2018: mappe e grafici prima, durante e dopo il voto" di [Marianna Bruschi](https://twitter.com/MariannaBruschi), [https://medium.com/@MariannaBruschi/elezioni-2018-mappe-e-grafici-prima-durante-e-dopo-il-voto-143fd02e6db2](https://medium.com/@MariannaBruschi/elezioni-2018-mappe-e-grafici-prima-durante-e-dopo-il-voto-143fd02e6db2)
