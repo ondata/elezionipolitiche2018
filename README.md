@@ -86,7 +86,8 @@ Sotto un esempio della struttura gerarchica per la Camera.
 - i codice dei collegi elettorarli di ISTAT e del Ministero degli Interni sono differenti (vedi [qui](https://forum.italia.it/t/sui-dati-dei-collegi-elettorali/2625));
 - alcuni candidati hanno il nome nel campo "voti_cand" (vedi [#9](https://github.com/ondata/elezionipolitiche2018/issues/9));
 - alcune liste hanno valori "NaN,00" per le percentuali di voto (vedi [#8](https://github.com/ondata/elezionipolitiche2018/issues/8));
-- ci sono comuni con una percentuale di votanti superiore al 100% (vedi [#11](https://github.com/ondata/elezionipolitiche2018/issues/11))
+- ci sono comuni con una percentuale di votanti superiore al 100% (vedi [#11](https://github.com/ondata/elezionipolitiche2018/issues/11));
+- i dati originali non hanno alcun identificativo (vedi [#12](https://github.com/ondata/elezionipolitiche2018/issues/12)).
 
 ## Sitografia
 
