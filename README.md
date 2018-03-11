@@ -83,8 +83,8 @@ Sotto un esempio della struttura gerarchica per la Camera.
 
 - i numeri interi sono in origine riportati come stringhe con un inutile ed errato separatore delle migliaia. Ad esempio `"sk_bianche": "2.698"` doveva essere `"sk_bianche": 2698`;
 - i nomi dei candidati sono riportati come `Nome Cognome`, mentre nelle liste candidati di ["Elezioni trasparenti"](http://dait.interno.gov.it/elezioni/trasparenza) come `Cognome Nome`. Non essendoci un `ID candidato `è quindi impossibile fare JOIN (a meno di non riorganizzare complessivamente i dati);
-- i codice dei collegi elettorarli di ISTAT e del Ministero degli Interni sono differenti (vedi [qui](https://forum.italia.it/t/sui-dati-dei-collegi-elettorali/2625));
-- alcuni candidati hanno il nome nel campo "voti_cand" (vedi [#9](https://github.com/ondata/elezionipolitiche2018/issues/9));
+- i codici dei collegi elettorali di ISTAT sono differenti da quelli utilizzati dal Ministero degli Interni  (vedi [qui](https://forum.italia.it/t/sui-dati-dei-collegi-elettorali/2625));
+- alcuni candidati hanno il loro nome all'interno del campo "voti_cand" (vedi [#9](https://github.com/ondata/elezionipolitiche2018/issues/9));
 - alcune liste hanno valori "NaN,00" per le percentuali di voto (vedi [#8](https://github.com/ondata/elezionipolitiche2018/issues/8));
 - ci sono comuni con una percentuale di votanti superiore al 100% (vedi [#11](https://github.com/ondata/elezionipolitiche2018/issues/11));
 - i dati originali non hanno alcun identificativo (vedi [#12](https://github.com/ondata/elezionipolitiche2018/issues/12)).
