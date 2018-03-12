@@ -97,7 +97,8 @@ Una raccolta di post che hanno a che fare con questi dati:
 - "the 4 italies" di [Filippo Mastroianni](https://twitter.com/FilMastroianni),  [https://public.tableau.com/profile/filippo.mastroianni#!/vizhome/TheFourItaliesItalyaftertheElection2018/The4Italies](https://public.tableau.com/profile/filippo.mastroianni#!/vizhome/TheFourItaliesItalyaftertheElection2018/The4Italies)
 - "Elezioni 2018: mappe e grafici prima, durante e dopo il voto" di [Marianna Bruschi](https://twitter.com/MariannaBruschi), [https://medium.com/@MariannaBruschi/elezioni-2018-mappe-e-grafici-prima-durante-e-dopo-il-voto-143fd02e6db2](https://medium.com/@MariannaBruschi/elezioni-2018-mappe-e-grafici-prima-durante-e-dopo-il-voto-143fd02e6db2)
 - "Le vere mappe delle Elezioni Italiane" di [Giuseppe Sollazzo](https://twitter.com/puntofisso) [https://medium.com/@puntofisso/le-vere-mappe-delle-elezione-italiane-a0cb89d27d9e](https://medium.com/@puntofisso/le-vere-mappe-delle-elezione-italiane-a0cb89d27d9e)
-- "Elezioni e vaccini, il voto NoVax non esiste" di  [Riccardo Saporiti](https://twitter.com/sapomnia), [https://www.wired.it/attualita/politica/2018/03/08/elezioni-vaccini-voto-novax/](https://www.wired.it/attualita/politica/2018/03/08/elezioni-vaccini-voto-novax/)
+- "Elezioni e vaccini, il voto NoVax non esiste" di  [Riccardo Saporiti](https://twitter.com/sapomnia), [https://www.wired.it/attualita/politica/2018/03/08/elezioni-vaccini-voto-novax/](https://www.wired.it/attualita/politica/2018/03/08/elezioni-vaccini-voto-novax/);
+- "Italia, i quattro volti e i quattro colori post elezioni" di [Filippo Mastroianni](https://twitter.com/FilMastroianni), [http://www.infodata.ilsole24ore.com/2018/03/12/italia-quattro-volti-quattro-colori-post-elezioni/](http://www.infodata.ilsole24ore.com/2018/03/12/italia-quattro-volti-quattro-colori-post-elezioni/)
 
 ---
 
