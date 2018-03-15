@@ -101,7 +101,8 @@ Una raccolta di post che hanno a che fare con questi dati:
 - "Italia, i quattro volti e i quattro colori post elezioni" di [Filippo Mastroianni](https://twitter.com/FilMastroianni), [http://www.infodata.ilsole24ore.com/2018/03/12/italia-quattro-volti-quattro-colori-post-elezioni/](http://www.infodata.ilsole24ore.com/2018/03/12/italia-quattro-volti-quattro-colori-post-elezioni/);
 - "Non è (solo) la disoccupazione giovanile ad aver spinto il M5S" di [Riccardo Saporiti](https://twitter.com/sapomnia), [http://www.infodata.ilsole24ore.com/2018/03/13/non-solo-la-disoccupazione-giovanile-ad-aver-spinto-m5s/](http://www.infodata.ilsole24ore.com/2018/03/13/non-solo-la-disoccupazione-giovanile-ad-aver-spinto-m5s/)
 - "Elezioni politiche 2018" di [Guenter Richter](https://twitter.com/grichter), [http://exp.ixmaps.com.s3-website-eu-west-1.amazonaws.com/ixmaps/app/Elezioni%202018/index_2018_maps.html](http://exp.ixmaps.com.s3-website-eu-west-1.amazonaws.com/ixmaps/app/Elezioni%202018/index_2018_maps.html);
-- "La sicurezza fa vincere le elezioni? Sì, ma solo se i reati sono in calo" di [Riccardo Saporiti](https://twitter.com/sapomnia), [http://www.infodata.ilsole24ore.com/2018/03/15/la-sicurezza-vincere-le-elezioni-si-solo-reati-calo/](http://www.infodata.ilsole24ore.com/2018/03/15/la-sicurezza-vincere-le-elezioni-si-solo-reati-calo/)
+- "La sicurezza fa vincere le elezioni? Sì, ma solo se i reati sono in calo" di [Riccardo Saporiti](https://twitter.com/sapomnia), [http://www.infodata.ilsole24ore.com/2018/03/15/la-sicurezza-vincere-le-elezioni-si-solo-reati-calo/](http://www.infodata.ilsole24ore.com/2018/03/15/la-sicurezza-vincere-le-elezioni-si-solo-reati-calo/);
+- "Analisi post-voto: il caso Lombardia" di [Filippo Mastroianni](https://twitter.com/FilMastroianni), [http://www.infodata.ilsole24ore.com/2018/03/15/analisi-post-voto-caso-lombardia/](http://www.infodata.ilsole24ore.com/2018/03/15/analisi-post-voto-caso-lombardia/)
 
 ---
 
