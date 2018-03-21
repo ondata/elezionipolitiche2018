@@ -104,6 +104,7 @@ Una raccolta di post che hanno a che fare con questi dati:
 - "La sicurezza fa vincere le elezioni? Sì, ma solo se i reati sono in calo" di [Riccardo Saporiti](https://twitter.com/sapomnia), [http://www.infodata.ilsole24ore.com/2018/03/15/la-sicurezza-vincere-le-elezioni-si-solo-reati-calo/](http://www.infodata.ilsole24ore.com/2018/03/15/la-sicurezza-vincere-le-elezioni-si-solo-reati-calo/);
 - "Analisi post-voto: il caso Lombardia" di [Filippo Mastroianni](https://twitter.com/FilMastroianni), [http://www.infodata.ilsole24ore.com/2018/03/15/analisi-post-voto-caso-lombardia/](http://www.infodata.ilsole24ore.com/2018/03/15/analisi-post-voto-caso-lombardia/)
 - "Il voto degli italiani da una prospettiva diversa" un tweet di [Nicola Cortesi](https://twitter.com/CortesiNicola), [https://twitter.com/CortesiNicola/status/976403063694032896](https://twitter.com/CortesiNicola/status/976403063694032896)
+- "LE VERE MAPPE DELLE ELEZIONI ITALIANE: l'Open Data e il Data Journalism" videointervista di [Leonardo Vannucci](https://www.youtube.com/channel/UCwjVCzS-msUI27VXwihp2Qw) a [Giuseppe Sollazzo](https://twitter.com/puntofisso) [https://www.youtube.com/watch?v=WouWBifvbPk&feature=youtu.be&t=996](https://www.youtube.com/watch?v=WouWBifvbPk&feature=youtu.be&t=996)
 
 ---
 
