@@ -103,6 +103,7 @@ Una raccolta di post che hanno a che fare con questi dati:
 - "Elezioni politiche 2018" di [Guenter Richter](https://twitter.com/grichter), [http://exp.ixmaps.com.s3-website-eu-west-1.amazonaws.com/ixmaps/app/Elezioni%202018/index_2018_maps.html](http://exp.ixmaps.com.s3-website-eu-west-1.amazonaws.com/ixmaps/app/Elezioni%202018/index_2018_maps.html);
 - "La sicurezza fa vincere le elezioni? Sì, ma solo se i reati sono in calo" di [Riccardo Saporiti](https://twitter.com/sapomnia), [http://www.infodata.ilsole24ore.com/2018/03/15/la-sicurezza-vincere-le-elezioni-si-solo-reati-calo/](http://www.infodata.ilsole24ore.com/2018/03/15/la-sicurezza-vincere-le-elezioni-si-solo-reati-calo/);
 - "Analisi post-voto: il caso Lombardia" di [Filippo Mastroianni](https://twitter.com/FilMastroianni), [http://www.infodata.ilsole24ore.com/2018/03/15/analisi-post-voto-caso-lombardia/](http://www.infodata.ilsole24ore.com/2018/03/15/analisi-post-voto-caso-lombardia/)
+- "Il voto degli italiani da una prospettiva diversa" un tweet di [Nicola Cortesi](https://twitter.com/CortesiNicola), [https://twitter.com/CortesiNicola/status/976403063694032896](https://twitter.com/CortesiNicola/status/976403063694032896)
 
 ---
 
