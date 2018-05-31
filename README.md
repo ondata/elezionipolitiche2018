@@ -106,6 +106,7 @@ Una raccolta di post che hanno a che fare con questi dati:
 - "Il voto degli italiani da una prospettiva diversa" un tweet di [Nicola Cortesi](https://twitter.com/CortesiNicola), [https://twitter.com/CortesiNicola/status/976403063694032896](https://twitter.com/CortesiNicola/status/976403063694032896)
 - "LE VERE MAPPE DELLE ELEZIONI ITALIANE: l'Open Data e il Data Journalism" videointervista di [Leonardo Vannucci](https://www.youtube.com/channel/UCwjVCzS-msUI27VXwihp2Qw) a [Giuseppe Sollazzo](https://twitter.com/puntofisso) [https://www.youtube.com/watch?v=WouWBifvbPk](https://www.youtube.com/watch?v=WouWBifvbPk&feature=youtu.be&t=996)
 - "Guadagni e anomalie del 2 per mille: al Pd quasi 8 milioni di euro" di [Valerio Berra](https://twitter.com/Valerio_Berra), [http://www.lettera43.it/it/articoli/economia/2018/04/26/partiti-2xmille-2-x-mille-guadagni-pd/219671/](http://www.lettera43.it/it/articoli/economia/2018/04/26/partiti-2xmille-2-x-mille-guadagni-pd/219671/)
+- "Voto ai partiti, lavoro e titolo di studio. Proviamo a unire i puntini" di [Davide J. Mancino](https://twitter.com/davidemancino1), [http://www.infodata.ilsole24ore.com/2018/05/30/voto-ai-partiti-lavoro-titolo-studio-proviamo-unire-puntini/?refresh_ce=1](http://www.infodata.ilsole24ore.com/2018/05/30/voto-ai-partiti-lavoro-titolo-studio-proviamo-unire-puntini/?refresh_ce=1)
 
 ---
 
